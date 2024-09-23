@@ -1,7 +1,7 @@
 ---
 title: Microsoft to Implement Significant Security Enhancements Following Severe Criticism - Insights From ZDNet
-date: 2024-09-19 21:53:29
-updated: 2024-09-20 12:10:54
+date: 2024-09-18T16:05:38.006Z
+updated: 2024-09-23T16:56:04.952Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>[New] 2024 Approved Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-download-premium-video-covers-free-fast-and-easy/"><u>[New] In 2024, Download Premium Video Covers - Free, Fast & Easy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/city-escapes-unveiled-the-must-see-attractions-of-sydney-rome-and-barcelona/"><u>City Escapes Unveiled: The Must-See Attractions of Sydney, Rome, and Barcelona</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-digital-advanced-tips-from-toms-tech-corner/"><u>Dive Into Digital: Advanced Tips From Tom's Tech Corner</u></a></li>
+<li><a href="https://win-premium.techidaily.com/free-online-rmvb-to-mp4-converter-quick-and-easy-video-format-change-with-movavi/"><u>Free Online RMVB to MP4 Converter - Quick and Easy Video Format Change with Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974480901-get-your-hands-on-professional-behringer-driver-packs-free-download/"><u>Get Your Hands on Professional Behringer Driver Packs - Free Download!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-lava-yuva-3-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Lava Yuva 3 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-tecno-phantom-v-fold-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Phantom V Fold Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mov-file-conversion-da-aiff-a-gratuito-on-line-come-usare-il-servizio-di-convertitore-vidio-fast-e-affidabile/"><u>MOV File Conversion Da AIFF a Gratuito On-Line: Come Usare Il Servizio Di Convertitore Vidio Fast E Affidabile</u></a></li>
+<li><a href="https://win-premium.techidaily.com/movavi-tiff/"><u>Movavi를 사용한 자이로나에서 TIFF 전환 무료 스테이징 – 제안해 주세요!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/perfectionnement-dimages-sur-macos-via-le-logiciel-editeur-photo-movavi-guide-complet-au-montage-et-a-la-retouche/"><u>Perfectionnement D'images Sur macOS via Le Logiciel Éditeur Photo Movavi - Guide Complet Au Montage Et À La Retouche</u></a></li>
+<li><a href="https://win-premium.techidaily.com/transformation-libre-de-fichiers-opus-en-wav-sur-internet-outil-gratuit-chez-movavi/"><u>Transformation Libre De Fichiers OPUS en WAV Sur Internet - Outil Gratuit Chez Movavi</u></a></li>
+</ul></div>
+

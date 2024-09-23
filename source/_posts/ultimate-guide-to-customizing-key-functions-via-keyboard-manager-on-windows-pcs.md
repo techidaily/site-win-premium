@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Customizing Key Functions via Keyboard Manager on Windows PCs
-date: 2024-09-18 23:54:42
-updated: 2024-09-20 11:16:32
+date: 2024-09-20T16:40:09.143Z
+updated: 2024-09-23T16:39:41.848Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-finest-cams-to-document-snow-sports/"><u>[New] 2024 Approved The Finest Cams to Document Snow Sports</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-easy-steps-to-starting-an-instagram-live-for-2024/"><u>[New] Easy Steps to Starting an Instagram Live for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/onetization-timeline-for-successful-youtubers-for-2024/"><u>[New] Monetization Timeline for Successful YouTubers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-stunts-and-tricks-at-snowboarding-x-olympics/"><u>[New] Top Stunts and Tricks at Snowboarding X-Olympics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-synchronize-your-iphones-cinematic-moments/"><u>[Updated] Synchronize Your iPhone's Cinematic Moments</u></a></li>
+<li><a href="https://win-premium.techidaily.com/tiffjpeg-movavi/"><u>無料線上Tiff到Jpeg转换 - 使用Movavi图像编辑器</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mp2wmv-movavi/"><u>無料で高画質！MP2ファイルをWMVにしやすく – 動画再生アプリケーションMovavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/clarity-catalysts-selecting-online-video-aids-for-2024/"><u>Clarity Catalysts Selecting Online Video Aids for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/decouvrez-les-7-equipements-de-couper-le-meilleur-adaptes-aux-ordinateurs-macintosh/"><u>Découvrez Les 7 Équipements De Couper Le Meilleur Adaptés Aux Ordinateurs Macintosh</u></a></li>
+<li><a href="https://win-premium.techidaily.com/flac-mp3-convert-online-free-movavi-streaming/"><u>FLAC MP3 Convert Online Free - Movavi Streaming</u></a></li>
+<li><a href="https://win-premium.techidaily.com/free-online-tool-convert-mp4-audio-files-to-ringtone-format-m4r-with-ease/"><u>Free Online Tool: Convert MP4 Audio Files to Ringtone Format (M4R) with Ease</u></a></li>
+<li><a href="https://win-premium.techidaily.com/gratuit-wegomzetten-van-wav-naar-mkv-onlinemaker-movavi/"><u>Gratuit Wegomzetten Van WAV Naar MKV - Onlinemaker Movavi</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-venture-into-virtuality-critical-reviews-of-tech/"><u>In 2024, Venture Into Virtuality - Critical Reviews of Tech</u></a></li>
+<li><a href="https://win-premium.techidaily.com/kostenlos-konvertieren-von-cr2-in-jpeg-mit-hilfe-der-webseite-movavi-einfach-und-effektiv/"><u>Kostenlos Konvertieren Von CR2 in JPEG Mit Hilfe Der Webseite Movavi - Einfach Und Effektiv</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-of-gesture-recognition-all-methods-explained/"><u>Mastery of Gesture Recognition All Methods Explained</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-portable-play-on-ipad-the-delta-emulator-arrives-with-cutting-edge-display-controls-for-nintendo-ds-games/"><u>Revolutionizing Portable Play on iPad – The Delta Emulator Arrives with Cutting-Edge Display Controls for Nintendo DS Games</u></a></li>
+<li><a href="https://win-premium.techidaily.com/top-8-free-photo-editing-software-of-2024-a-comprehensive-guide/"><u>Top 8 Free Photo-Editing Software of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/taxistikh-metatroph-live-video-se-mp3-xwris-dwrhma-anapoympoystos-and-eydisk/"><u>Ταχιστική Μετατροπή Live Video Σε MP3 Χωρίς Δώρημα - [Αναπουμπούστος & Εύδιsk]</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mp4-gif-movavi/"><u>오픈 소스에서 간단한 MP4 GIF 제공 - Movavi</u></a></li>
+</ul></div>
+

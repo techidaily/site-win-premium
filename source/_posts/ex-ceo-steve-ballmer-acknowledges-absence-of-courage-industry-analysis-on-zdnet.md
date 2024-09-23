@@ -1,7 +1,7 @@
 ---
 title: Ex-CEO Steve Ballmer Acknowledges Absence of Courage | Industry Analysis on ZDNET
-date: 2024-09-17 22:57:49
-updated: 2024-09-20 12:44:34
+date: 2024-09-17T16:29:20.724Z
+updated: 2024-09-23T16:58:39.456Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,38 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-from-airwaves-to-e-readers-how-to-save-web-tv-shows/"><u>[Updated] 2024 Approved From Airwaves To E-Readers How to Save Web TV Shows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-choice-for-engaging-type-animations/"><u>[Updated] Ultimate Choice for Engaging Type Animations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seamless-backgrounds-in-teamconferences-via-microsoft-teams/"><u>2024 Approved Seamless Backgrounds in TeamConferences via Microsoft Teams</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1726226560649-3gpmov-movavi/"><u>網路上無障礙地自由轉換3GP成MOV - Movavi格式切換工具</u></a></li>
+<li><a href="https://win-premium.techidaily.com/opuswma-movavi/"><u>線上OPUS免費變更為WMA - 利用Movavi編解碼器</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1726227274386-movavi3g2mp4/"><u>在線自由下載Movavi轉換器：直接從3G2轉為高品質MP4影片</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/circulation-craft-expert/"><u>Circulation Craft Expert</u></a></li>
+<li><a href="https://win-premium.techidaily.com/die-besten-videobearbeitungsprogramme-fur-filme-komplett-umsonst/"><u>Die Besten Videobearbeitungsprogramme Für Filme (Komplett Umsonst)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/expert-picks-12-best-tools-and-apps-to-improve-video-quality-including-step-by-step-resolution-editing-guides/"><u>Expert Picks: 12 Best Tools and Apps to Improve Video Quality, Including Step-by-Step Resolution Editing Guides</u></a></li>
+<li><a href="https://win-premium.techidaily.com/generation-mov-gratuit-directement-a-partir-de-fichiers-ram-avec-la-solution-movavi-en-ligne/"><u>Génération MOV Gratuit Directement À Partir De Fichiers RAM Avec La Solution Movavi en Ligne</u></a></li>
+<li><a href="https://win-premium.techidaily.com/gratuitos-migrar-fotos-do-jpeg-para-o-padrao-tiff-pelo-site-on-line-do-movavi/"><u>Gratuitos Migrar Fotos Do JPEG Para O Padrão TIFF Pelo Site On-Line Do Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-equipment-guide-top-5-innovative-slow-motion-devices/"><u>In 2024, Advanced Equipment Guide Top 5 Innovative Slow Motion Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-the-art-of-video-salvage/"><u>Mastering the Art of Video Salvage</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/s-top-rated-hd-video-editing-tools-for-2024/"><u>S Top-Rated HD Video Editing Tools for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-backward-facing-displays-in-w11/"><u>Tackling Backward-Facing Displays in W11</u></a></li>
+<li><a href="https://win-premium.techidaily.com/flv-m4v-movavi/"><u>디지털 미디어를 위해 FLV-M4V 갭을 비체로: 무료 원형 변환기 - Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

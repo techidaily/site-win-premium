@@ -1,7 +1,7 @@
 ---
 title: Exploring How Microsoft Windows Technology Is Driving Innovations for Next-Gen Hybrid Working Spaces | ZDNet
-date: 2024-09-18 23:40:34
-updated: 2024-09-20 12:28:13
+date: 2024-09-16T16:53:35.956Z
+updated: 2024-09-23T16:34:54.036Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -114,6 +141,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +193,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-youtube-affiliate-marketing-how-to-make-money-with-it/"><u>[Updated] 2024 Approved YouTube Affiliate Marketing How to Make Money with It</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-iphones-video-reduction-and-adjustment-tools/"><u>[Updated] In 2024, Mastering iPhone's Video Reduction and Adjustment Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-merging-worlds-youtube-in-instagram-narrative-art-for-2024/"><u>[Updated] Merging Worlds YouTube in Instagram Narrative Art for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-understanding-the-essentials-of-burst-in-action-shots/"><u>[Updated] Understanding the Essentials of Burst in Action Shots</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-into-editing-excellence-with-youtube-studio-toolset/"><u>2024 Approved Step Into Editing Excellence with YouTube Studio Toolset</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-cropped-lengths-imovies-automatic-trimming-logic/"><u>2024 Approved Unveiling Cropped Lengths IMovie's Automatic Trimming Logic</u></a></li>
+<li><a href="https://win-premium.techidaily.com/2024-zoom/"><u>2024年にぴったり! Zoom 録画対策トップ３テクニック - 使いこなしガイド</u></a></li>
+<li><a href="https://win-premium.techidaily.com/nef-movavi/"><u>簡易線上NEF文件交換功能 - Movavi</u></a></li>
+<li><a href="https://win-premium.techidaily.com/convert-files-to-wmv-format-free-online-converter-by-movavi/"><u>Convert Files to WMV Format Free - Online Converter by Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-warzones-ignored-gpu-in-windows-11-setup/"><u>How to Fix Warzone's Ignored GPU in Windows 11 Setup</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v27e-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V27e to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlock-the-secret-to-harmonious-insta-story-posts/"><u>In 2024, Unlock the Secret to Harmonious Insta Story Posts</u></a></li>
+<li><a href="https://win-premium.techidaily.com/movavi-screen-recorder-mac-guide-how-to-easily-record-your-screen/"><u>Movavi Screen Recorder Mac Guide - How To Easily Record Your Screen</u></a></li>
+<li><a href="https://win-premium.techidaily.com/online-video-dividing-tool-split-videos-seamlessly-in-your-web-browser-at-no-cost/"><u>Online Video Dividing Tool: Split Videos Seamlessly in Your Web Browser at No Cost</u></a></li>
+<li><a href="https://win-premium.techidaily.com/passos-faceis-para-montar-um-apresentacao-slideshow-musicais-em-computadores-pc-e-apple/"><u>Passos Fáceis Para Montar Um Apresentação Slideshow Musicais Em Computadores PC E Apple</u></a></li>
+<li><a href="https://win-premium.techidaily.com/the-best-video-editing-programs-in-202e-a-comprehensive-guide-for-professionals/"><u>The Best Video Editing Programs in 202E: A Comprehensive Guide for Professionals</u></a></li>
+<li><a href="https://win-premium.techidaily.com/transform-audio-files-without-cost-convert-m4a-into-avi-with-movavi/"><u>Transform Audio Files without Cost: Convert M4A Into AVI with Movavi</u></a></li>
+<li><a href="https://win-premium.techidaily.com/transformar-archivos-raf-en-png-por-internet-sin-gaste-utiles-consejos-y-trampas-de-la-herramienta-gratuita-de-movavi/"><u>Transformar Archivos RAF en PNG Por Internet Sin Gaste: Útiles Consejos Y Trampas De La Herramienta Gratuita De Movavi</u></a></li>
+<li><a href="https://win-premium.techidaily.com/tutoriel-comment-ajuster-la-taille-dune-video-avec-convertisseur-de-films-movavi/"><u>Tutoriel: Comment Ajuster La Taille D'une Vidéo Avec Convertisseur De Films Movavi</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-reaction-video-made-easy-mastering-filmora-for-beginners-for-2024/"><u>Updated Reaction Video Made Easy Mastering Filmora for Beginners for 2024</u></a></li>
+</ul></div>
+
