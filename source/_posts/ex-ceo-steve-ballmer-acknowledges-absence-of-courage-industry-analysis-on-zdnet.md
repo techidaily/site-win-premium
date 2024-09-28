@@ -1,7 +1,7 @@
 ---
 title: Ex-CEO Steve Ballmer Acknowledges Absence of Courage | Industry Analysis on ZDNET
-date: 2024-09-17T16:29:20.724Z
-updated: 2024-09-23T16:58:39.456Z
+date: 2024-09-21T03:09:55.857Z
+updated: 2024-09-27T17:11:11.180Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-high-quality-viewing-with-youtubes-latest-av1-feature/"><u>[New] Unlock High-Quality Viewing with YouTube’s Latest AV1 Feature</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-initiate-xp-project-masterpiece-creation-package/"><u>[Updated] In 2024, Initiate XP Project Masterpiece Creation Package</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/basic-tips-for-windows-clown-phonetics-modification-for-2024/"><u>Basic Tips for Windows Clown Phonetics Modification for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/diy-vlog-tips-mastering-the-art-of-action-shots-on-youtube/"><u>DIY Vlog Tips: Mastering the Art of Action Shots on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/golden-grounds-of-terrafirma-top-treasure-hunts/"><u>Golden Grounds of Terrafirma Top Treasure Hunts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-12-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi 12 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/learn-on-the-go-access-and-download-fintree-indias-professional-training-videocasts-now/"><u>Learn on the Go: Access and Download FinTree India's Professional Training Videocasts Now!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/master-new-skills-with-ease-secure-your-video-classes-from-skillbuilders-now/"><u>Master New Skills with Ease: Secure Your Video Classes From SkillBuilders Now</u></a></li>
+<li><a href="https://win-premium.techidaily.com/reuters-videos-downloading-guide-enjoy-uninterrupted-viewing/"><u>Reuters Videos Downloading Guide: Enjoy Uninterrupted Viewing</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-shift-from-console-to-pc/"><u>Revolutionize Your Gaming: Shift From Console to PC</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-converting-baidu-video-streams-into-multiple-formats-like-mp4-avi-and-mov/"><u>Step-by-Step Guide: Converting Baidu Video Streams Into Multiple Formats Like MP4, AVI, and MOV</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-on-converting-and-saving-repubblica-tv-programs-as-mp4movavi-files/"><u>Step-by-Step Tutorial on Converting and Saving Repubblica TV Programs as MP4/MOV/AVI Files</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-save-4k-movies-or-video-content-as-mp4-mov-avi-files-on-windows-and-macos-systems/"><u>Step-by-Step Tutorial: Save 4K Movies or Video Content as MP4, MOV, AVI Files on Windows and macOS Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719162480304-the-most-reliable-ios-gaming-tools-ranked-find-out-now/"><u>The Most Reliable iOS Gaming Tools Ranked: Find Out Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-lava-blaze-2-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Lava Blaze 2 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-premium.techidaily.com/transforming-soundcloud-playlists-into-mp3aacflac-two-effective-techniques/"><u>Transforming SoundCloud Playlists Into MP3/AAC/FLAC - Two Effective Techniques</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
