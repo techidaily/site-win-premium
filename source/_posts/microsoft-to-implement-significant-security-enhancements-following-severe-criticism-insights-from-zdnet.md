@@ -1,7 +1,7 @@
 ---
 title: Microsoft to Implement Significant Security Enhancements Following Severe Criticism - Insights From ZDNet
-date: 2024-09-21T21:46:28.564Z
-updated: 2024-09-27T22:18:54.222Z
+date: 2024-10-01T04:55:32.792Z
+updated: 2024-10-02T22:54:47.011Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-premium.techidaily.com/1-quick-guide-how-to-save-video-files-in-multiple-formats-from-peekvids-using-the-latest-downloading-tool/"><u>1. Quick Guide: How to Save Video Files in Multiple Formats From PeekVids Using the Latest Downloading Tool</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-boosting-media-throughput-in-microsoft-presentations/"><u>2024 Approved Boosting Media Throughput in Microsoft Presentations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-15-activities-perfect-for-podcast-lovers/"><u>2024 Approved Top 15 Activities Perfect for Podcast Lovers</u></a></li>
-<li><a href="https://win-premium.techidaily.com/allavsoft-vs-movavi-discover-the-premier-mac-and-pc-companion-apps-for-seamless-screen-capturing/"><u>Allavsoft Vs. Movavi: Discover the Premier Mac & PC Companion Apps for Seamless Screen Capturing</u></a></li>
-<li><a href="https://win-premium.techidaily.com/annies-catalog-video-extractor-quick-and-easy-video-downloads-from-anniecatalog/"><u>Annie's Catalog Video Extractor - Quick and Easy Video Downloads From AnnieCatalog</u></a></li>
-<li><a href="https://win-premium.techidaily.com/best-free-tools-the-top-5-alternatives-to-eagleget-for-saving-videos-and-music-without-internet/"><u>Best Free Tools: The Top 5 Alternatives To EagleGet For Saving Videos & Music Without Internet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-your-favorite-tubi-tv-episodes-and-films-as-mp4avi-files-with-our-easy-to-use-tubi-tv-downloader/"><u>Download Your Favorite Tubi TV Episodes & Films as MP4/AVI Files with Our Easy-to-Use Tubi TV Downloader</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/eliminating-visual-wrongs-after-win11-transition/"><u>Eliminating Visual Wrongs After Win11 Transition</u></a></li>
-<li><a href="https://win-premium.techidaily.com/guide-on-how-to-enjoy-a-trial-of-spotify-premium-at-no-cost/"><u>Guide on How to Enjoy a Trial of Spotify Premium at No Cost</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-download-and-convert-video-streams-into-mp4movavi-on-macoswindows-computers/"><u>How to Download and Convert Video Streams Into MP4/MOV/AVI on MacOS/Windows Computers</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f34-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F34 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illuminate-iphone-clips-simple-solutions-to-lighten-video-for-2024/"><u>Illuminate iPhone Clips Simple Solutions to Lighten Video for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-90-gt-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor 90 GT Devices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-superior-ai-photo-cutting-master/"><u>In 2024, Superior AI Photo Cutting Master</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-nubia-red-magic-8s-proplus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nubia Red Magic 8S Pro+ FRP Bypass</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-visual-data-extractor/"><u>[Updated] 2024 Approved Visual Data Extractor</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ex-ceo-steve-ballmer-acknowledges-absence-of-courage-industry-analysis-on-zdnet/"><u>Ex-CEO Steve Ballmer Acknowledges Absence of Courage | Industry Analysis on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-overcoming-realtek-rtl8723be-wireless-drivers-malfunction/"><u>Expert Tips for Overcoming Realtek RTL8723BE Wireless Drivers Malfunction</u></a></li>
+<li><a href="https://win-premium.techidaily.com/getting-the-best-of-both-worlds-in-windows-11-tutorial-on-bringing-back-the-start-button/"><u>Getting the Best of Both Worlds in Windows 11: Tutorial on Bringing Back the Start Button</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-civi-3-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Civi 3 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-mackey-reassignments-tips-for-changing-the-command-function/"><u>Mastering MacKey Reassignments: Tips for Changing the Command Function</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-instagrams-musical-emoji-use-for-2024/"><u>Mastering the Art of Instagram's Musical Emoji Use for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/streamline-it-operations-at-16month-expert-windows-powershell-tutorials-by-zdnet/"><u>Streamline IT Operations at $16/Month: Expert Windows PowerShell Tutorials by ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tips-for-sharper-images-during-zoom-calls/"><u>Tips for Sharper Images During Zoom Calls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshoot-and-fix-windows-10-calculator-issues-complete-solution-guide/"><u>Troubleshoot and Fix Windows 10 Calculator Issues – Complete Solution Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-customizing-key-functions-via-keyboard-manager-on-windows-pcs/"><u>Ultimate Guide to Customizing Key Functions via Keyboard Manager on Windows PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-application-run-time-errors/"><u>Understanding and Fixing Windows Application Run-Time Errors</u></a></li>
+<li><a href="https://win-premium.techidaily.com/upgrading-from-windows-10-to-windows-11-alternatives-if-youre-unsure-insights-by-zdnet/"><u>Upgrading From Windows 10 to Windows 11: Alternatives if You're Unsure - Insights by ZDNet</u></a></li>
+<li><a href="https://win-premium.techidaily.com/zdnets-ultimate-guide-to-the-leading-surface-laptops-and-tablets-of-2023-expert-reviews-and-rankings/"><u>ZDNet's Ultimate Guide to the Leading Surface Laptops and Tablets of 2023: Expert Reviews & Rankings</u></a></li>
 </ul></div>
 

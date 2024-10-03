@@ -1,7 +1,7 @@
 ---
 title: "Mastering Voice Control: A Comprehensive Guide to Using Cortana on Windows 11 - ZDNet"
-date: 2024-09-21T04:25:02.316Z
-updated: 2024-09-27T21:44:33.519Z
+date: 2024-09-25T19:51:55.800Z
+updated: 2024-10-02T18:21:21.189Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-snapshot-scribbles-10-top-writing-aids-for-image-capture-iosandroid/"><u>[New] 2024 Approved Snapshot Scribbles 10 Top Writing Aids for Image Capture (iOS/Android)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-seamlessly-add-vimeo-videos-to-insta-feed/"><u>[New] How to Seamlessly Add Vimeo Videos to Insta Feed</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-precision-steps-for-hassle-free-ipad-and-iphone-recordings-for-2024/"><u>[New] Precision Steps for Hassle-Free iPad & iPhone Recordings for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/free-online-rmvb-to-mp4-converter-quick-and-easy-video-format-change-with-movavi/"><u>Free Online RMVB to MP4 Converter - Quick and Easy Video Format Change with Movavi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-nokia-g310-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Nokia G310 Data? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-netgear-nighthawk-rax80-brilliance-packaged-for-speed-and-style/"><u>In-Depth Look at the Netgear Nighthawk RAX80 - Brilliance Packaged for Speed and Style</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-graphics-cards-in-4k-resolution-for-2024/"><u>Leading Graphics Cards in 4K Resolution for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/mov-file-conversion-da-aiff-a-gratuito-on-line-come-usare-il-servizio-di-convertitore-vidio-fast-e-affidabile/"><u>MOV File Conversion Da AIFF a Gratuito On-Line: Come Usare Il Servizio Di Convertitore Vidio Fast E Affidabile</u></a></li>
-<li><a href="https://win-premium.techidaily.com/perfectionnement-dimages-sur-macos-via-le-logiciel-editeur-photo-movavi-guide-complet-au-montage-et-a-la-retouche/"><u>Perfectionnement D'images Sur macOS via Le Logiciel Éditeur Photo Movavi - Guide Complet Au Montage Et À La Retouche</u></a></li>
-<li><a href="https://win-premium.techidaily.com/transformation-libre-de-fichiers-opus-en-wav-sur-internet-outil-gratuit-chez-movavi/"><u>Transformation Libre De Fichiers OPUS en WAV Sur Internet - Outil Gratuit Chez Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-web-converters-turning-your-gif-into-professional-video/"><u>[New] Seamless Web Converters Turning Your GIF Into Professional Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>[New] The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-locate-the-best-bargains-on-gopro-cameras/"><u>[Updated] 2024 Approved Locate the Best Bargains on GoPro Cameras</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-frame-by-frame-filmmaking-to-financial-flourishing-for-2024/"><u>[Updated] From Frame-by-Frame Filmmaking to Financial Flourishing for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-key-approaches-to-elevate-handp-facebook-campaigns/"><u>2024 Approved Key Approaches to Elevate H&P Facebook Campaigns</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-parent-and-child-the-amazon-fire-hd-10-kid-editions-secure-environment/"><u>Comprehensive Evaluation of Parent & Child The Amazon Fire HD 10 Kid Edition's Secure Environment</u></a></li>
+<li><a href="https://win-premium.techidaily.com/convert-and-save-bbc-iplayer-videos-in-high-quality-formats-mp4-and-avi-download-solution/"><u>Convert and Save BBC iPlayer Videos in High-Quality Formats: MP4 & AVI Download Solution</u></a></li>
+<li><a href="https://win-premium.techidaily.com/convert-your-isites-video-downloads-from-harvard-lectures-into-high-quality-mp4-files/"><u>Convert Your iSites Video Downloads From Harvard Lectures Into High-Quality MP4 Files</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-and-transform-jibjab-videos-into-multiple-playable-formats-mp4-wmv-avi/"><u>Download & Transform JibJab Videos Into Multiple Playable Formats: MP4, WMV, AVI</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-alphorms-complete-course-videos-in-high-quality-formats-like-mp4-or-avi-with-alphorm-downloader/"><u>Download Alphorm's Complete Course Videos in High-Quality Formats Like MP4 or AVI with Alphorm Downloader</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-any-format-effortless-vidpk-content-retrieval-into-multiple-media-types-mp4-mov-avi-mp3-mkv/"><u>Download Any Format: Effortless Vidpk Content Retrieval Into Multiple Media Types (MP4, MOV, AVI, MP3, MKV)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-full-hd-nhl-matches-and-highlights-in-various-formats-mp4-wmv-mov-avi/"><u>Download Full HD NHL Matches & Highlights in Various Formats (MP4, WMV, MOV, AVI)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-movies-fast-with-movie4k-pro-app-for-pc-and-mac-users/"><u>Download Movies Fast with Movie4k Pro App for PC and Mac Users!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-your-broadcast-combining-zoom-and-fb-live/"><u>Elevating Your Broadcast Combining ZOOM & FB Live</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-the-first-ar-chat-app/"><u>Unveiling the First AR Chat App</u></a></li>
 </ul></div>
 

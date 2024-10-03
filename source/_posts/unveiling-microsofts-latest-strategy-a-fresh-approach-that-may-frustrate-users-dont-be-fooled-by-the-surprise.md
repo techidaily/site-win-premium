@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Latest Strategy: A Fresh Approach That May Frustrate Users - Don't Be Fooled by the Surprise!"
-date: 2024-09-25T03:13:48.461Z
-updated: 2024-09-28T06:05:17.494Z
+date: 2024-09-30T19:36:57.067Z
+updated: 2024-10-02T19:01:22.153Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +142,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -145,13 +158,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unseen-horizons-hot-list-of-vr-peripherals-top-10/"><u>[New] Unseen Horizons Hot List of VR Peripherals (Top 10)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-can-adobe-shake-control-enhance-creative-process-in-photoshop/"><u>[Updated] Can Adobe Shake Control Enhance Creative Process in Photoshop?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-serenity-in-strings-the-top-20-calming-country-songs-tiktok/"><u>[Updated] Serenity in Strings The Top 20 Calming Country Songs (TikTok)</u></a></li>
-<li><a href="https://win-premium.techidaily.com/add-interactive-page-flipping-buttons-to-your-ebooks-on-flipbuildercom-for-enhanced-user-engagement/"><u>Add Interactive Page-Flipping Buttons to Your eBooks on FlipBuilder.com for Enhanced User Engagement!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/adjusting-page-dimensions-for-flipbooks-on-flipbuildercom-tutorial/"><u>Adjusting Page Dimensions for Flipbooks on FlipBuilder.com Tutorial</u></a></li>
-<li><a href="https://win-premium.techidaily.com/creating-image-enhanced-downloadable-pdf-files-with-ease-master-the-technique-on-flipbuilder/"><u>Creating Image-Enhanced, Downloadable PDF Files with Ease - Master the Technique on FlipBuilder</u></a></li>
-<li><a href="https://win-premium.techidaily.com/discover-the-features-of-flipbuilders-upload-service-a-comprehensive-guide/"><u>Discover the Features of FlipBuilder’s Upload Service: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-premium.techidaily.com/does-flipbuilder-ensure-functionality-of-want-links-at-all-zoom-levels-on-web-pages/"><u>Does FlipBuilder Ensure Functionality of Want Links at All Zoom Levels on Web Pages?</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effortlessly-convert-your-pdf-into-a-beautiful-ebook-and-securely-host-on-flipbuilder/"><u>Effortlessly Convert Your PDF Into a Beautiful eBook & Securely Host on FlipBuilder</u></a></li>
-<li><a href="https://fox-links.techidaily.com/how-to-personalize-videos-adding-captions-in-the-photos-app-for-2024/"><u>How to Personalize Videos Adding Captions in the Photos App for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-solve-the-issue-when-gta-5-doesnt-open/"><u>How to Solve the Issue When GTA 5 Doesn't Open</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-successfully-export-your-flipbook-creation-onto-a-cd-rom-a-comprehensive-guide/"><u>How to Successfully Export Your FlipBook Creation Onto a CD-ROM: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-apexs-single-player-focus-how-to-optimize-your-game-experience/"><u>In 2024, Apex's Single Player Focus How to Optimize Your Game Experience</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-how-to-fade-in-and-fade-out-video-clips/"><u>In 2024, How to Fade-In and Fade-Out Video Clips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c300-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C300 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/integrating-youtube-videos-into-your-digital-book-with-flipbuilder-a-complete-guide/"><u>Integrating YouTube Videos Into Your Digital Book with FlipBuilder - A Complete Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/succeed-in-global-markets-with-superior-language-apps-review/"><u>Succeed in Global Markets with Superior Language Apps Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-innovators-crafting-marvels-digital-realm/"><u>[New] In 2024, Innovators Crafting Marvel's Digital Realm</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-essential-guide-to-crafting-dynamic-snaps/"><u>[New] In 2024, The Essential Guide to Crafting Dynamic Snaps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/everaging-multiple-channels-to-boost-online-visibility-for-2024/"><u>[New] Leveraging Multiple Channels to Boost Online Visibility for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-merging-and-editing-footage-on-iphone-for-2024/"><u>[New] Merging and Editing Footage on iPhone for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/25-microsoft-office-licenses-on-windows-and-mac-limited-offer-get-yours-now-from-zdnet/"><u>$25 Microsoft Office Licenses on Windows & Mac: Limited Offer - Get Yours Now From ZDNet!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-generation-alpha-drives-enhanced-efficiency-in-software-development-insights-from-a-new-study-zdnet/"><u>How Generation Alpha Drives Enhanced Efficiency in Software Development: Insights From a New Study | ZDNet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/microsoft-and-pc-manufacturers-reveal-the-latest-windows-11-se-machines-for-classrooms-exclusive-coverage-by-zdnet/"><u>Microsoft and PC Manufacturers Reveal the Latest Windows 11 SE Machines for Classrooms | Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://win-premium.techidaily.com/surface-pro-e8s-best-match-comprehensive-review-of-the-rugged-brydge-sp-max-plus-case-for-enhanced-typing-experience-gadgetflow/"><u>Surface Pro E8's Best Match: Comprehensive Review of the Rugged Brydge SP Max Plus Case for Enhanced Typing Experience | GadgetFlow</u></a></li>
+<li><a href="https://win-premium.techidaily.com/the-paradox-of-microsoft-teams-humor-sarcasm-meets-harsh-insights-zdnet/"><u>The Paradox of Microsoft Teams Humor: Sarcasm Meets Harsh Insights | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-google-pixel-fold-by-fonelab-android-recover-data/"><u>Undelete lost data from Google Pixel Fold</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unveiling-strategies-for-apples-triumph-over-tech-giants-at-the-upcoming-wwdc-event-exclusive-analysis-by-zdnet/"><u>Unveiling Strategies for Apple's Triumph Over Tech Giants at the Upcoming WWDC Event | Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-technology-at-toms-hardware/"><u>Unveiling the Latest in Technology at Tom's Hardware</u></a></li>
 </ul></div>
 

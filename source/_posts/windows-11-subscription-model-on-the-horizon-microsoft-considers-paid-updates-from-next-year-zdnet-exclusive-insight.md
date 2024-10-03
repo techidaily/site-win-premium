@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Subscription Model on the Horizon? Microsoft Considers Paid Updates From Next Year | ZDNET Exclusive Insight
-date: 2024-09-22T21:52:40.891Z
-updated: 2024-09-28T04:39:29.764Z
+date: 2024-10-01T22:36:41.201Z
+updated: 2024-10-03T01:21:15.204Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,9 +135,29 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-premium-picks-recommended-portals-for-acquiring-snapalert-melodies/"><u>[Updated] In 2024, Premium Picks Recommended Portals for Acquiring SnapAlert Melodies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-social-strategists-guide-to-capturing-feedback-via-instagram-story-polls/"><u>2024 Approved The Social Strategist's Guide to Capturing Feedback via Instagram Story Polls</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/complete-guide-erasing-your-iphones-information-forever-insights-from-stellar/"><u>Complete Guide: Erasing Your iPhone's Information Forever - Insights From Stellar</u></a></li>
-<li><a href="https://win-premium.techidaily.com/conversione-libera-online-dei-file-td-a-mp4-con-movavi-passaggi-facili-da-seguire/"><u>Conversione Libera Online Dei File TD a MP4 Con Movavi: Passaggi Facili Da Seguire</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-get-your-corsair-hs30-headset-microphone-up-and-running-on-windows/"><u>Fixing the Issue: How to Get Your Corsair HS30 Headset Microphone Up and Running on Windows</u></a></li>
-<li><a href="https://win-premium.techidaily.com/free-online-rmvb-to-mp4-converter-quick-and-easy-video-format-change-with-movavi/"><u>Free Online RMVB to MP4 Converter - Quick and Easy Video Format Change with Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-nubia-red-magic-8s-proplus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nubia Red Magic 8S Pro+ Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/mov-file-conversion-da-aiff-a-gratuito-on-line-come-usare-il-servizio-di-convertitore-vidio-fast-e-affidabile/"><u>MOV File Conversion Da AIFF a Gratuito On-Line: Come Usare Il Servizio Di Convertitore Vidio Fast E Affidabile</u></a></li>
-<li><a href="https://win-premium.techidaily.com/movavis-free-tool-for-quick-and-seamless-switching-from-3gp-to-avi-video-files/"><u>Movavi's Free Tool for Quick & Seamless Switching From 3GP to AVI Video Files</u></a></li>
-<li><a href="https://win-premium.techidaily.com/movavi-tiff/"><u>Movavi를 사용한 자이로나에서 TIFF 전환 무료 스테이징 – 제안해 주세요!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/perfectionnement-dimages-sur-macos-via-le-logiciel-editeur-photo-movavi-guide-complet-au-montage-et-a-la-retouche/"><u>Perfectionnement D'images Sur macOS via Le Logiciel Éditeur Photo Movavi - Guide Complet Au Montage Et À La Retouche</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/personalized-packaging-par-excellence-top-shopping-sites-uncovered-for-2024/"><u>Personalized Packaging Par Excellence Top Shopping Sites Uncovered for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/transformation-libre-de-fichiers-opus-en-wav-sur-internet-outil-gratuit-chez-movavi/"><u>Transformation Libre De Fichiers OPUS en WAV Sur Internet - Outil Gratuit Chez Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unraveling-the-mysteries-of-icloud-problems-in-ios-a-step-by-step-fixers-handbook/"><u>Unraveling the Mysteries of iCloud Problems in iOS: A Step-by-Step Fixer's Handbook</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers in Windows 10 & 7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-14-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 14 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-top-10-crafting-engaging-songs-for-fb-videos/"><u>[New] FB Top 10 Crafting Engaging Songs for FB Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-crafting-an-engaging-review-vlog-for-everyday-items/"><u>[Updated] 2024 Approved Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-screen-saves-on-iphone-7/"><u>[Updated] Mastering Screen Saves on iPhone 7</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-veiled-viewer-in-the-social-sphere/"><u>2024 Approved Veiled Viewer in the Social Sphere</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-note-12-pro-4g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi Redmi Note 12 Pro 4G has native HEVC support?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/effective-strategies-for-converting-flipbooks-navigational-guidance-into-french-and-german-languages/"><u>Effective Strategies for Converting FlipBook's Navigational Guidance Into French and German Languages</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-driver-for-your-hp-officejet-pro-n-8610-on-windows-11-8-7-xp-and-vista-os/"><u>Get the Latest Driver for Your HP Officejet Pro N 8610 on Windows 11, 8, 7, XP & Vista OS</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-can-i-incorporate-a-miniature-emblem-in-my-browsers-status-bar-using-flipbuilder/"><u>How Can I Incorporate a Miniature Emblem in My Browser's Status Bar Using FlipBuilder?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-disable-page-flipping-animation-and-audio-on-flipbuilder-tips-and-tricks/"><u>How to Disable Page Flipping Animation & Audio on FlipBuilder - Tips & Tricks</u></a></li>
+<li><a href="https://win-premium.techidaily.com/is-it-possible-to-modify-flipbook-bookmark-typography-with-flipbuildercom-tools/"><u>Is It Possible to Modify Flipbook Bookmark Typography with FlipBuilder.com Tools?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/locating-flip-softwares-assistance-documentation-to-enhance-control-of-flipoffice-pro-flipbuildercom/"><u>Locating Flip Software’s Assistance Documentation to Enhance Control of FlipOffice Pro [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-your-reading-experience-how-to-import-bookmarks-into-ebooks-using-flipbuilder/"><u>Mastering Your Reading Experience: How to Import Bookmarks Into eBooks Using FlipBuilder</u></a></li>
+<li><a href="https://win-premium.techidaily.com/reshuffling-image-sequence-for-your-flipbook-project-tips-from-flipbuildercom/"><u>Reshuffling Image Sequence for Your FlipBook Project - Tips From FlipBuilder.com</u></a></li>
+<li><a href="https://win-premium.techidaily.com/resolving-inactive-search-capabilities-in-your-flipbook-created-with-flipbuilder-platform/"><u>Resolving Inactive Search Capabilities in Your FlipBook Created with FlipBuilder Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-transition-mastering-the-art-of-transferring-contacts-from-outlook-to-gmail/"><u>Seamless Transition: Mastering the Art of Transferring Contacts From Outlook to Gmail</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-fallout-3-failure-to-load-problems-expert-strategies-for-game-loading/"><u>Troubleshoot Fallout 3 Failure to Load Problems - Expert Strategies for Game Loading</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-hp-laserjet-amoydriverwindows-to-the-newest-version-secure-printing-solutions/"><u>Update HP LaserJet Amoy_driver_windows to the Newest Version - Secure Printing Solutions</u></a></li>
 </ul></div>
 
