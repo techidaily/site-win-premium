@@ -1,7 +1,7 @@
 ---
 title: "Streamline IT Operations at $16/Month: Expert Windows PowerShell Tutorials by ZDNet"
-date: 2024-09-27T20:51:05.892Z
-updated: 2024-10-02T22:59:46.708Z
+date: 2024-10-07T17:24:57.332Z
+updated: 2024-10-08T16:02:38.374Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-best-video-and-sound-capture-apps-for-artistic-visionaries/"><u>[New] Best Video & Sound Capture Apps for Artistic Visionaries</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-discovering-ideal-hashtags-for-your-youtube-videos/"><u>[Updated] Discovering Ideal Hashtags for Your YouTube Videos</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-microsoft-can-turn-user-irritation-into-satisfaction-strategies-for-improvement-tech-analysis-by-zdnet/"><u>How Microsoft Can Turn User Irritation Into Satisfaction – Strategies for Improvement | Tech Analysis by ZDNet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/instant-savings-grab-a-bargain-with-microsofts-pro-software-pack-project-plus-visio-at-just-20-limited-time-deal-via-zdnet/"><u>Instant Savings: Grab a Bargain with Microsoft's Pro Software Pack (Project + Visio) at Just $20 – Limited Time Deal via ZDNET</u></a></li>
-<li><a href="https://win-premium.techidaily.com/mastering-voice-control-a-comprehensive-guide-to-using-cortana-on-windows-11-zdnet/"><u>Mastering Voice Control: A Comprehensive Guide to Using Cortana on Windows 11 - ZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/microsoft-drops-a-managerial-bombshell-with-polarizing-recommendations-dive-into-the-controversy-on-zdnet/"><u>Microsoft Drops a Managerial Bombshell with Polarizing Recommendations - Dive Into the Controversy on ZDNET</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-countdown-made-easy-a-3-step-guide-for-fcpx-users/"><u>New Countdown Made Easy A 3-Step Guide for FCPX Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/nostalgianest-compact-crafting-classic-gaming-memories/"><u>NostalgiaNest Compact: Crafting Classic Gaming Memories</u></a></li>
-<li><a href="https://win-premium.techidaily.com/reinstating-your-windows-11-start-menu-a-step-by-step-guide-techsolutions/"><u>Reinstating Your Windows 11 Start Menu: A Step-by-Step Guide | TechSolutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sx420-reviewed-introducing-an-ultra-portable-with-42x-optical-zoom/"><u>SX420 Reviewed – Introducing an Ultra-Portable with 42X Optical Zoom</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-budget-screen-experience-unveiling-the-power-of-hisense-50h8f-4k-hdr-tv/"><u>The Ultimate Budget Screen Experience: Unveiling the Power of Hisense 50H8F 4K HDR TV</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unlocking-creativity-with-microsofts-free-powertoys-mastering-fancyzones-in-windows-a-must-read-guide/"><u>Unlocking Creativity with Microsoft's Free PowerToys: Mastering FancyZones in Windows - A Must-Read Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unpacking-the-power-of-engaging-titles-for-youtube-shorts-for-2024/"><u>Unpacking the Power of Engaging Titles for YouTube Shorts for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unveiling-from-microsofts-latest-october-surface-innovations-explore-insights-on-zdnet/"><u>Unveiling From Microsoft's Latest October Surface Innovations - Explore Insights on ZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unveiling-microsofts-latest-strategy-a-fresh-approach-that-may-frustrate-users-dont-be-fooled-by-the-surprise/"><u>Unveiling Microsoft's Latest Strategy: A Fresh Approach That May Frustrate Users - Don't Be Fooled by the Surprise!</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-does-my-computer-turn-off-when-gaming-troubleshooting-steps-for-various-windows-os-versions/"><u>Why Does My Computer Turn Off When Gaming? Troubleshooting Steps for Various Windows OS Versions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-loop-a-comprehensive-guide-for-instagram-videographers-for-2024/"><u>[New] Mastering the Loop A Comprehensive Guide for Instagram Videographers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-insight-into-quadcopters-functionality-uncovered/"><u>2024 Approved Insight Into Quadcopters Functionality Uncovered</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-selecting-audioscapes-for-unveiling-videos/"><u>2024 Approved Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools/"><u>2024 Approved Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/aumenta-la-qualita-e-ristora-le-immagini-in-risoluzione-4k-8k-o-10k-con-winxvideo-ai/"><u>Aumenta La Qualità E Ristora Le Immagini in Risoluzione 4K, 8K O 10K Con WinxVideo AI</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-troubleshooting-repairing-black-ops-cold-wars-frustrating-ui-error-27711/"><u>DIY Troubleshooting: Repairing Black Ops Cold War's Frustrating UI Error 27711</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-12-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 12 Pro Max or iPad?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-save-chaturbate-streams-as-mp4-files-a-step-by-step-guide/"><u>How to Save Chaturbate Streams as MP4 Files: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-secure-endless-mp4-guitar-lessons-for-free-and-offline-use/"><u>How to Secure Endless MP4 Guitar Lessons for Free and Offline Use.</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-transfer-youtube-videos-in-mp4-format-from-your-computer-macwindows-to-an-ipad/"><u>How to Transfer YouTube Videos in MP4 Format From Your Computer (Mac/Windows) to an iPad</u></a></li>
+<li><a href="https://win-premium.techidaily.com/learn-on-the-go-access-and-download-fintree-indias-professional-training-videocasts-now/"><u>Learn on the Go: Access and Download FinTree India's Professional Training Videocasts Now!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/master-new-skills-with-ease-secure-your-video-classes-from-skillbuilders-now/"><u>Master New Skills with Ease: Secure Your Video Classes From SkillBuilders Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-warzone-missing-texture-issues/"><u>Resolving Call of Duty Warzone: Missing Texture Issues</u></a></li>
+<li><a href="https://win-premium.techidaily.com/reuters-videos-downloading-guide-enjoy-uninterrupted-viewing/"><u>Reuters Videos Downloading Guide: Enjoy Uninterrupted Viewing</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-converting-baidu-video-streams-into-multiple-formats-like-mp4-avi-and-mov/"><u>Step-by-Step Guide: Converting Baidu Video Streams Into Multiple Formats Like MP4, AVI, and MOV</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-on-converting-and-saving-repubblica-tv-programs-as-mp4movavi-files/"><u>Step-by-Step Tutorial on Converting and Saving Repubblica TV Programs as MP4/MOV/AVI Files</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-save-4k-movies-or-video-content-as-mp4-mov-avi-files-on-windows-and-macos-systems/"><u>Step-by-Step Tutorial: Save 4K Movies or Video Content as MP4, MOV, AVI Files on Windows and macOS Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-note-12t-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi Note 12T Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trasforma-i-tuoi-file-opus-in-m4a-senza-costi-utilizzando-il-servizio-online-di-convertoaudio/"><u>Trasforma I Tuoi File Opus in M4A Senza Costi Utilizzando Il Servizio Online Di ConvertoAudio</u></a></li>
 </ul></div>
 
