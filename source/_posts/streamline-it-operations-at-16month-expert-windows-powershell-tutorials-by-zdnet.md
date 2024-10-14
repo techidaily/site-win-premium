@@ -1,7 +1,7 @@
 ---
 title: "Streamline IT Operations at $16/Month: Expert Windows PowerShell Tutorials by ZDNet"
-date: 2024-10-07T17:24:57.332Z
-updated: 2024-10-08T16:02:38.374Z
+date: 2024-10-08T19:57:21.528Z
+updated: 2024-10-14T09:15:42.907Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-loop-a-comprehensive-guide-for-instagram-videographers-for-2024/"><u>[New] Mastering the Loop A Comprehensive Guide for Instagram Videographers for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-insight-into-quadcopters-functionality-uncovered/"><u>2024 Approved Insight Into Quadcopters Functionality Uncovered</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-techniques-selecting-audioscapes-for-unveiling-videos/"><u>2024 Approved Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools/"><u>2024 Approved Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/aumenta-la-qualita-e-ristora-le-immagini-in-risoluzione-4k-8k-o-10k-con-winxvideo-ai/"><u>Aumenta La Qualità E Ristora Le Immagini in Risoluzione 4K, 8K O 10K Con WinxVideo AI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-troubleshooting-repairing-black-ops-cold-wars-frustrating-ui-error-27711/"><u>DIY Troubleshooting: Repairing Black Ops Cold War's Frustrating UI Error 27711</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-12-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 12 Pro Max or iPad?</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-save-chaturbate-streams-as-mp4-files-a-step-by-step-guide/"><u>How to Save Chaturbate Streams as MP4 Files: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-secure-endless-mp4-guitar-lessons-for-free-and-offline-use/"><u>How to Secure Endless MP4 Guitar Lessons for Free and Offline Use.</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-transfer-youtube-videos-in-mp4-format-from-your-computer-macwindows-to-an-ipad/"><u>How to Transfer YouTube Videos in MP4 Format From Your Computer (Mac/Windows) to an iPad</u></a></li>
-<li><a href="https://win-premium.techidaily.com/learn-on-the-go-access-and-download-fintree-indias-professional-training-videocasts-now/"><u>Learn on the Go: Access and Download FinTree India's Professional Training Videocasts Now!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/master-new-skills-with-ease-secure-your-video-classes-from-skillbuilders-now/"><u>Master New Skills with Ease: Secure Your Video Classes From SkillBuilders Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-warzone-missing-texture-issues/"><u>Resolving Call of Duty Warzone: Missing Texture Issues</u></a></li>
-<li><a href="https://win-premium.techidaily.com/reuters-videos-downloading-guide-enjoy-uninterrupted-viewing/"><u>Reuters Videos Downloading Guide: Enjoy Uninterrupted Viewing</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-converting-baidu-video-streams-into-multiple-formats-like-mp4-avi-and-mov/"><u>Step-by-Step Guide: Converting Baidu Video Streams Into Multiple Formats Like MP4, AVI, and MOV</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-on-converting-and-saving-repubblica-tv-programs-as-mp4movavi-files/"><u>Step-by-Step Tutorial on Converting and Saving Repubblica TV Programs as MP4/MOV/AVI Files</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-save-4k-movies-or-video-content-as-mp4-mov-avi-files-on-windows-and-macos-systems/"><u>Step-by-Step Tutorial: Save 4K Movies or Video Content as MP4, MOV, AVI Files on Windows and macOS Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-redmi-note-12t-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi Redmi Note 12T Pro Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/trasforma-i-tuoi-file-opus-in-m4a-senza-costi-utilizzando-il-servizio-online-di-convertoaudio/"><u>Trasforma I Tuoi File Opus in M4A Senza Costi Utilizzando Il Servizio Online Di ConvertoAudio</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-aqtime-media-center-diverse-audio-video-options/"><u>[New] In 2024, Aqtime Media Center Diverse Audio, Video Options</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fix-invisible-facebook-watch-icon-now-fixed/"><u>[Updated] Fix Invisible Facebook Watch Icon, Now Fixed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unearthing-the-untouched-public-domains-hidden-gems/"><u>[Updated] Unearthing the Untouched Public Domain's Hidden Gems</u></a></li>
+<li><a href="https://win-premium.techidaily.com/add-interactive-page-flipping-buttons-to-your-ebooks-on-flipbuildercom-for-enhanced-user-engagement/"><u>Add Interactive Page-Flipping Buttons to Your eBooks on FlipBuilder.com for Enhanced User Engagement!</u></a></li>
+<li><a href="https://games-able.techidaily.com/canceling-a-video-game-refund-procedures-for-xbox-sx/"><u>Canceling a Video Game: Refund Procedures for Xbox S/X</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-lenovo-thinkpad-x12-detachable-analysis-exceptional-convertible-tablet-and-superior-typing-experience/"><u>Comprehensive Lenovo ThinkPad X12 Detachable Analysis: Exceptional Convertible Tablet & Superior Typing Experience</u></a></li>
+<li><a href="https://win-premium.techidaily.com/discover-the-features-of-flipbuilders-upload-service-a-comprehensive-guide/"><u>Discover the Features of FlipBuilder’s Upload Service: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/effortlessly-convert-your-pdf-into-a-beautiful-ebook-and-securely-host-on-flipbuilder/"><u>Effortlessly Convert Your PDF Into a Beautiful eBook & Securely Host on FlipBuilder</u></a></li>
+<li><a href="https://win-premium.techidaily.com/gratuitos-migrar-fotos-do-jpeg-para-o-padrao-tiff-pelo-site-on-line-do-movavi/"><u>Gratuitos Migrar Fotos Do JPEG Para O Padrão TIFF Pelo Site On-Line Do Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-art-of-gif-animation-explained/"><u>In 2024, The Art of GIF Animation Explained</u></a></li>
 </ul></div>
 

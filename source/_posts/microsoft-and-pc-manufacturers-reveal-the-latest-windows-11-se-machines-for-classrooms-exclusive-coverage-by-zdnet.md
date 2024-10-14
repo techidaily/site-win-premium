@@ -1,7 +1,7 @@
 ---
 title: Microsoft and PC Manufacturers Reveal the Latest Windows 11 SE Machines for Classrooms | Exclusive Coverage by ZDNET
-date: 2024-10-06T17:00:31.208Z
-updated: 2024-10-08T16:47:24.883Z
+date: 2024-10-11T09:06:40.861Z
+updated: 2024-10-14T04:43:55.677Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-curating-the-perfect-mix-a-youtube-playlist-manual/"><u>[Updated] 2024 Approved Curating the Perfect Mix A Youtube Playlist Manual</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>[Updated] 2024 Approved Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
-<li><a href="https://win-premium.techidaily.com/tiffjpeg-movavi/"><u>無料線上Tiff到Jpeg转换 - 使用Movavi图像编辑器</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1726227274386-movavi3g2mp4/"><u>在線自由下載Movavi轉換器：直接從3G2轉為高品質MP4影片</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/cut-to-the-chase-quick-background-blur-tricks-for-everyday-meets-for-2024/"><u>Cut to the Chase Quick Background Blur Tricks for Everyday Meets for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/decouvrez-les-7-equipements-de-couper-le-meilleur-adaptes-aux-ordinateurs-macintosh/"><u>Découvrez Les 7 Équipements De Couper Le Meilleur Adaptés Aux Ordinateurs Macintosh</u></a></li>
-<li><a href="https://win-premium.techidaily.com/die-besten-videobearbeitungsprogramme-fur-filme-komplett-umsonst/"><u>Die Besten Videobearbeitungsprogramme Für Filme (Komplett Umsonst)</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-razr-40-ultra-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/free-online-tool-convert-mp4-audio-files-to-ringtone-format-m4r-with-ease/"><u>Free Online Tool: Convert MP4 Audio Files to Ringtone Format (M4R) with Ease</u></a></li>
-<li><a href="https://win-premium.techidaily.com/generation-mov-gratuit-directement-a-partir-de-fichiers-ram-avec-la-solution-movavi-en-ligne/"><u>Génération MOV Gratuit Directement À Partir De Fichiers RAM Avec La Solution Movavi en Ligne</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-phantom-v-flip-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Phantom V Flip to Protect Your Individual Information</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-thunder-tier-1-from-continuously-crashing-on-your-computer-system/"><u>How to Stop Thunder Tier 1 From Continuously Crashing on Your Computer System</u></a></li>
-<li><a href="https://win-premium.techidaily.com/kostenlos-konvertieren-von-cr2-in-jpeg-mit-hilfe-der-webseite-movavi-einfach-und-effektiv/"><u>Kostenlos Konvertieren Von CR2 in JPEG Mit Hilfe Der Webseite Movavi - Einfach Und Effektiv</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/microsoft-office-replacements-ranking-the-top-picks/"><u>Microsoft Office Replacements - Ranking the Top Picks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-best-free-video-meeting-software-roundup-for-professional-and-educational-purposes/"><u>The Best Free Video Meeting Software Roundup for Professional and Educational Purposes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/top-8-free-photo-editing-software-of-2024-a-comprehensive-guide/"><u>Top 8 Free Photo-Editing Software of 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-at-toms-hardware-store/"><u>Unlocking Tech Secrets at Tom's Hardware Store</u></a></li>
-<li><a href="https://win-premium.techidaily.com/mp4-gif-movavi/"><u>오픈 소스에서 간단한 MP4 GIF 제공 - Movavi</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-boosting-snapchat-impact-select-6-excellent-video-editors/"><u>[New] In 2024, Boosting Snapchat Impact Select 6 Excellent Video Editors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-step-by-step-sharing-media-from-one-iphone-to-another-for-2024/"><u>[New] Step-by-Step Sharing Media From One iPhone to Another for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-performance-hitches-in-call-of-duty-warzone-on-desktop-updated-solutions/"><u>Bypassing Performance Hitches in Call of Duty Warzone on Desktop - Updated Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y36-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y36 Device SIM</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-unstalling-your-qbittorrent-client/"><u>Effective Solutions for Unstalling Your qBittorrent Client</u></a></li>
+<li><a href="https://win-premium.techidaily.com/get-ready-microsoft-announces-paid-windows-11-updates-from-next-year-cost-breakdown-by-zdnet/"><u>Get Ready: Microsoft Announces Paid Windows 11 Updates From Next Year - Cost Breakdown by ZDNet</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-disable-microsoft-advertisements-on-the-new-windows-11-start-menu-tips-and-tricks/"><u>How to Disable Microsoft Advertisements on the New Windows 11 Start Menu - Tips and Tricks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-network-controls-a-comprehensive-tutorial-for-tweaking-your-pcs-dns-settings-with-windows-os-key-insights-from-zdnet/"><u>Mastering Network Controls: A Comprehensive Tutorial for Tweaking Your PC’s DNS Settings with Windows OS - Key Insights From ZDNET</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-windows-11s-sandbox-a-step-by-step-guide-to-using-it-like-a-vm-insights-from-zdnet/"><u>Mastering Windows 11'S Sandbox: A Step-by-Step Guide to Using It Like a VM - Insights From ZDNet</u></a></li>
+<li><a href="https://win-premium.techidaily.com/optimized-surfing-strategies-utilizing-browser-profiles-for-enhanced-efficiency-on-zdnet/"><u>Optimized Surfing Strategies: Utilizing Browser Profiles for Enhanced Efficiency on ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-5-essential-factors-to-evaluate-when-choosing-your-next-fitness-tracker/"><u>Top 5 Essential Factors to Evaluate When Choosing Your Next Fitness Tracker</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-decoding-youtubes-comprehensive-audible-archive/"><u>Updated In 2024, Decoding YouTubes Comprehensive Audible Archive</u></a></li>
 </ul></div>
 

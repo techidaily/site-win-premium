@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Subscription Model on the Horizon? Microsoft Considers Paid Updates From Next Year | ZDNET Exclusive Insight
-date: 2024-10-06T17:16:29.662Z
-updated: 2024-10-08T17:20:10.361Z
+date: 2024-10-10T20:24:51.949Z
+updated: 2024-10-13T23:29:26.005Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +95,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +128,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-crafting-the-perfect-soundtrack-for-your-vimeo-content-for-2024/"><u>[New] Crafting the Perfect Soundtrack for Your Vimeo Content for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-digital-sound-and-picture-collaboration-space/"><u>[New] In 2024, Digital Sound & Picture Collaboration Space</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-restore-functionality-of-your-broken-dell-laptop-keys/"><u>Comprehensive Guide to Restore Functionality of Your Broken Dell Laptop Keys</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rt-your-youtube-files-effortlessly-to-webm/"><u>Convert Your YouTube Files Effortlessly to WebM</u></a></li>
-<li><a href="https://win-premium.techidaily.com/easy-guide-connecting-your-microsoft-teams-meetings-with-your-television-screen/"><u>Easy Guide: Connecting Your Microsoft Teams Meetings with Your Television Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-to-fix-ark-game-crashes-instantly/"><u>Effective Solutions to Fix ARK Game Crashes Instantly</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effortless-techniques-to-extract-and-print-messages-on-android-phones/"><u>Effortless Techniques to Extract and Print Messages on Android Phones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/elevate-your-online-presence-with-manycam-top-notch-live-video-tools-and-fake-webcams/"><u>Elevate Your Online Presence with ManyCam - Top-Notch Live Video Tools & Fake Webcams</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-x-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone X</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-c33-2023-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme C33 2023</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-to-access-your-iphone-bypassing-the-screen-lock/"><u>Step-by-Step Guide to Access Your iPhone Bypassing the Screen Lock</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-on-moving-data-from-windows-computer-to-samsung-s10-smartphone/"><u>Step-by-Step Tutorial on Moving Data From Windows Computer to Samsung S10 Smartphone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/troubleshooting-audio-problems-steps-to-resolve-sound-failures-during-screen-mirroring-from-your-android-device/"><u>Troubleshooting Audio Problems: Steps to Resolve Sound Failures During Screen Mirroring From Your Android Device</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unofficial-methods-for-installing-films-onto-your-ipad-bypassing-itunes-requirement/"><u>Unofficial Methods for Installing Films Onto Your iPad Bypassing iTunes Requirement</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unleashing-creativity-in-education-making-amazing-videography-a-reality-on-youtube/"><u>[New] 2024 Approved Unleashing Creativity in Education Making Amazing Videography a Reality on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pinnacle-platforms-transforming-online-interaction/"><u>[New] Pinnacle Platforms Transforming Online Interaction</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-voice-transcription-appraisal-for-2024/"><u>[New] Voice Transcription Appraisal for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/vate-viewers-designing-engaging-youtube-trailers-with-filmora-for-2024/"><u>Captivate Viewers Designing Engaging YouTube Trailers with Filmora for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/discover-the-2022-leading-ergo-friendly-office-chairs-for-maximum-productivity-and-health/"><u>Discover the 2022 Leading Ergo-Friendly Office Chairs for Maximum Productivity and Health</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy XCover 7 Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-pop-8-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Pop 8 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-premium.techidaily.com/instant-savings-grab-a-bargain-with-microsofts-pro-software-pack-project-plus-visio-at-just-20-limited-time-deal-via-zdnet/"><u>Instant Savings: Grab a Bargain with Microsoft's Pro Software Pack (Project + Visio) at Just $20 – Limited Time Deal via ZDNET</u></a></li>
+<li><a href="https://win-premium.techidaily.com/top-2023-gaming-desks-reviewed-find-the-perfect-setup-for-gamers-insights-by-zdnet/"><u>Top 2023 Gaming Desks Reviewed: Find the Perfect Setup for Gamers - Insights by ZDNET</u></a></li>
+<li><a href="https://win-premium.techidaily.com/top-5-comfortable-and-stylish-ergonomic-office-chairs-in-ebout-2022-reviews-by-zdnet/"><u>Top 5 Comfortable & Stylish Ergonomic Office Chairs in Ebout 2022 - Reviews by ZDNet</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unlocking-creativity-with-microsofts-free-powertoys-mastering-fancyzones-in-windows-a-must-read-guide/"><u>Unlocking Creativity with Microsoft's Free PowerToys: Mastering FancyZones in Windows - A Must-Read Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-superior-performance-the-benefits-of-using-the-chatgpt-desktop-app/"><u>Unlocking Superior Performance: The Benefits of Using the ChatGPT Desktop App</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unveiling-from-microsofts-latest-october-surface-innovations-explore-insights-on-zdnet/"><u>Unveiling From Microsoft's Latest October Surface Innovations - Explore Insights on ZDNet</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unveiling-microsofts-latest-strategy-a-fresh-approach-that-may-frustrate-users-dont-be-fooled-by-the-surprise/"><u>Unveiling Microsoft's Latest Strategy: A Fresh Approach That May Frustrate Users - Don't Be Fooled by the Surprise!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unveiling-the-steps-for-instant-video-playback-from-youtube-to-facebook-pages/"><u>Unveiling the Steps for Instant Video Playback From Youtube to Facebook Pages</u></a></li>
 </ul></div>
 

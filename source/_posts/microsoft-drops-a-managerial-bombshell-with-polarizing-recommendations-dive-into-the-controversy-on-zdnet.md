@@ -1,7 +1,7 @@
 ---
 title: Microsoft Drops a Managerial Bombshell with Polarizing Recommendations - Dive Into the Controversy on ZDNET
-date: 2024-10-01T17:13:42.346Z
-updated: 2024-10-08T16:53:30.932Z
+date: 2024-10-07T09:16:54.152Z
+updated: 2024-10-14T13:25:21.486Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,21 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,15 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-compreeved-look-at-effective-spotify-ad-implementation/"><u>[New] A Compreeved Look at Effective Spotify Ad Implementation</u></a></li>
-<li><a href="https://win-premium.techidaily.com/nef-movavi/"><u>簡易線上NEF文件交換功能 - Movavi</u></a></li>
-<li><a href="https://win-premium.techidaily.com/opuswma-movavi/"><u>線上OPUS免費變更為WMA - 利用Movavi編解碼器</u></a></li>
-<li><a href="https://win-premium.techidaily.com/expert-picks-12-best-tools-and-apps-to-improve-video-quality-including-step-by-step-resolution-editing-guides/"><u>Expert Picks: 12 Best Tools and Apps to Improve Video Quality, Including Step-by-Step Resolution Editing Guides</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-boost-engagement-and-growth-unlocking-youtube-analytics-via-social-blade/"><u>In 2024, Boost Engagement and Growth - Unlocking YouTube Analytics via Social Blade</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fascinating-film-categories-to-lure-viewers/"><u>In 2024, Fascinating Film Categories to Lure Viewers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-revamp-your-video-exposure-on-youtube-with-these-simple-steps/"><u>In 2024, Revamp Your Video Exposure on YouTube with These Simple Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mirrored-moments-with-iphone-photography-expertise-for-2024/"><u>Mirrored Moments with iPhone Photography Expertise for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/passos-faceis-para-montar-um-apresentacao-slideshow-musicais-em-computadores-pc-e-apple/"><u>Passos Fáceis Para Montar Um Apresentação Slideshow Musicais Em Computadores PC E Apple</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-dominating-the-index-youtube-seo-tools-that-work-for-2024/"><u>[New] Dominating the Index YouTube SEO Tools That Work for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-free-scape-discovering-the-artistic-no-money-backdrops-of-tiktok/"><u>2024 Approved FREE-Scape Discovering the Artistic No-Money Backdrops of TikTok</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1726219929592-8/"><u>8가지 강력한 사진 배경 정리 팁: 최고의 누끼 사이트 선택</u></a></li>
+<li><a href="https://win-premium.techidaily.com/easy-guide-connecting-your-microsoft-teams-meetings-with-your-television-screen/"><u>Easy Guide: Connecting Your Microsoft Teams Meetings with Your Television Screen</u></a></li>
+<li><a href="https://win-premium.techidaily.com/easy-strategies-capturing-and-saving-telegram-video-calls-successfully/"><u>Easy Strategies: Capturing and Saving Telegram Video Calls Successfully</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-backtracking-in-twitch-broadcasts/"><u>In 2024, Mastering Backtracking in Twitch Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-zoom-to-elevate-your-facebook-lives/"><u>In 2024, Navigating Zoom to Elevate Your Facebook Lives</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-free-gaming-platforms-top-10-sites-for-pc-and-android-downloads/"><u>New In 2024, Best Free Gaming Platforms Top 10 Sites for PC and Android Downloads</u></a></li>
+<li><a href="https://win-premium.techidaily.com/practical-techniques-for-efficient-video-downscaling/"><u>Practical Techniques for Efficient Video Downscaling</u></a></li>
+<li><a href="https://win-premium.techidaily.com/simplified-guide-to-iphone-video-rescue-effortlessly-recover-lost-videos-from-your-iphone/"><u>Simplified Guide to iPhone Video Rescue: Effortlessly Recover Lost Videos From Your iPhone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-on-reflecting-your-pc-display-on-a-tv-screen/"><u>Step-by-Step Tutorial on Reflecting Your PC Display on a TV Screen</u></a></li>
+<li><a href="https://win-premium.techidaily.com/the-ultimate-list-of-cash-generating-online-platforms-for-efficient-home-based-work/"><u>The Ultimate List of Cash-Generating Online Platforms for Efficient Home-Based Work</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unofficial-methods-for-installing-films-onto-your-ipad-bypassing-itunes-requirement/"><u>Unofficial Methods for Installing Films Onto Your iPad Bypassing iTunes Requirement</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-g24-power-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on G24 Power ?</u></a></li>
 </ul></div>
 

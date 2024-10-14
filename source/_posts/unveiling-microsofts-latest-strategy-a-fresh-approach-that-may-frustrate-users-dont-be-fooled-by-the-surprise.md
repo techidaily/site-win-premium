@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft's Latest Strategy: A Fresh Approach That May Frustrate Users - Don't Be Fooled by the Surprise!"
-date: 2024-10-01T17:11:08.907Z
-updated: 2024-10-08T17:09:55.293Z
+date: 2024-10-12T12:45:19.997Z
+updated: 2024-10-14T00:23:55.270Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easy-to-follow-guide-leveraging-mobizen-screensaver/"><u>[Updated] 2024 Approved Easy-to-Follow Guide Leveraging Mobizen Screensaver</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>[Updated] Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-essence-of-uavs-understanding-their-mechanics-and-use/"><u>[Updated] In 2024, The Essence of UAVs Understanding Their Mechanics & Use</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-immersions-analyzing-google-and-samsung-rvr/"><u>2024 Approved Innovative Immersions Analyzing Google and Samsung RVR</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-can-i-incorporate-a-miniature-emblem-in-my-browsers-status-bar-using-flipbuilder/"><u>How Can I Incorporate a Miniature Emblem in My Browser's Status Bar Using FlipBuilder?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-a15-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy A15 4G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-disable-page-flipping-animation-and-audio-on-flipbuilder-tips-and-tricks/"><u>How to Disable Page Flipping Animation & Audio on FlipBuilder - Tips & Tricks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>In 2024, Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>In 2024, Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-virtual-jogging-meets-reality-treadmill-evaluations/"><u>In 2024, Virtual Jogging Meets Reality Treadmill Evaluations</u></a></li>
-<li><a href="https://win-premium.techidaily.com/is-it-possible-to-modify-flipbook-bookmark-typography-with-flipbuildercom-tools/"><u>Is It Possible to Modify Flipbook Bookmark Typography with FlipBuilder.com Tools?</u></a></li>
-<li><a href="https://win-premium.techidaily.com/locating-flip-softwares-assistance-documentation-to-enhance-control-of-flipoffice-pro-flipbuildercom/"><u>Locating Flip Software’s Assistance Documentation to Enhance Control of FlipOffice Pro [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-premium.techidaily.com/mastering-your-reading-experience-how-to-import-bookmarks-into-ebooks-using-flipbuilder/"><u>Mastering Your Reading Experience: How to Import Bookmarks Into eBooks Using FlipBuilder</u></a></li>
-<li><a href="https://win-premium.techidaily.com/reshuffling-image-sequence-for-your-flipbook-project-tips-from-flipbuildercom/"><u>Reshuffling Image Sequence for Your FlipBook Project - Tips From FlipBuilder.com</u></a></li>
-<li><a href="https://win-premium.techidaily.com/resolving-inactive-search-capabilities-in-your-flipbook-created-with-flipbuilder-platform/"><u>Resolving Inactive Search Capabilities in Your FlipBook Created with FlipBuilder Platform</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-crafting-interactive-digital-flipbooks-with-authentic-reading-experience-on-flipbuilder/"><u>Step-by-Step Guide: Crafting Interactive Digital Flipbooks with Authentic Reading Experience on FlipBuilder</u></a></li>
+<li><a href="https://win-premium.techidaily.com/tiffjpeg-movavi/"><u>無料線上Tiff到Jpeg转换 - 使用Movavi图像编辑器</u></a></li>
+<li><a href="https://win-premium.techidaily.com/decouvrez-les-7-equipements-de-couper-le-meilleur-adaptes-aux-ordinateurs-macintosh/"><u>Découvrez Les 7 Équipements De Couper Le Meilleur Adaptés Aux Ordinateurs Macintosh</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-unplanned-desktop-shuts-offs-with-these-proven-solutions/"><u>End Unplanned Desktop Shuts Offs with These Proven Solutions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/excellence-in-editing-selecting-the-right-software-for-2024/"><u>Excellence in Editing Selecting the Right Software for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/free-online-tool-convert-mp4-audio-files-to-ringtone-format-m4r-with-ease/"><u>Free Online Tool: Convert MP4 Audio Files to Ringtone Format (M4R) with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/kostenlos-konvertieren-von-cr2-in-jpeg-mit-hilfe-der-webseite-movavi-einfach-und-effektiv/"><u>Kostenlos Konvertieren Von CR2 in JPEG Mit Hilfe Der Webseite Movavi - Einfach Und Effektiv</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/no-longer-a-mystery-shorts-now-showing-up-for-2024/"><u>No Longer a Mystery Shorts Now Showing Up for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/stream-with-clarity-ranking-the-best-6-microphones-today/"><u>Stream with Clarity Ranking the Best 6 Microphones Today</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-best-ways-to-record-and-preserve-internet-radio-for-2024/"><u>The Best Ways to Record and Preserve Internet Radio for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/top-8-free-photo-editing-software-of-2024-a-comprehensive-guide/"><u>Top 8 Free Photo-Editing Software of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-dvds-comprehensive-guide-and-explanation/"><u>Understanding DVDs: Comprehensive Guide & Explanation</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mp4-gif-movavi/"><u>오픈 소스에서 간단한 MP4 GIF 제공 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft to Implement Significant Security Enhancements Following Severe Criticism - Insights From ZDNet
-date: 2024-10-02T16:56:03.464Z
-updated: 2024-10-08T17:08:18.315Z
+date: 2024-10-09T08:30:27.010Z
+updated: 2024-10-14T10:33:50.605Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +141,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-inside-their-secrets-top-10-youtube-beauty-gurus-you-need-to-see/"><u>[New] 2024 Approved Inside Their Secrets Top 10 YouTube Beauty Gurus You Need to See</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-beat-coffee-stain-effects-with-ioss-complimentary-red-eye-fix-app-for-2024/"><u>[New] Beat Coffee Stain Effects with iOS's Complimentary Red-Eye Fix App for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assessing-the-motorola-edgeplus-does-it-meet-high-end-standards/"><u>Assessing the Motorola Edge+: Does It Meet High-End Standards?</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-and-transform-jibjab-videos-into-multiple-playable-formats-mp4-wmv-avi/"><u>Download & Transform JibJab Videos Into Multiple Playable Formats: MP4, WMV, AVI</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-any-format-effortless-vidpk-content-retrieval-into-multiple-media-types-mp4-mov-avi-mp3-mkv/"><u>Download Any Format: Effortless Vidpk Content Retrieval Into Multiple Media Types (MP4, MOV, AVI, MP3, MKV)</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-full-hd-nhl-matches-and-highlights-in-various-formats-mp4-wmv-mov-avi/"><u>Download Full HD NHL Matches & Highlights in Various Formats (MP4, WMV, MOV, AVI)</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-movies-fast-with-movie4k-pro-app-for-pc-and-mac-users/"><u>Download Movies Fast with Movie4k Pro App for PC and Mac Users!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-soompi-k-dramas-and-songs-in-mp4-wmv-avi-and-mp3-format-for-pc-and-mac/"><u>Download Soompi K-Dramas and Songs in MP4, WMV, AVI & MP3 Format for PC & Mac</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-reno-11-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo Reno 11 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-se-2022-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-productivity-setting-up-a-home-office-with-the-latest-ipad-pro-tips-and-tricks/"><u>Maximizing Productivity: Setting Up a Home Office with the Latest iPad Pro - Tips & Tricks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-c53-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme C53 Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028937589-youtube/"><u>YouTubeアップロード時のエラー解決法:動画が公開されない理由</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-favorite-spotlight-equipment-17/"><u>[Updated] YouTube's Favorite Spotlight Equipment #17</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-12-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme 12 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/2024-zoom/"><u>2024年にぴったり! Zoom 録画対策トップ３テクニック - 使いこなしガイド</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mpegswf-movavi/"><u>線上自由MPEG到SWF的轉換 – 使用Movavi轉換器快速完成</u></a></li>
+<li><a href="https://win-premium.techidaily.com/convert-files-to-wmv-format-free-online-converter-by-movavi/"><u>Convert Files to WMV Format Free - Online Converter by Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cost-cutting-skysavers-for-heavy-file-holdings-for-2024/"><u>Cost-Cutting SkySavers for Heavy File Holdings for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/disabling-in-app-browsing-on-facebook-platform/"><u>Disabling In-App Browsing on Facebook Platform</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Samsung Galaxy Z Fold 5.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/guard-your-images-with-top-photo-watermarks/"><u>Guard Your Images with Top Photo Watermarks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/movavi-screen-recorder-mac-guide-how-to-easily-record-your-screen/"><u>Movavi Screen Recorder Mac Guide - How To Easily Record Your Screen</u></a></li>
+<li><a href="https://win-premium.techidaily.com/movavi-video-editor-convertire-e-editare-i-tuoi-filmati-con-la-versione-online-gratuita/"><u>Movavi Video Editor: Convertire E Editare I Tuoi Filmati Con La Versione OnLine Gratuita</u></a></li>
+<li><a href="https://win-premium.techidaily.com/online-cr2-movavi/"><u>Online CR2 티비프로 자이로 바꾸기 - Movavi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-slack-filmora-duo-for-meeting-management-excellence/"><u>The Ultimate Slack-Filmora Duo for Meeting Management Excellence</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-lava-frp-by-drfone-android/"><u>The Updated Method to Bypass Lava FRP</u></a></li>
+<li><a href="https://win-premium.techidaily.com/transform-audio-files-without-cost-convert-m4a-into-avi-with-movavi/"><u>Transform Audio Files without Cost: Convert M4A Into AVI with Movavi</u></a></li>
+<li><a href="https://win-premium.techidaily.com/transformar-archivos-raf-en-png-por-internet-sin-gaste-utiles-consejos-y-trampas-de-la-herramienta-gratuita-de-movavi/"><u>Transformar Archivos RAF en PNG Por Internet Sin Gaste: Útiles Consejos Y Trampas De La Herramienta Gratuita De Movavi</u></a></li>
 </ul></div>
 

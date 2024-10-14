@@ -1,7 +1,7 @@
 ---
 title: "Save Time & Money: Expert Tips to Automate Admin Tasks with Windows PowerShell for Just 16$ | ZDNET"
-date: 2024-10-06T17:03:17.939Z
-updated: 2024-10-08T16:52:18.747Z
+date: 2024-10-09T13:20:00.091Z
+updated: 2024-10-14T09:18:34.644Z
 tags:
   - windows
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,17 +181,24 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-from-novice-to-expert-a-telegram-web-blueprint/"><u>[New] From Novice to Expert A Telegram Web Blueprint</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elevate-zoom-audio-clarity-with-strategic-effective-tweaks/"><u>[Updated] In 2024, Elevate Zoom Audio Clarity with Strategic, Effective Tweaks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-integration-of-youtube-melodies-into-imovie/"><u>[Updated] Seamless Integration of YouTube Melodies Into iMovie</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-why-are-videos-vanishing-from-a6400/"><u>[Updated] Why Are Videos Vanishing From A6400?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-examination-of-the-lamicall-s-tablet-support-system/"><u>Comprehensive Examination of the Lamicall S Tablet Support System</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-generation-alpha-drives-enhanced-efficiency-in-software-development-insights-from-a-new-study-zdnet/"><u>How Generation Alpha Drives Enhanced Efficiency in Software Development: Insights From a New Study | ZDNet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-find-x6-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo Find X6?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-pixelcutter-studio/"><u>In 2024, PixelCutter Studio</u></a></li>
-<li><a href="https://win-premium.techidaily.com/microsoft-and-pc-manufacturers-reveal-the-latest-windows-11-se-machines-for-classrooms-exclusive-coverage-by-zdnet/"><u>Microsoft and PC Manufacturers Reveal the Latest Windows 11 SE Machines for Classrooms | Exclusive Coverage by ZDNET</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-instructions-on-installing-usb-drivers-for-android-devices/"><u>Step-by-Step Instructions on Installing USB Drivers for Android Devices</u></a></li>
-<li><a href="https://win-premium.techidaily.com/surface-pro-e8s-best-match-comprehensive-review-of-the-rugged-brydge-sp-max-plus-case-for-enhanced-typing-experience-gadgetflow/"><u>Surface Pro E8's Best Match: Comprehensive Review of the Rugged Brydge SP Max Plus Case for Enhanced Typing Experience | GadgetFlow</u></a></li>
-<li><a href="https://win-premium.techidaily.com/the-paradox-of-microsoft-teams-humor-sarcasm-meets-harsh-insights-zdnet/"><u>The Paradox of Microsoft Teams Humor: Sarcasm Meets Harsh Insights | ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-tactics-for-effective-fb-giveaway-campaigns/"><u>[New] 2024 Approved Essential Tactics for Effective FB Giveaway Campaigns</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-softened-screen-debut/"><u>[New] Softened Screen Debut</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-gadgets-that-shine-in-travel-videography/"><u>[Updated] 2024 Approved Gadgets That Shine in Travel Videography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-templates-no-cost-explore-premiere-pro-samples-free/"><u>[Updated] Best Templates, No Cost! Explore Premiere Pro Samples (FREE)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1-video-extractor-pro-convert-wsj-news-footage-into-multiple-formats-mp4-mov-avi/"><u>1. Video Extractor Pro: Convert WSJ News Footage Into Multiple Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-your-favorite-tubi-tv-episodes-and-films-as-mp4avi-files-with-our-easy-to-use-tubi-tv-downloader/"><u>Download Your Favorite Tubi TV Episodes & Films as MP4/AVI Files with Our Easy-to-Use Tubi TV Downloader</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guide-on-how-to-enjoy-a-trial-of-spotify-premium-at-no-cost/"><u>Guide on How to Enjoy a Trial of Spotify Premium at No Cost</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-download-and-convert-video-streams-into-mp4movavi-on-macoswindows-computers/"><u>How to Download and Convert Video Streams Into MP4/MOV/AVI on MacOS/Windows Computers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-dance-like-flickers-in-win11/"><u>No More Dance-Like Flickers in Win11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/quick-fixes-eliminate-ssgnatures-in-a-blink-for-2024/"><u>Quick Fixes Eliminate Ssgnatures in a Blink for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/reshuffling-image-sequence-for-your-flipbook-project-tips-from-flipbuildercom/"><u>Reshuffling Image Sequence for Your FlipBook Project - Tips From FlipBuilder.com</u></a></li>
+<li><a href="https://win-premium.techidaily.com/resolving-inactive-search-capabilities-in-your-flipbook-created-with-flipbuilder-platform/"><u>Resolving Inactive Search Capabilities in Your FlipBook Created with FlipBuilder Platform</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-crafting-interactive-digital-flipbooks-with-authentic-reading-experience-on-flipbuilder/"><u>Step-by-Step Guide: Crafting Interactive Digital Flipbooks with Authentic Reading Experience on FlipBuilder</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-integrating-flash-advertisements-into-your-ebook-with-flipbuilder/"><u>Step-by-Step Guide: Integrating Flash Advertisements Into Your eBook with FlipBuilder</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-walkthrough-for-entering-recovery-mode-on-your-ipad/"><u>The Ultimate Walkthrough for Entering Recovery Mode on Your iPad</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-mastering-flip-image-techniques-on-mac-with-flipbuilder/"><u>Ultimate Guide to Mastering Flip Image Techniques on Mac with FlipBuilder</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-windows-portable-gaming-rig-a-comprehensive-review-of-the-expensive-asus-rog-ally-x/"><u>Unveiling the Best Windows Portable Gaming Rig: A Comprehensive Review of the Expensive Asus ROG Ally X</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-5-leading-digital-audio-workstation-options-for-professional-guitarists-updated/"><u>Updated 2024 Approved 5 Leading Digital Audio Workstation Options for Professional Guitarists, Updated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/what-to-do-if-your-pacific-drive-is-not-bootable-a-guide/"><u>What to Do If Your Pacific Drive Is Not Bootable: A Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Guide to the Leading Surface Laptops and Tablets of 2023: Expert Reviews & Rankings"
-date: 2024-10-06T16:25:27.698Z
-updated: 2024-10-08T16:36:58.152Z
+date: 2024-10-07T22:12:34.055Z
+updated: 2024-10-14T11:58:34.491Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,34 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,16 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-first-time-furnishings-minimalist-house-plans-in-mc/"><u>[New] In 2024, First-Time Furnishings Minimalist House Plans in MC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/discreetly-navigate-through-instagrams-stories-archive/"><u>Discreetly Navigate Through Instagram's Stories Archive</u></a></li>
-<li><a href="https://win-premium.techidaily.com/diy-vlog-tips-mastering-the-art-of-action-shots-on-youtube/"><u>DIY Vlog Tips: Mastering the Art of Action Shots on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-fixing-ieframedll-errors-on-your-computer-or-device/"><u>Expert Tips: Fixing Ieframe.dll Errors on Your Computer or Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-smart-7-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Smart 7 Lock Screen Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-g54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on G54 5G</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-list-10-budget-friendly-sbd-solutions-for-2024/"><u>Leading List 10 Budget-Friendly SBD Solutions for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-launching-issues-successful-strategies-and-tips-to-play-without-glitches/"><u>Outriders Launching Issues? Successful Strategies and Tips to Play Without Glitches</u></a></li>
-<li><a href="https://win-premium.techidaily.com/quick-guide-filling-out-the-mirillis-invoice-form-with-precision/"><u>Quick Guide: Filling Out the Mirillis Invoice Form with Precision</u></a></li>
-<li><a href="https://win-premium.techidaily.com/resolving-the-critical-error-103-in-microsoft-office-a-step-by-step-guide/"><u>Resolving the Critical Error 103 in Microsoft Office: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-premium.techidaily.com/transforming-soundcloud-playlists-into-mp3aacflac-two-effective-techniques/"><u>Transforming SoundCloud Playlists Into MP3/AAC/FLAC - Two Effective Techniques</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-access-granted-after-troubleshooting/"><u>[PRINT] Access Granted After Troubleshooting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-a-step-by-step-approach-to-professional-ps4-gaming-recordings/"><u>[Updated] In 2024, A Step-by-Step Approach to Professional PS4 Gaming Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rated-recs-prime-websites-for-grabbing-snapalert-beats/"><u>2024 Approved Rated Recs Prime Websites for Grabbing SnapAlert Beats</u></a></li>
+<li><a href="https://win-premium.techidaily.com/adjusting-page-dimensions-for-flipbooks-on-flipbuildercom-tutorial/"><u>Adjusting Page Dimensions for Flipbooks on FlipBuilder.com Tutorial</u></a></li>
+<li><a href="https://win-premium.techidaily.com/creating-image-enhanced-downloadable-pdf-files-with-ease-master-the-technique-on-flipbuilder/"><u>Creating Image-Enhanced, Downloadable PDF Files with Ease - Master the Technique on FlipBuilder</u></a></li>
+<li><a href="https://win-premium.techidaily.com/does-flipbuilder-ensure-functionality-of-want-links-at-all-zoom-levels-on-web-pages/"><u>Does FlipBuilder Ensure Functionality of Want Links at All Zoom Levels on Web Pages?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-successfully-export-your-flipbook-creation-onto-a-cd-rom-a-comprehensive-guide/"><u>How to Successfully Export Your FlipBook Creation Onto a CD-ROM: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-boosting-like-counts-tips-for-tiktok-unboxings/"><u>In 2024, Boosting Like Counts Tips for TikTok Unboxings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-voice-changing-methods-in-free-fire/"><u>In 2024, Voice Changing Methods in Free Fire</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/infuse-vibes-into-photos-via-ig-sounds/"><u>Infuse Vibes Into Photos via IG Sounds</u></a></li>
+<li><a href="https://win-premium.techidaily.com/integrating-youtube-videos-into-your-digital-book-with-flipbuilder-a-complete-guide/"><u>Integrating YouTube Videos Into Your Digital Book with FlipBuilder - A Complete Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rankings-confirmed-unveiling-the-exclusivity-of-the-samsung-galaxy-s10-in-our-comprehensive-review/"><u>Top Rankings Confirmed: Unveiling the Exclusivity of the Samsung Galaxy S10 in Our Comprehensive Review</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Infinix Note 30i? | Dr.fone</u></a></li>
 </ul></div>
 

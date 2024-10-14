@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Customizing Key Functions via Keyboard Manager on Windows PCs
-date: 2024-10-03T17:04:28.093Z
-updated: 2024-10-08T16:29:50.722Z
+date: 2024-10-11T07:09:20.538Z
+updated: 2024-10-13T20:28:58.193Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-time-saving-tips-for-a-swift-google-photo-collage-crafting/"><u>[New] Time-Saving Tips for a Swift Google Photo Collage Crafting</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-curating-your-music-collection-the-easy-guide-to-youtube-playlist-creation-webapp/"><u>[Updated] 2024 Approved Curating Your Music Collection The Easy Guide to YouTube Playlist Creation (Web/App)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-easy-steps-for-screenshotting-instagrams-story-section-for-2024/"><u>[Updated] Easy Steps for Screenshotting Instagram's Story Section for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-enriching-insta-videos-employ-three-dynamic-description-techniques-for-2024/"><u>[Updated] Enriching Insta Videos Employ Three Dynamic Description Techniques for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-20-video-cameras-expert-reviews/"><u>[Updated] Top 20 Video Cameras – Expert Reviews</u></a></li>
-<li><a href="https://win-premium.techidaily.com/25-microsoft-office-licenses-on-windows-and-mac-limited-offer-get-yours-now-from-zdnet/"><u>$25 Microsoft Office Licenses on Windows & Mac: Limited Offer - Get Yours Now From ZDNet!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/chief-ai-officers-advocate-for-inclusion-of-regional-data-structures-to-promote-diversity-zdnet/"><u>Chief AI Officers Advocate for Inclusion of Regional Data Structures to Promote Diversity | ZDNET</u></a></li>
-<li><a href="https://win-premium.techidaily.com/enhance-security-with-microsoft-365s-free-vpn-feature-essential-tips-to-activate-it-according-to-zdnet/"><u>Enhance Security with Microsoft 365'S Free VPN Feature - Essential Tips to Activate It, According to ZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-claim-your-no-cost-windows-10-enhancement-from-microsoft-latest-guide/"><u>How to Claim Your No-Cost Windows 10 Enhancement From Microsoft - Latest Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-reno-11-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo Reno 11 5G FRP Bypass</u></a></li>
-<li><a href="https://win-premium.techidaily.com/integrating-microsoft-copilot-into-singapores-legal-systems-what-you-need-to-know-covered-by-zdnet/"><u>Integrating Microsoft Copilot Into Singapore’s Legal Systems: What You Need To Know, Covered by ZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/maximize-lifespan-of-previous-windows-versions-on-new-pcs-top-5-tips-and-hacks-zdnet/"><u>Maximize Lifespan of Previous Windows Versions on New PCs: Top 5 Tips and Hacks | ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-steps-to-get-payday-2-running-smoothly-on-windowspc/"><u>Solution Steps to Get Payday 2 Running Smoothly on Windows/PC</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-instructions-for-integrating-wmv-files-with-final-cut-pro-learn-how/"><u>Step-by-Step Instructions for Integrating WMV Files with Final Cut Pro – Learn How!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-z-flip-5-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy Z Flip 5 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unveiling-strategies-for-apples-triumph-over-tech-giants-at-the-upcoming-wwdc-event-exclusive-analysis-by-zdnet/"><u>Unveiling Strategies for Apple's Triumph Over Tech Giants at the Upcoming WWDC Event | Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-free-design-resources-in-after-effects-land/"><u>[New] 2024 Approved Best Free Design Resources in After Effects Land</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-overcoming-dark-pixels-in-online-video-platform/"><u>[New] 2024 Approved Overcoming Dark Pixels in Online Video Platform</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-recover-missing-youtube-like-icon-in-fb-watch/"><u>[New] 2024 Approved Recover Missing YouTube-Like Icon in FB Watch</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-defeat-synthetic-followers-for-true-popularity-peak/"><u>[Updated] 2024 Approved Defeat Synthetic Followers for True Popularity Peak</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-smile-more-using-emojis-in-youtube-conversations/"><u>[Updated] 2024 Approved Smile More Using Emojis in YouTube Conversations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-discovering-easy-music-arrangement-in-magix-maker-for-2024/"><u>[Updated] Discovering Easy Music Arrangement in Magix Maker for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1-video-extractor-pro-convert-wsj-news-footage-into-multiple-formats-mp4-mov-avi/"><u>1. Video Extractor Pro: Convert WSJ News Footage Into Multiple Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-your-favorite-tubi-tv-episodes-and-films-as-mp4avi-files-with-our-easy-to-use-tubi-tv-downloader/"><u>Download Your Favorite Tubi TV Episodes & Films as MP4/AVI Files with Our Easy-to-Use Tubi TV Downloader</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guide-on-how-to-enjoy-a-trial-of-spotify-premium-at-no-cost/"><u>Guide on How to Enjoy a Trial of Spotify Premium at No Cost</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-11-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 11 to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-ideal-modeling-software-for-animation-professionals/"><u>In 2024, Ideal Modeling Software for Animation Professionals</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-your-reading-experience-how-to-import-bookmarks-into-ebooks-using-flipbuilder/"><u>Mastering Your Reading Experience: How to Import Bookmarks Into eBooks Using FlipBuilder</u></a></li>
+<li><a href="https://win-premium.techidaily.com/reshuffling-image-sequence-for-your-flipbook-project-tips-from-flipbuildercom/"><u>Reshuffling Image Sequence for Your FlipBook Project - Tips From FlipBuilder.com</u></a></li>
+<li><a href="https://win-premium.techidaily.com/resolving-inactive-search-capabilities-in-your-flipbook-created-with-flipbuilder-platform/"><u>Resolving Inactive Search Capabilities in Your FlipBook Created with FlipBuilder Platform</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-crafting-interactive-digital-flipbooks-with-authentic-reading-experience-on-flipbuilder/"><u>Step-by-Step Guide: Crafting Interactive Digital Flipbooks with Authentic Reading Experience on FlipBuilder</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-integrating-flash-advertisements-into-your-ebook-with-flipbuilder/"><u>Step-by-Step Guide: Integrating Flash Advertisements Into Your eBook with FlipBuilder</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamers-dilemma-deciding-between-obs-and-shadowplay-for-2024/"><u>Streamers' Dilemma Deciding Between OBS and ShadowPlay for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-mastering-flip-image-techniques-on-mac-with-flipbuilder/"><u>Ultimate Guide to Mastering Flip Image Techniques on Mac with FlipBuilder</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/flac-alac-3/"><u>ベスト FLAC から ALACへの無料コンバーターソフトを紹介 - トップ3選!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ex-CEO Steve Ballmer Acknowledges Absence of Courage | Industry Analysis on ZDNET
-date: 2024-10-05T16:01:59.755Z
-updated: 2024-10-08T17:14:24.707Z
+date: 2024-10-13T13:02:52.340Z
+updated: 2024-10-13T19:58:49.532Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,25 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>[Updated] 2024 Approved Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unveiling-youtubes-new-era-post-vidcon-events/"><u>[Updated] In 2024, Unveiling Youtube's New Era Post-VidCon Events</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-switching-on-windows-11-for-automatic-hdr-mode/"><u>2024 Approved Switching On Windows 11 for Automatic HDR Mode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avi-qtavi-movavi/"><u>移動到 Avi 格式：QT與Avi之間的無限制、網路版本 - 使用 Movavi</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-generation-alpha-drives-enhanced-efficiency-in-software-development-insights-from-a-new-study-zdnet/"><u>How Generation Alpha Drives Enhanced Efficiency in Software Development: Insights From a New Study | ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-seatechs-versatile-usb-blu-ray-writing-device-varied-efficiency/"><u>In Depth Review of SeaTech's Versatile USB Blu-Ray Writing Device - Varied Efficiency</u></a></li>
-<li><a href="https://win-premium.techidaily.com/microsoft-and-pc-manufacturers-reveal-the-latest-windows-11-se-machines-for-classrooms-exclusive-coverage-by-zdnet/"><u>Microsoft and PC Manufacturers Reveal the Latest Windows 11 SE Machines for Classrooms | Exclusive Coverage by ZDNET</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-methods-to-decrease-mp3-bitrate-without-losing-quality/"><u>Simple Methods to Decrease MP3 Bitrate Without Losing Quality</u></a></li>
-<li><a href="https://win-premium.techidaily.com/stay-updated-with-mirilli-like-share-and-tweet-with-us-now/"><u>Stay Updated with Mirilli: Like, Share & Tweet with Us Now!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/surface-pro-e8s-best-match-comprehensive-review-of-the-rugged-brydge-sp-max-plus-case-for-enhanced-typing-experience-gadgetflow/"><u>Surface Pro E8's Best Match: Comprehensive Review of the Rugged Brydge SP Max Plus Case for Enhanced Typing Experience | GadgetFlow</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/the-paradox-of-microsoft-teams-humor-sarcasm-meets-harsh-insights-zdnet/"><u>The Paradox of Microsoft Teams Humor: Sarcasm Meets Harsh Insights | ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-crafting-memorable-content-on-snapchat-top-tips/"><u>[Updated] In 2024, Crafting Memorable Content on Snapchat (Top Tips)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-essential-enhancements-for-a-superstar-stardew-fan/"><u>[Updated] The Essential Enhancements for a Superstar Stardew Fan</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-hot-oculus-vr-games-that-everyones-playing/"><u>2024 Approved Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/accessing-trendsetting-background-images-for-tiktok-for-2024/"><u>Accessing Trendsetting Background Images for TikTok for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/effective-strategies-for-converting-flipbooks-navigational-guidance-into-french-and-german-languages/"><u>Effective Strategies for Converting FlipBook's Navigational Guidance Into French and German Languages</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-can-i-incorporate-a-miniature-emblem-in-my-browsers-status-bar-using-flipbuilder/"><u>How Can I Incorporate a Miniature Emblem in My Browser's Status Bar Using FlipBuilder?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-disable-page-flipping-animation-and-audio-on-flipbuilder-tips-and-tricks/"><u>How to Disable Page Flipping Animation & Audio on FlipBuilder - Tips & Tricks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-jumpstart-your-snapchat-learn-to-create-top-boomers/"><u>In 2024, Jumpstart Your Snapchat Learn to Create Top Boomers</u></a></li>
+<li><a href="https://win-premium.techidaily.com/is-it-possible-to-modify-flipbook-bookmark-typography-with-flipbuildercom-tools/"><u>Is It Possible to Modify Flipbook Bookmark Typography with FlipBuilder.com Tools?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/locating-flip-softwares-assistance-documentation-to-enhance-control-of-flipoffice-pro-flipbuildercom/"><u>Locating Flip Software’s Assistance Documentation to Enhance Control of FlipOffice Pro [FlipBuilder.com]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/proven-strategies-elevating-your-mobile-capture-game-with-mobizens-expertise/"><u>Proven Strategies Elevating Your Mobile Capture Game with Mobizen's Expertise</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncharted-sci-fi-dimensions-top-10-metaverse-movie-experiences/"><u>Uncharted Sci-Fi Dimensions Top 10 Metaverse Movie Experiences</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

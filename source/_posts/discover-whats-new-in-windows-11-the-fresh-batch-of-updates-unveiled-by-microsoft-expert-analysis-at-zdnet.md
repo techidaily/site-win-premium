@@ -1,7 +1,7 @@
 ---
 title: "Discover What's New in Windows 11: The Fresh Batch of Updates Unveiled by Microsoft | Expert Analysis at ZDNet"
-date: 2024-10-07T16:34:21.537Z
-updated: 2024-10-08T16:40:52.267Z
+date: 2024-10-12T12:19:05.504Z
+updated: 2024-10-14T10:53:15.513Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,15 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-future-in-flight-djis-mavic-pro-breakdown/"><u>[New] The Future in Flight DJI's Mavic Pro Breakdown</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-optimized-text-designs-for-after-effects/"><u>2024 Approved Optimized Text Designs for After Effects</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-film-craft-mastering-thumbnail-creation-on-mobiles/"><u>2024 Approved YouTube Film Craft Mastering Thumbnail Creation on Mobiles</u></a></li>
-<li><a href="https://win-premium.techidaily.com/tiffjpeg-movavi/"><u>無料線上Tiff到Jpeg转换 - 使用Movavi图像编辑器</u></a></li>
-<li><a href="https://win-premium.techidaily.com/mp2wmv-movavi/"><u>無料で高画質！MP2ファイルをWMVにしやすく – 動画再生アプリケーションMovavi</u></a></li>
-<li><a href="https://win-premium.techidaily.com/free-online-tool-convert-mp4-audio-files-to-ringtone-format-m4r-with-ease/"><u>Free Online Tool: Convert MP4 Audio Files to Ringtone Format (M4R) with Ease</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/performance-assessment-of-the-hp-15-inch-notebook-featuring-an-amd-chip-is-it-practical/"><u>Performance Assessment of the HP 15 Inch Notebook Featuring an AMD Chip - Is It Practical?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/proven-strategies-for-exceptional-mondly-engagement/"><u>Proven Strategies for Exceptional Mondly Engagement</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-xs-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone XS Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/taxistikh-metatroph-live-video-se-mp3-xwris-dwrhma-anapoympoystos-and-eydisk/"><u>Ταχιστική Μετατροπή Live Video Σε MP3 Χωρίς Δώρημα - [Αναπουμπούστος & Εύδιsk]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-key-to-viral-posts-on-instagram-unveiled-for-2024/"><u>[New] The Key to Viral Posts on Instagram Unveiled for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-virtual-journey-past-to-present/"><u>2024 Approved The Virtual Journey Past to Present</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-optimal-sites-for-pixel-sounds/"><u>2024 Approved Unveiling Optimal Sites for Pixel Sounds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-methods-for-capturing-skype-conversations-on-your-computer/"><u>Effortless Methods for Capturing Skype Conversations on Your Computer</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/harnessing-predictive-analytics-top-3-benefits-for-sales-and-marketing-synergy-insights-from-the-abbeyy-blog/"><u>Harnessing Predictive Analytics: Top 3 Benefits for Sales & Marketing Synergy - Insights From the ABBEYY Blog</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-12-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 12 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/optimized-surfing-strategies-utilizing-browser-profiles-for-enhanced-efficiency-on-zdnet/"><u>Optimized Surfing Strategies: Utilizing Browser Profiles for Enhanced Efficiency on ZDNet</u></a></li>
+<li><a href="https://win-premium.techidaily.com/reviving-classic-comfort-a-detailed-look-at-keychron-k8-pros-affordability-and-mac-era-appeal-for-modern-typists-zdnet-insights/"><u>Reviving Classic Comfort: A Detailed Look at Keychron K8 Pro's Affordability and Mac Era Appeal for Modern Typists | ZDNet Insights</u></a></li>
+<li><a href="https://win-premium.techidaily.com/save-time-and-money-expert-tips-to-automate-admin-tasks-with-windows-powershell-for-just-16-zdnet/"><u>Save Time & Money: Expert Tips to Automate Admin Tasks with Windows PowerShell for Just 16$ | ZDNET</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-10-best-4k-monitors-for-mac/"><u>Top 10 Best 4K Monitors for Mac</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/understanding-the-new-bill-what-you-need-to-know-about-paying-for-future-windows-cups-technews-today/"><u>Understanding the New Bill: What You Need to Know About Paying for Future Windows Cups | TechNews Today</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unlock-advanced-hidden-gestures-for-your-windows-touchpad-pro-level-techniques-unveiled-by-zdnet/"><u>Unlock Advanced Hidden Gestures for Your Windows Touchpad: Pro-Level Techniques Unveiled by ZDNet!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unlock-free-personal-versions-of-vmwares-fusion-and-workstation-pro-with-our-in-depth-tutorial-updated/"><u>Unlock Free Personal Versions of VMware’s Fusion and Workstation Pro with Our In-Depth Tutorial - Updated!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unveiling-apples-sharp-critique-a-witty-jab-at-windows-computers-identifying-the-target/"><u>Unveiling Apple's Sharp Critique: A Witty Jab at Windows Computers - Identifying the Target?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unveiling-windows-n-11-the-new-version-with-advanced-ai-capabilities-now-available-tech-insights/"><u>Unveiling Windows N 11 - The New Version with Advanced AI Capabilities Now Available | Tech Insights</u></a></li>
+<li><a href="https://win-premium.techidaily.com/upcoming-arm-compatible-windows-applications-why-it-matters/"><u>Upcoming ARM-Compatible Windows Applications: Why It Matters</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-windows-10-video-editing-software-the-best-imovie-replacements-for-2024/"><u>Updated Windows 10 Video Editing Software The Best iMovie Replacements for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/wi-fi-woes-8-proven-ways-to-connect-your-iphoneipad-successfully/"><u>Wi-Fi Woes? 8 Proven Ways to Connect Your iPhone/iPad Successfully</u></a></li>
 </ul></div>
 

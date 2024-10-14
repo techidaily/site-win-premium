@@ -1,7 +1,7 @@
 ---
 title: "$25 Microsoft Office Licenses on Windows & Mac: Limited Offer - Get Yours Now From ZDNet!"
-date: 2024-10-06T17:33:00.785Z
-updated: 2024-10-08T16:44:52.599Z
+date: 2024-10-10T18:38:29.565Z
+updated: 2024-10-13T19:46:04.764Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,23 +149,9 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,15 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-tips-to-smoothly-add-photo-capabilities-into-your-virtual-gatherings/"><u>[New] 2024 Approved Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/op-voice-changer-tools-for-youtubers-find-the-best-option-for-your-videos/"><u>[New] Top Voice Changer Tools for YouTubers Find the Best Option for Your Videos</u></a></li>
-<li><a href="https://win-premium.techidaily.com/ex-ceo-steve-ballmer-acknowledges-absence-of-courage-industry-analysis-on-zdnet/"><u>Ex-CEO Steve Ballmer Acknowledges Absence of Courage | Industry Analysis on ZDNET</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/top-ranked-durable-windows-tablet-featuring-stylus-input-a-comprehensive-review-techradar/"><u>Top-Ranked Durable Windows Tablet Featuring Stylus Input: A Comprehensive Review | TechRadar</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unlock-your-youtube-potential-by-dodging-these-8-typical-mistakes/"><u>Unlock Your YouTube Potential by Dodging These 8 Typical Mistakes</u></a></li>
-<li><a href="https://win-premium.techidaily.com/urgent-alert-microsoft-faces-major-challenge-with-windows-10-as-deadline-looms-just-one-year-away-technewszdnet/"><u>Urgent Alert: Microsoft Faces Major Challenge with Windows 10 as Deadline Looms Just One Year Away | TechNewsZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/windows-11-subscription-model-on-the-horizon-microsoft-considers-paid-updates-from-next-year-zdnet-exclusive-insight/"><u>Windows 11 Subscription Model on the Horizon? Microsoft Considers Paid Updates From Next Year | ZDNET Exclusive Insight</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-beginners-guide-to-earning-success/"><u>YouTube Beginners' Guide to Earning Success</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-expert-edits-at-a-click-2-ways-to-rule-the-world-of-tiktok-reactions-with-filmora-for-2024/"><u>[New] Expert Edits at a Click – 2 Ways to Rule the World of TikTok Reactions with Filmora for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-fundamentals-of-crafting-youtube-videos-from-scratch/"><u>[New] In 2024, The Fundamentals of Crafting YouTube Videos From Scratch</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-profitable-playgrounds-for-youtube-geeks-2024/"><u>[New] Profitable Playgrounds for YouTube Geeks 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-revolutionizing-patient-outreach-with-fb-ads-for-2024/"><u>[New] Revolutionizing Patient Outreach with FB Ads for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-download-fb-content-windows-and-mac-guide-for-2024/"><u>[Updated] Download FB Content Windows & Mac Guide for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1-quick-guide-how-to-save-video-files-in-multiple-formats-from-peekvids-using-the-latest-downloading-tool/"><u>1. Quick Guide: How to Save Video Files in Multiple Formats From PeekVids Using the Latest Downloading Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-streaming-landscape-twitch-vs-youtube-compared/"><u>2024 Approved Understanding the Streaming Landscape Twitch Vs YouTube Compared</u></a></li>
+<li><a href="https://fox-place.techidaily.com/7-to-an-external-hdd/"><u>7 to an External HDD</u></a></li>
+<li><a href="https://win-premium.techidaily.com/allavsoft-vs-movavi-discover-the-premier-mac-and-pc-companion-apps-for-seamless-screen-capturing/"><u>Allavsoft Vs. Movavi: Discover the Premier Mac & PC Companion Apps for Seamless Screen Capturing</u></a></li>
+<li><a href="https://win-premium.techidaily.com/annies-catalog-video-extractor-quick-and-easy-video-downloads-from-anniecatalog/"><u>Annie's Catalog Video Extractor - Quick and Easy Video Downloads From AnnieCatalog</u></a></li>
+<li><a href="https://win-premium.techidaily.com/best-free-tools-the-top-5-alternatives-to-eagleget-for-saving-videos-and-music-without-internet/"><u>Best Free Tools: The Top 5 Alternatives To EagleGet For Saving Videos & Music Without Internet</u></a></li>
+<li><a href="https://win-premium.techidaily.com/convert-and-save-bbc-iplayer-videos-in-high-quality-formats-mp4-and-avi-download-solution/"><u>Convert and Save BBC iPlayer Videos in High-Quality Formats: MP4 & AVI Download Solution</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-support-guide-asus-bt400-bluetooth-adapter/"><u>Download & Support Guide: Asus BT400 Bluetooth Adapter</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-download-and-convert-video-streams-into-mp4movavi-on-macoswindows-computers/"><u>How to Download and Convert Video Streams Into MP4/MOV/AVI on MacOS/Windows Computers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-auto-play-on-fb-video-streams/"><u>In 2024, Mastering Auto-Play on FB Video Streams</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Chief AI Officers Advocate for Inclusion of Regional Data Structures to Promote Diversity | ZDNET
-date: 2024-10-06T17:28:46.840Z
-updated: 2024-10-08T17:36:22.270Z
+date: 2024-10-07T21:05:02.684Z
+updated: 2024-10-14T02:30:41.890Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,21 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,14 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-optimal-distance-approach-to-professional-podcasts/"><u>[Updated] 2024 Approved Optimal Distance Approach to Professional Podcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-pathway-understanding-adobes-storage-solutions-and-best-backups/"><u>[Updated] The Ultimate Pathway Understanding Adobe's Storage Solutions & Best Backups</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-logitechs-enhanced-steering-wheel-control-software-compatible-with-win7win8win10/"><u>Download Logitech's Enhanced Steering Wheel Control Software – Compatible with Win7/Win8/Win10</u></a></li>
-<li><a href="https://win-premium.techidaily.com/getting-the-best-of-both-worlds-in-windows-11-tutorial-on-bringing-back-the-start-button/"><u>Getting the Best of Both Worlds in Windows 11: Tutorial on Bringing Back the Start Button</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-narzo-n55-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme Narzo N55 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/streamline-it-operations-at-16month-expert-windows-powershell-tutorials-by-zdnet/"><u>Streamline IT Operations at $16/Month: Expert Windows PowerShell Tutorials by ZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-customizing-key-functions-via-keyboard-manager-on-windows-pcs/"><u>Ultimate Guide to Customizing Key Functions via Keyboard Manager on Windows PCs</u></a></li>
-<li><a href="https://win-premium.techidaily.com/zdnets-ultimate-guide-to-the-leading-surface-laptops-and-tablets-of-2023-expert-reviews-and-rankings/"><u>ZDNet's Ultimate Guide to the Leading Surface Laptops and Tablets of 2023: Expert Reviews & Rankings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-creating-a-powerful-tiktok-advertising-strategy/"><u>[New] 2024 Approved The Ultimate Guide to Creating a Powerful TikTok Advertising Strategy</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-transformative-tiktok-editing-three-ways-to-alter-video-borders/"><u>[New] Transformative TikTok Editing Three Ways to Alter Video Borders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-melody-seeker-find-mp3-on-fb/"><u>[Updated] 2024 Approved Melody Seeker Find MP3 on FB</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-decoding-the-average-earning-scale-for-podcasters/"><u>2024 Approved Decoding the Average Earning Scale for Podcasters</u></a></li>
+<li><a href="https://win-premium.techidaily.com/convert-your-isites-video-downloads-from-harvard-lectures-into-high-quality-mp4-files/"><u>Convert Your iSites Video Downloads From Harvard Lectures Into High-Quality MP4 Files</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-the-abc-song-get-your-kid-friendly-audio-lessons-without-cost/"><u>Download 'The ABC Song': Get Your Kid-Friendly Audio Lessons Without Cost</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-and-transform-jibjab-videos-into-multiple-playable-formats-mp4-wmv-avi/"><u>Download & Transform JibJab Videos Into Multiple Playable Formats: MP4, WMV, AVI</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-alphorms-complete-course-videos-in-high-quality-formats-like-mp4-or-avi-with-alphorm-downloader/"><u>Download Alphorm's Complete Course Videos in High-Quality Formats Like MP4 or AVI with Alphorm Downloader</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-any-format-effortless-vidpk-content-retrieval-into-multiple-media-types-mp4-mov-avi-mp3-mkv/"><u>Download Any Format: Effortless Vidpk Content Retrieval Into Multiple Media Types (MP4, MOV, AVI, MP3, MKV)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-full-hd-nhl-matches-and-highlights-in-various-formats-mp4-wmv-mov-avi/"><u>Download Full HD NHL Matches & Highlights in Various Formats (MP4, WMV, MOV, AVI)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-movies-fast-with-movie4k-pro-app-for-pc-and-mac-users/"><u>Download Movies Fast with Movie4k Pro App for PC and Mac Users!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/download-soompi-k-dramas-and-songs-in-mp4-wmv-avi-and-mp3-format-for-pc-and-mac/"><u>Download Soompi K-Dramas and Songs in MP4, WMV, AVI & MP3 Format for PC & Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/hands-off-strategies-for-snapshots-of-online-meetings-macpc-platforms/"><u>Hands-Off Strategies for Snapshots of Online Meetings (Mac/PC Platforms)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-11-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme 11 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-picks-recommended-portals-for-acquiring-snapalert-melodies/"><u>Premium Picks Recommended Portals for Acquiring SnapAlert Melodies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issues-with-launching-rainbow-six-siege-fixed/"><u>Resolved: Issues with Launching Rainbow Six Siege Fixed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/simplifying-the-complexities-of-vr-devices-for-2024/"><u>Simplifying the Complexities of VR Devices for 2024</u></a></li>
 </ul></div>
 
