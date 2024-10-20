@@ -1,7 +1,7 @@
 ---
 title: "Urgent Warning: Your Mac Compromised - Signs of Gmail Phishing & Trojan Threats"
-date: 2024-10-09T05:47:37.013Z
-updated: 2024-10-13T19:29:47.774Z
+date: 2024-10-14T19:11:31.681Z
+updated: 2024-10-19T21:02:26.420Z
 tags:
   - product
   - antivirus
@@ -30,13 +30,6 @@ That’s right. These messages are not real but merely attention-seeking gimmick
 
 ![Fake Notifications Mac](https://www.malwarefox.com/wp-content/uploads/2024/02/Fake-Notifications-Mac.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Threat Analysis
 
 | **Name**                | Mac Security Notification Alerts                                                                                                                                      |
@@ -48,10 +41,10 @@ That’s right. These messages are not real but merely attention-seeking gimmick
 | **Removal**             | Scanning Your System through an antivirus/Uninstalling deceptive software/Blocking notifications from random websites                                                 |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why am I receiving these notifications?
@@ -59,6 +52,13 @@ That’s right. These messages are not real but merely attention-seeking gimmick
 Here’s the truth: these alerts are being dispatched to you through[website push notifications](https://tools.techidaily.com/malwarefox/products/). A dubious website has somehow tricked you into giving it permission to send notifications. Now, it’s abusing that privilege by flooding you with fabricated alarms.
 
 The masterminds behind this scheme are banking on your fear. They hope you’ll click on the alerts and be transported to their webpage. Once there, they’ll either demand payment or offer you a software download to “fix” a problem that doesn’t exist. It’s a classic scare tactic aimed to dupe you into parting with your money for a service you don’t actually need.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Am I Really Under Threat?
 
@@ -69,10 +69,10 @@ Manually removing threats may be a time-consuming and difficult task that needs 
 [Download TotalAV](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Remove These Fake Mac Notifications?
@@ -84,10 +84,10 @@ For Safari users, here’s your route: Settings -> Websites -> Notifications. Fr
 ![](https://www.malwarefox.com/wp-content/uploads/2024/02/safari-notifications.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For Chrome users, your path is slightly different: 
@@ -113,20 +113,19 @@ Follow this, and you’ll [get rid of unwanted chrome alerts](https://tools.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-outro-checklist-for-youtube-success/"><u>[New] 2024 Approved The Ultimate Outro Checklist for YouTube Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-leveraging-multimedia-tools-for-enhanced-screencasts-for-2024/"><u>[New] Leveraging Multimedia Tools for Enhanced Screencasts for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-evaluation-report-elite-parrot-ar-drone-20/"><u>[Updated] Evaluation Report Elite Parrot AR Drone 2.0</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-undercover-guide-to-enhancing-your-window-11-experience/"><u>[Updated] The Undercover Guide to Enhancing Your WINDOW 11 Experience</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-the-abc-song-get-your-kid-friendly-audio-lessons-without-cost/"><u>Download 'The ABC Song': Get Your Kid-Friendly Audio Lessons Without Cost</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-and-transform-jibjab-videos-into-multiple-playable-formats-mp4-wmv-avi/"><u>Download & Transform JibJab Videos Into Multiple Playable Formats: MP4, WMV, AVI</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-any-format-effortless-vidpk-content-retrieval-into-multiple-media-types-mp4-mov-avi-mp3-mkv/"><u>Download Any Format: Effortless Vidpk Content Retrieval Into Multiple Media Types (MP4, MOV, AVI, MP3, MKV)</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-full-hd-nhl-matches-and-highlights-in-various-formats-mp4-wmv-mov-avi/"><u>Download Full HD NHL Matches & Highlights in Various Formats (MP4, WMV, MOV, AVI)</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-movies-fast-with-movie4k-pro-app-for-pc-and-mac-users/"><u>Download Movies Fast with Movie4k Pro App for PC and Mac Users!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-soompi-k-dramas-and-songs-in-mp4-wmv-avi-and-mp3-format-for-pc-and-mac/"><u>Download Soompi K-Dramas and Songs in MP4, WMV, AVI & MP3 Format for PC & Mac</u></a></li>
-<li><a href="https://win-premium.techidaily.com/download-the-latest-hip-hop-tracks-and-playlists-free-mp3flac-conversions/"><u>Download the Latest Hip Hop Tracks & Playlists - Free MP3/FLAC Conversions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/exclusive-fb-picturevid-producer-no-fee-for-2024/"><u>Exclusive FB Picture/Vid Producer - No Fee for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-y55s-5g-2023-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo Y55s 5G (2023) and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-process-for-downloading-adobe-on-microsoft-store/"><u>The Complete Process for Downloading Adobe on Microsoft Store</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-best-5-non-youtube-editing-tools-for-vids/"><u>[New] In 2024, Best 5 Non-YouTube Editing Tools for Vids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/treamlining-multiple-youtube-videos-into-one/"><u>[New] Streamlining Multiple YouTube Videos Into One</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-finding-the-right-balance-essential-points-for-lens-shopping-for-2024/"><u>[Updated] Finding the Right Balance Essential Points for Lens Shopping for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728493819254-3/"><u>「物理サーバーから仮想化への転換：最高の3つのソリューション」</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-s23plus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy S23+ Phone When You Forget the Password</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-14-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 14 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/childrens-superiority-in-acquiring-second-languages/"><u>Children's Superiority in Acquiring Second Languages</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guia-completa-el-programa-mas-eficiente-para-clonar-hdd-ide-bajo-windows/"><u>Guía Completa: El Programa Más Eficiente Para Clonar HDD IDE Bajo Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-xs-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone XS</u></a></li>
+<li><a href="https://win-premium.techidaily.com/iphone-to-iphone-music-swap-discover-4-easy-steps-for-perfect-playlist-synchronization/"><u>IPhone to iPhone Music Swap: Discover 4 Easy Steps for Perfect Playlist Synchronization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-mastery-streaming-google-meet-directly-to-youtube-for-2024/"><u>Meeting Mastery Streaming Google Meet Directly to YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stop-scavengers-from-crashing-on-your-computer-windows/"><u>Ultimate Guide to Stop Scavengers From Crashing on Your Computer (Windows)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-guide-step-by-step-file-and-folder-backup-on-windows-systems/"><u>Ultimate Guide: Step-by-Step File & Folder Backup on Windows Systems</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728473082668-sd/"><u>プライバシー保護：マイクロSDカードから完全なデータ消去法</u></a></li>
 </ul></div>
 

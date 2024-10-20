@@ -1,7 +1,7 @@
 ---
 title: Easy Steps for Transferring Files to an Outside HDD in Windows (Versions 11, 10, 8 & Cuj)
-date: 2024-10-10T00:50:08.614Z
-updated: 2024-10-14T06:26:27.840Z
+date: 2024-10-12T21:45:10.339Z
+updated: 2024-10-19T19:01:07.857Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804f026be8d035e08eecc94b3e.jpg
@@ -43,18 +43,18 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -72,9 +72,23 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -130,6 +144,13 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -171,16 +192,10 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -237,13 +252,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -254,13 +262,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -270,26 +271,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -306,20 +300,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-streamlining-audio-integration-in-youtube-videos-for-professionals/"><u>[New] 2024 Approved Streamlining Audio Integration in YouTube Videos for Professionals</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-your-easy-guide-to-revisiting-your-lately-watched-fb-videos/"><u>[New] Your Easy Guide to Revisiting Your Lately Watched FB Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unveiling-the-hidden-truths-behind-vrs-advantages-and-limitations/"><u>[Updated] Unveiling the Hidden Truths Behind VR's Advantages and Limitations</u></a></li>
-<li><a href="https://win-premium.techidaily.com/flac-mp3-convert-online-free-movavi-streaming/"><u>FLAC MP3 Convert Online Free - Movavi Streaming</u></a></li>
-<li><a href="https://win-premium.techidaily.com/free-online-rmvb-to-mp4-converter-quick-and-easy-video-format-change-with-movavi/"><u>Free Online RMVB to MP4 Converter - Quick and Easy Video Format Change with Movavi</u></a></li>
-<li><a href="https://win-premium.techidaily.com/gratuit-wegomzetten-van-wav-naar-mkv-onlinemaker-movavi/"><u>Gratuit Wegomzetten Van WAV Naar MKV - Onlinemaker Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1724765963590-macx-video-converter-pro/"><u>MacX Video Converter Pro公式ガイド: 日本語対応版のダウンロードと使い方</u></a></li>
-<li><a href="https://win-premium.techidaily.com/mov-file-conversion-da-aiff-a-gratuito-on-line-come-usare-il-servizio-di-convertitore-vidio-fast-e-affidabile/"><u>MOV File Conversion Da AIFF a Gratuito On-Line: Come Usare Il Servizio Di Convertitore Vidio Fast E Affidabile</u></a></li>
-<li><a href="https://win-premium.techidaily.com/movavi-tiff/"><u>Movavi를 사용한 자이로나에서 TIFF 전환 무료 스테이징 – 제안해 주세요!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/perfectionnement-dimages-sur-macos-via-le-logiciel-editeur-photo-movavi-guide-complet-au-montage-et-a-la-retouche/"><u>Perfectionnement D'images Sur macOS via Le Logiciel Éditeur Photo Movavi - Guide Complet Au Montage Et À La Retouche</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-oneplus-open-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from OnePlus Open</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-short-life-of-game-servers-is-it-concerning/"><u>The Short Life of Game Servers – Is It Concerning?</u></a></li>
-<li><a href="https://win-premium.techidaily.com/transformation-libre-de-fichiers-opus-en-wav-sur-internet-outil-gratuit-chez-movavi/"><u>Transformation Libre De Fichiers OPUS en WAV Sur Internet - Outil Gratuit Chez Movavi</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unlock-snapchats-secrets-recording-made-simple-for-2024/"><u>Unlock Snapchat's Secrets Recording Made Simple for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-perfect-your-youtube-videos-after-publishing/"><u>[New] Perfect Your YouTube Videos After Publishing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>[Updated] 2024 Approved Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-beauty-tips-and-tricks-collection/"><u>2024 Approved Beauty Tips & Tricks Collection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mixing-made-easy-free-luts-bundle-includes-dji-miniair-2/"><u>2024 Approved Mixing Made Easy Free LUTS Bundle Includes DJI Mini/Air 2</u></a></li>
+<li><a href="https://win-premium.techidaily.com/comment-reparer-et-installer-un-ssd-a-linterieur-de-la-tour/"><u>Comment Réparer Et Installer Un SSD À L'Intérieur De La Tour</u></a></li>
+<li><a href="https://win-premium.techidaily.com/controlled-heating-and-cooling-cycles-can-increase-toughness-hardness-or-ductility-as-needed/"><u>Controlled Heating and Cooling Cycles Can Increase Toughness, Hardness, or Ductility as Needed.</u></a></li>
+<li><a href="https://win-premium.techidaily.com/decouvrez-comment-recuperer-vos-courriels-perdus-sur-yahoo-guide-complet/"><u>Découvrez Comment Récupérer Vos Courriels Perdus Sur Yahoo - Guide Complet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diy-karaoke-bash-in-the-comfort-of-your-living-room-step-by-step/"><u>DIY Karaoke Bash in the Comfort of Your Living Room - Step by Step</u></a></li>
+<li><a href="https://win-premium.techidaily.com/duplizieren-von-windows-11-partitionen-auf-ssd-techniken-und-methoden/"><u>Duplizieren Von Windows 11 Partitionen Auf SSD - Techniken Und Methoden</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-resolve-plugged-in-but-not-charging-issue-on-pcs-running-windows-710/"><u>Fixes and Solutions: How to Resolve 'Plugged In but Not Charging' Issue on PCs Running Windows 7/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010893129-fixing-not-responding-errors-in-madden-22-simple-steps-to-success/"><u>Fixing 'Not Responding' Errors in Madden 22 – Simple Steps to Success!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-revolutionizing-photo-quality-with-auto-and-smart-hdr-features/"><u>In 2024, Revolutionizing Photo Quality with Auto and Smart HDR Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-artificial-intelligence-notetakers-reviewed/"><u>Leading Artificial Intelligence Notetakers Reviewed</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unified-data-protection-aomei-united-backup-for-microsoft-exchange-servers/"><u>Unified Data Protection: AOMEI United Backup for Microsoft Exchange Servers</u></a></li>
 </ul></div>
 

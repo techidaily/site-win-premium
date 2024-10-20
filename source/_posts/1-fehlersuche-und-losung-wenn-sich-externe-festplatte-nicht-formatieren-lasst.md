@@ -1,7 +1,7 @@
 ---
 title: "1. Fehlersuche Und Lösung: Wenn Sich Externe Festplatte Nicht Formatieren Lässt"
-date: 2024-10-10T06:10:00.583Z
-updated: 2024-10-14T01:21:27.473Z
+date: 2024-10-18T12:46:05.650Z
+updated: 2024-10-20T06:14:29.252Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b6ba28a8cbc4962b19ff9bb8173aa467ae4382bcff0dac604a5e0846ad2b1ff2.png
@@ -49,13 +49,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -76,6 +69,13 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -93,6 +93,19 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -113,10 +126,10 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -138,10 +151,10 @@ Passo 4\. Attendi il Completamento:
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
@@ -157,13 +170,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -226,10 +232,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -262,6 +268,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -271,13 +284,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,18 +300,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-add-music-to-facebook-story-for-2024/"><u>[New] How to Add Music to Facebook Story for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapshot-savvy-learn-to-pin-on-snapchat/"><u>[New] Snapshot Savvy Learn to Pin on Snapchat</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-clarity-selecting-10-superior-lenses/"><u>2024 Approved Capturing Clarity Selecting 10 Superior Lenses</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-vector-illustration-software-a-must-have-list-for-artists-for-2024/"><u>Best Vector Illustration Software A Must-Have List for Artists for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/delving-into-prompt-engineering-job-opportunities-9-crucial-elements-for-your-decision/"><u>Delving Into Prompt Engineering Job Opportunities - 9 Crucial Elements for Your Decision</u></a></li>
-<li><a href="https://win-premium.techidaily.com/diy-vlog-tips-mastering-the-art-of-action-shots-on-youtube/"><u>DIY Vlog Tips: Mastering the Art of Action Shots on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-generation-alpha-drives-enhanced-efficiency-in-software-development-insights-from-a-new-study-zdnet/"><u>How Generation Alpha Drives Enhanced Efficiency in Software Development: Insights From a New Study | ZDNet</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-innovative-video-marketing-youtube-trailers-with-filmora/"><u>In 2024, Innovative Video Marketing YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://win-premium.techidaily.com/quick-guide-filling-out-the-mirillis-invoice-form-with-precision/"><u>Quick Guide: Filling Out the Mirillis Invoice Form with Precision</u></a></li>
-<li><a href="https://win-premium.techidaily.com/resolving-the-critical-error-103-in-microsoft-office-a-step-by-step-guide/"><u>Resolving the Critical Error 103 in Microsoft Office: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-trackpad-effective-fixes-for-windows-11-8-and-7-not-working-scenarios/"><u>Revive Your Trackpad: Effective Fixes for Windows 11, 8 & 7 Not Working Scenarios</u></a></li>
-<li><a href="https://win-premium.techidaily.com/stay-updated-with-mirilli-like-share-and-tweet-with-us-now/"><u>Stay Updated with Mirilli: Like, Share & Tweet with Us Now!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-mobile-panorama-tips-for-skyward-shots/"><u>[New] In 2024, Mobile Panorama Tips for Skyward Shots</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-reviewing-microsoft-hololens-the-3d-interactive-future/"><u>[New] In 2024, Reviewing Microsoft HoloLens The 3D Interactive Future</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-heimdalls-vigil-gods-clash-in-ragnarok/"><u>[Updated] 2024 Approved Heimdall's Vigil Gods Clash in Ragnarok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-thorough-insight-into-androids-lightroom-application/"><u>2024 Approved A Thorough Insight Into Android's Lightroom Application</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728500074664-lol/"><u>立即解決：發現LOL視頻丟失的地方</u></a></li>
+<li><a href="https://win-premium.techidaily.com/comprehensive-guide-to-optimizing-disk-space-with-vmware-snapshot-combination-strategies/"><u>Comprehensive Guide to Optimizing Disk Space with VMware Snapshot Combination Strategies</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-easy-desktop-recording-with-filmora-scrn-a-quick-start-guide/"><u>In 2024, Easy Desktop Recording with Filmora Scrn A Quick Start Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/retrieve-past-moments-easily-a-guide-to-finding-vintage-images/"><u>Retrieve Past Moments Easily: A Guide to Finding Vintage Images</u></a></li>
+<li><a href="https://win-premium.techidaily.com/siegende-ssd-migrationslosung-fur-windows-fugt-es-ihrem-pc-hinzu/"><u>Siegende SSD-Migrationslösung Für Windows - Fügt Es Ihrem PC Hinzu!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-securely-saving-files-with-reliable-backup-methods-in-various-windows-operating-systems-111087/"><u>Step-by-Step Tutorial: Securely Saving Files with Reliable Backup Methods in Various Windows Operating Systems (11/10/8/7)</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-speech-recognition-failure-to-initialize/"><u>Stop Windows Speech Recognition Failure to Initialize</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-psvr2-secrets-a-comprehensive-guide-on-pricing-launch-dates-and-tech-features/"><u>Unraveling PSVR2 Secrets: A Comprehensive Guide on Pricing, Launch Dates, and Tech Features</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-free-gif-animators-for-endless-loops-for-2024/"><u>Updated Top Free GIF Animators for Endless Loops for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728493982069-windows-server-aomei-backupper/"><u>Windows Server 強力なバックアップソリューション - AOMEI Backupperとは？</u></a></li>
 </ul></div>
 

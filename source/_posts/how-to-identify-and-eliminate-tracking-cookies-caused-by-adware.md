@@ -1,7 +1,7 @@
 ---
 title: How to Identify & Eliminate Tracking Cookies Caused by Adware
-date: 2024-10-11T09:43:14.219Z
-updated: 2024-10-13T21:07:17.924Z
+date: 2024-10-15T02:43:02.747Z
+updated: 2024-10-19T23:26:59.902Z
 tags:
   - product
   - antivirus
@@ -87,21 +87,15 @@ Google ChromeMozilla FirefoxMicrosoft Edge
 3. On the Settings page, click on **Privacy and security** on the left pane.  
 ![choose-privacy-and-security](https://www.malwarefox.com/wp-content/uploads/2021/11/choose-privacy-and-security.png)
 4. Under Privacy and security, select **Clear browsing data**.![clear-browsing-data-chrome](https://www.malwarefox.com/wp-content/uploads/2021/11/clear-browsing-data-chrome.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. On the Clear browsing data pop-up window, select time range, ensure to choose **Cookies and other site data**, and then click on **Clear data**.![clear-cookies](https://www.malwarefox.com/wp-content/uploads/2021/11/clear-cookies.png)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **Remove Cookies from Mozilla Firefox Browser**
 
@@ -109,10 +103,16 @@ Google ChromeMozilla FirefoxMicrosoft Edge
 2. Click on the **Privacy & Security** on the left pane.![privacy-&-security-firefox](https://www.malwarefox.com/wp-content/uploads/2021/11/privacy-security-firefox.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Scroll down and under **Cookies and Site Data**, click on **Clear Data**.![clear-data-firefox](https://www.malwarefox.com/wp-content/uploads/2021/11/clear-data-firefox.png)
@@ -122,16 +122,38 @@ Google ChromeMozilla FirefoxMicrosoft Edge
 
 1. Launch Microsoft Edge browser, and click on three vertical dots to select **Settings**.![edge-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/edge-settings.png)
 2. Click on the **Privacy, search, and services** under settings on the left pane.![privacy-settings-edge](https://www.malwarefox.com/wp-content/uploads/2021/11/privacy-settings-edge.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Scroll down and under Clear browsing data, click on **Choose what to clear**.![choose-what-to-clear-from-edge](https://www.malwarefox.com/wp-content/uploads/2021/11/choose-what-to-clear-from-edge.png)
 4. On the pop-up, select **Time range**, ensure to tick mark the **Cookies and other site data** option, and finally click the **Clear now** button.![clear-cookies-fron-edge](https://www.malwarefox.com/wp-content/uploads/2021/11/clear-cookies-fron-edge.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Delete Cookies Folder**
@@ -146,10 +168,10 @@ To remove the Adware Tracking Cookies, you can delete the folder containing them
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Uninstall the suspicious Applications**
@@ -164,13 +186,6 @@ Windows 10Windows 11
 ![Open Task Manager](https://www.malwarefox.com/wp-content/uploads/2020/05/Open-Task-Manger.png)
 2. Watch out for the applications that are consuming the system memory even though you did not install or launch them.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Right-click on the suspicious application and open its file location.  
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
@@ -180,13 +195,6 @@ Windows 10Windows 11
 
 1. Right-click on the Start button and select **Task Manager** from the list.![Windows-11-task-manager](https://www.malwarefox.com/wp-content/uploads/2021/09/Windows-11-task-manager.png)
 2. Look out for the applications which are unnecessarily consuming the system resources without actively running.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Right-click on such applications and open their file location.![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete all files from the targeted folder. Some files won’t be deleted as the application is still active.
@@ -211,13 +219,6 @@ Manually removing adware can be a tedious task, and it takes a lot of time and e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to keep Adware Tracking Cookies away from the system?
 
 Adware Tracking Cookies can be devastating. Here are some preventive tips to keep them away from your device:
@@ -236,6 +237,13 @@ Even the most harmless cookies store personal data. And this is why antivirus so
 **Do Adware Tracking Cookies make your Computer slow?** 
 
 Every computer program needs memory to run. Because adware is also a computer program that enters into your system due to adware tracking cookies, it also consumes some memory. The presence of many adware makes your system run slow.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -262,24 +270,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-compile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition-for-2024/"><u>[New] Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-automatic-subtitles-for-instagram-stories-and-reels/"><u>[New] In 2024, Mastering Automatic Subtitles for Instagram Stories & Reels</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-mastering-facebook-live-embedding-techniques-on-websites/"><u>[Updated] In 2024, Mastering Facebook Live Embedding Techniques on Websites</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ultimate-streamers-guide-to-best-free-options-across-every-system/"><u>[Updated] In 2024, Ultimate Streamer's Guide to Best Free Options Across Every System</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-making-the-most-out-of-creative-commons-licenses/"><u>[Updated] Making the Most Out of Creative Commons Licenses</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-shooter-showdown-our-best-picks-for-2024/"><u>[Updated] Ultimate Shooter Showdown - Our Best Picks for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>2024 Approved State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
-<li><a href="https://win-premium.techidaily.com/easy-guide-connecting-your-microsoft-teams-meetings-with-your-television-screen/"><u>Easy Guide: Connecting Your Microsoft Teams Meetings with Your Television Screen</u></a></li>
-<li><a href="https://win-premium.techidaily.com/easy-strategies-capturing-and-saving-telegram-video-calls-successfully/"><u>Easy Strategies: Capturing and Saving Telegram Video Calls Successfully</u></a></li>
-<li><a href="https://win-premium.techidaily.com/emeditor-configure-store-options-via-inixml-files-rather-than-using-the-registry/"><u>EmEditor: Configure Store Options via .ini/XML Files Rather Than Using the Registry</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/expert-tips-for-enjoying-high-dynamic-range-in-4k-ultimate-visuals-a-complete-how-to-manual/"><u>Expert Tips for Enjoying High Dynamic Range in 4K Ultimate Visuals: A Complete How-To Manual</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>In 2024, The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
-<li><a href="https://win-premium.techidaily.com/practical-techniques-for-efficient-video-downscaling/"><u>Practical Techniques for Efficient Video Downscaling</u></a></li>
-<li><a href="https://win-premium.techidaily.com/simplified-guide-to-iphone-video-rescue-effortlessly-recover-lost-videos-from-your-iphone/"><u>Simplified Guide to iPhone Video Rescue: Effortlessly Recover Lost Videos From Your iPhone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-on-moving-data-from-windows-computer-to-samsung-s10-smartphone/"><u>Step-by-Step Tutorial on Moving Data From Windows Computer to Samsung S10 Smartphone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-tutorial-on-reflecting-your-pc-display-on-a-tv-screen/"><u>Step-by-Step Tutorial on Reflecting Your PC Display on a TV Screen</u></a></li>
-<li><a href="https://win-premium.techidaily.com/the-ultimate-list-of-cash-generating-online-platforms-for-efficient-home-based-work/"><u>The Ultimate List of Cash-Generating Online Platforms for Efficient Home-Based Work</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unofficial-methods-for-installing-films-onto-your-ipad-bypassing-itunes-requirement/"><u>Unofficial Methods for Installing Films Onto Your iPad Bypassing iTunes Requirement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-optimizing-playback-speed-with-professional-tactics/"><u>[New] 2024 Approved Optimizing Playback Speed with Professional Tactics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-digital-illustration-turning-your-favorite-vimeo-videos-into-gifs/"><u>[New] In 2024, Digital Illustration Turning Your Favorite Vimeo Videos Into GIFs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-posts-top-3-instagram-highlight-methods/"><u>[Updated] Boost Your Posts Top 3 Instagram Highlight Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-boosting-engagement-uploading-and-sharing-on-instagram-desktop-for-2024/"><u>[Updated] Boosting Engagement Uploading and Sharing on Instagram Desktop for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-youtubes-edge-and-dailymotions-charms-an-in-depth-look/"><u>[Updated] YouTube's Edge & Dailymotion's Charms An In-Depth Look</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigating-reddit-submissions-practical-steps-unveiled/"><u>2024 Approved Navigating Reddit Submissions Practical Steps Unveiled</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728495461880-biosuefi/"><u>将BIOS系统升级为UEFI - 改变旧版本的详解指南</u></a></li>
+<li><a href="https://win-premium.techidaily.com/wetransfer/"><u>如何在WeTransfer上找到并删除过期文件</u></a></li>
+<li><a href="https://win-premium.techidaily.com/a-beginners-guide-to-installing-windows-11-on-master-boot-record-drives/"><u>A Beginner's Guide to Installing Windows 11 on Master Boot Record Drives</u></a></li>
+<li><a href="https://win-premium.techidaily.com/definitive-step-by-step-solution-for-addressing-critical-pagekill-memory-issues/"><u>Definitive Step-by-Step Solution for Addressing Critical PageKill Memory Issues</u></a></li>
+<li><a href="https://win-premium.techidaily.com/effiziente-behebung-des-fehlers-xc00000e-in-windows-11-schritt-fur-schritt-anleitungen-und-backup-tipps/"><u>Effiziente Behebung Des Fehlers XC00000E in Windows 11 - Schritt-Für-Schritt Anleitungen Und Backup-Tipps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms/"><u>In 2024, The Ultimate Guide Shifting Your Profile Picture on Global Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-setup-downloading-your-validity-fingerprint-sensor-driver-made-effortless/"><u>Quick Setup: Downloading Your Validity Fingerprint Sensor Driver Made Effortless</u></a></li>
+<li><a href="https://win-premium.techidaily.com/resolucion-de-errores-recursos-recientes-no-se-visualizan-en-word/"><u>Resolución De Errores - Recursos Recientes No Se Visualizan en Word</u></a></li>
+<li><a href="https://win-premium.techidaily.com/simple-steps-to-recover-a-lost-efi-partition-on-windows-11/"><u>Simple Steps to Recover a Lost EFI Partition on Windows 11</u></a></li>
 </ul></div>
 

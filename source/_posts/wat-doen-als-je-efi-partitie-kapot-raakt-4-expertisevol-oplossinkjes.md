@@ -1,7 +1,7 @@
 ---
 title: Wat Doen Als Je EFI-Partitie Kapot Raakt? 4 Expertisevol Oplossinkjes!
-date: 2024-10-12T18:11:51.154Z
-updated: 2024-10-14T00:32:21.311Z
+date: 2024-10-18T19:15:50.350Z
+updated: 2024-10-20T07:12:56.519Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/15ae4ec50f813ccf114a4b81e7df4971867857563b2d6cb86a1f4c6b8ae4a880.jpg
@@ -66,10 +66,10 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -97,22 +97,15 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -143,22 +136,15 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -180,6 +166,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -188,13 +181,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -212,24 +212,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-upgrade-your-facebook-experience-with-the-best-5-extensions/"><u>[New] 2024 Approved Upgrade Your Facebook Experience with the Best 5 Extensions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-tech-tools-for-distance-podcasting/"><u>[New] In 2024, Tech Tools for Distance Podcasting</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-dawn-of-a-new-era-key-fb-ad-trends-arriving/"><u>2024 Approved The Dawn of a New Era Key FB Ad Trends Arriving</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-influence-on-transforming-dreams-into-tangible-outcomes-discover-how/"><u>AI's Influence on Transforming Dreams Into Tangible Outcomes - Discover How!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/best-free-software-download-sites-top-10-choices-you-need-to-know/"><u>Best Free Software Download Sites: Top 10 Choices You Need to Know</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-xvid-hd-full-resolution-movies-step-by-step-guide-2017-edition/"><u>Download Xvid HD Full-Resolution Movies - Step by Step Guide, 2017 Edition</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/expert-guide-to-reviving-a-non-responsive-hp-monitor-or-screen/"><u>Expert Guide to Reviving a Non-Responsive HP Monitor or Screen</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-premier-gamers-streaming-software/"><u>In 2024, Premier Gamers' Streaming Software</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-professional-video-gear-guide-top-18-for-4k-film/"><u>In 2024, Professional Video Gear Guide Top 18 for 4K Film</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-image-enhancement-with-audio/"><u>Online Image Enhancement with Audio</u></a></li>
-<li><a href="https://win-premium.techidaily.com/reviving-classic-comfort-a-detailed-look-at-keychron-k8-pros-affordability-and-mac-era-appeal-for-modern-typists-zdnet-insights/"><u>Reviving Classic Comfort: A Detailed Look at Keychron K8 Pro's Affordability and Mac Era Appeal for Modern Typists | ZDNet Insights</u></a></li>
-<li><a href="https://win-premium.techidaily.com/save-time-and-money-expert-tips-to-automate-admin-tasks-with-windows-powershell-for-just-16-zdnet/"><u>Save Time & Money: Expert Tips to Automate Admin Tasks with Windows PowerShell for Just 16$ | ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-influence-of-artificial-intelligence-directive-by-eu-on-platforms-and-tools-such-as-chatgpt/"><u>The Influence of Artificial Intelligence Directive by EU on Platforms and Tools Such as ChatGPT</u></a></li>
-<li><a href="https://win-premium.techidaily.com/understanding-the-new-bill-what-you-need-to-know-about-paying-for-future-windows-cups-technews-today/"><u>Understanding the New Bill: What You Need to Know About Paying for Future Windows Cups | TechNews Today</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unlock-advanced-hidden-gestures-for-your-windows-touchpad-pro-level-techniques-unveiled-by-zdnet/"><u>Unlock Advanced Hidden Gestures for Your Windows Touchpad: Pro-Level Techniques Unveiled by ZDNet!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unlock-free-personal-versions-of-vmwares-fusion-and-workstation-pro-with-our-in-depth-tutorial-updated/"><u>Unlock Free Personal Versions of VMware’s Fusion and Workstation Pro with Our In-Depth Tutorial - Updated!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unveiling-apples-sharp-critique-a-witty-jab-at-windows-computers-identifying-the-target/"><u>Unveiling Apple's Sharp Critique: A Witty Jab at Windows Computers - Identifying the Target?</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unveiling-windows-n-11-the-new-version-with-advanced-ai-capabilities-now-available-tech-insights/"><u>Unveiling Windows N 11 - The New Version with Advanced AI Capabilities Now Available | Tech Insights</u></a></li>
-<li><a href="https://win-premium.techidaily.com/upcoming-arm-compatible-windows-applications-why-it-matters/"><u>Upcoming ARM-Compatible Windows Applications: Why It Matters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-creating-compelling-content-with-powerful-youtube-titles/"><u>[Updated] 2024 Approved Creating Compelling Content with Powerful YouTube Titles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-trailblazers-crafting-immersive-virtual-landscapes/"><u>2024 Approved Trailblazers Crafting Immersive Virtual Landscapes</u></a></li>
+<li><a href="https://win-premium.techidaily.com/aomei-backupper-localization-tutorial-changing-interface-language-settings/"><u>AOMEI Backupper Localization Tutorial - Changing Interface Language Settings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-solutions-for-non-functional-hyperx-cloud-mic/"><u>Common Problems and Solutions for Non-Functional HyperX Cloud Mic</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ensure-uncompromised-data-integrity-with-synology-linux-based-backup-solutions/"><u>Ensure Uncompromised Data Integrity with Synology Linux-Based Backup Solutions</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guida-completa-al-massimo-efficace-strategia-di-backup-per-windows-7-8-10-e-11-su-wd-my-cloud/"><u>Guida Completa Al Massimo Efficace Strategia Di Backup per Windows 7, 8, 10 E 11 Su WD My Cloud</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-is-sns-hdr-pro-worth-your-investment-a-critical-look/"><u>In 2024, Is SNS HDR Pro Worth Your Investment A Critical Look</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>New Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/recording-made-simple-for-mac-at-no-charge/"><u>Recording Made Simple for Mac - At No Charge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-graphical-glitches-and-missing-details-in-cod-warzone-maps/"><u>Solving Graphical Glitches and Missing Details in COD: Warzone Maps</u></a></li>
+<li><a href="https://win-premium.techidaily.com/telechargement-gratuit-logiciel-de-sauvegarde-et-restauration-pour-windows-avec-aomei-backupper/"><u>Téléchargement Gratuit : Logiciel De Sauvegarde Et Restauration Pour Windows Avec AOMEI Backupper</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-know-that-you-can-apply-different-luts-and-create-your-own-there-are-many-lut-online-and-offline-generators-that-you-can-use-to/"><u>Updated 2024 Approved Do You Know that You Can Apply Different LUTs and Create Your Own? There Are Many LUT Online and Offline Generators that You Can Use to Create Your LUT</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728465765146-windows-1087/"><u>Windows 10/8/7 系統拷貝至外部磁碟最優點指南</u></a></li>
 </ul></div>
 
