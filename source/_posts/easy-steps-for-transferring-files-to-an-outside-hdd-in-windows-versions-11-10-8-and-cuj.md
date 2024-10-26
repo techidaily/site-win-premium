@@ -1,7 +1,7 @@
 ---
 title: Easy Steps for Transferring Files to an Outside HDD in Windows (Versions 11, 10, 8 & Cuj)
-date: 2024-10-12T21:45:10.339Z
-updated: 2024-10-19T19:01:07.857Z
+date: 2024-10-20T20:26:47.039Z
+updated: 2024-10-25T19:18:30.762Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804f026be8d035e08eecc94b3e.jpg
@@ -50,10 +50,16 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -72,23 +78,9 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -108,6 +100,13 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -125,6 +124,19 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -145,10 +157,10 @@ Passo 4\. Attendi il Completamento:
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
@@ -190,13 +202,6 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -252,6 +257,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -262,6 +274,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -269,19 +288,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -300,19 +306,16 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-perfect-your-youtube-videos-after-publishing/"><u>[New] Perfect Your YouTube Videos After Publishing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>[Updated] 2024 Approved Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-beauty-tips-and-tricks-collection/"><u>2024 Approved Beauty Tips & Tricks Collection</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mixing-made-easy-free-luts-bundle-includes-dji-miniair-2/"><u>2024 Approved Mixing Made Easy Free LUTS Bundle Includes DJI Mini/Air 2</u></a></li>
-<li><a href="https://win-premium.techidaily.com/comment-reparer-et-installer-un-ssd-a-linterieur-de-la-tour/"><u>Comment Réparer Et Installer Un SSD À L'Intérieur De La Tour</u></a></li>
-<li><a href="https://win-premium.techidaily.com/controlled-heating-and-cooling-cycles-can-increase-toughness-hardness-or-ductility-as-needed/"><u>Controlled Heating and Cooling Cycles Can Increase Toughness, Hardness, or Ductility as Needed.</u></a></li>
-<li><a href="https://win-premium.techidaily.com/decouvrez-comment-recuperer-vos-courriels-perdus-sur-yahoo-guide-complet/"><u>Découvrez Comment Récupérer Vos Courriels Perdus Sur Yahoo - Guide Complet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diy-karaoke-bash-in-the-comfort-of-your-living-room-step-by-step/"><u>DIY Karaoke Bash in the Comfort of Your Living Room - Step by Step</u></a></li>
-<li><a href="https://win-premium.techidaily.com/duplizieren-von-windows-11-partitionen-auf-ssd-techniken-und-methoden/"><u>Duplizieren Von Windows 11 Partitionen Auf SSD - Techniken Und Methoden</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-resolve-plugged-in-but-not-charging-issue-on-pcs-running-windows-710/"><u>Fixes and Solutions: How to Resolve 'Plugged In but Not Charging' Issue on PCs Running Windows 7/10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010893129-fixing-not-responding-errors-in-madden-22-simple-steps-to-success/"><u>Fixing 'Not Responding' Errors in Madden 22 – Simple Steps to Success!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-revolutionizing-photo-quality-with-auto-and-smart-hdr-features/"><u>In 2024, Revolutionizing Photo Quality with Auto and Smart HDR Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-artificial-intelligence-notetakers-reviewed/"><u>Leading Artificial Intelligence Notetakers Reviewed</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unified-data-protection-aomei-united-backup-for-microsoft-exchange-servers/"><u>Unified Data Protection: AOMEI United Backup for Microsoft Exchange Servers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-write-an-attractive-vlog-script/"><u>[Updated] How to Write an Attractive Vlog Script</u></a></li>
+<li><a href="https://win-premium.techidaily.com/windows-1110tpm/"><u>如何修复Windows 11/10中无法检测到TPM错误问题</u></a></li>
+<li><a href="https://win-premium.techidaily.com/best-disk-erasing-applications-top-picks-for-windows-11-10-8-and/"><u>Best Disk Erasing Applications: Top Picks for Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-c67-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme C67 5G</u></a></li>
+<li><a href="https://win-premium.techidaily.com/complete-guide-mastering-system-backups-with-norton-ghost-on-windows-111087/"><u>Complete Guide: Mastering System Backups with Norton Ghost on Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-premium.techidaily.com/freiwillige-schutzstrategien-fur-die-efi-partition-zwei-kostenlos-zu-bedienende-optionen/"><u>Freiwillige Schutzstrategien Für Die EFI Partition: Zwei Kostenlos Zu Bedienende Optionen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/gameplay-transformations-roguelikes-vs-roguiles/"><u>Gameplay Transformations Roguelikes Vs. Roguiles</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guia-paso-a-paso-para-realizar-backups-automaticos-en-windows-10-8-o-7/"><u>Guía Paso a Paso Para Realizar Backups Automáticos en Windows 10, 8 O 7</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-turn-on-av1-settings-on-youtube-and-why-you-should-do-it-for-2024/"><u>How to Turn on AV1 Settings on YouTube and Why You Should Do It for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-lg-k92-are-5g-speeds-worth-the-tradeoff/"><u>In-Depth Review of LG K92 - Are 5G Speeds Worth The Tradeoff?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/novice-path-to-prosperity-making-money-on-periscope/"><u>Novice Path to Prosperity Making Money on Periscope</u></a></li>
 </ul></div>
 
