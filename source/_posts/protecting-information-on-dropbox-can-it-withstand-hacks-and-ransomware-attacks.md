@@ -1,7 +1,7 @@
 ---
 title: "Protecting Information on Dropbox: Can It Withstand Hacks and Ransomware Attacks?"
-date: 2024-10-20T17:50:05.245Z
-updated: 2024-10-26T05:02:48.763Z
+date: 2024-10-27T01:19:42.681Z
+updated: 2024-11-01T01:17:07.028Z
 tags:
   - product
   - antivirus
@@ -50,13 +50,20 @@ Files in the cloud are susceptible to a lot of threats. Dropbox, being a cloud s
 
 ![Data Transmission](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/padlock.png "padlock")One concern is transmitting the data over a network during sync. Hackers can [“sniff” data over a network](https://tools.techidaily.com/malwarefox/products/). Sensitive information syncing over a network, especially a public network, is in danger of sniffing. It is notably easier to gather data if there’s a malware installed on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Dropbox implemented several protection in place during the transmission of data. It uses [Secure Sockets Layer (SSL)/Transport Layer Security (TLS)](https://www.ibm.com/support/knowledgecenter/en/SSFKSJ%5F7.1.0/com.ibm.mq.doc/sy10640%5F.htm). It protects the data in transit between Dropbox applications and its servers. SSL/TLS creates a secure “tunnel” which is protected by 128-bit or higher Advanced Encryption Standard (AES) encryption. Hackers who are listening will not decrypt the data over the network.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Protection
@@ -64,10 +71,10 @@ Dropbox implemented several protection in place during the transmission of data.
 ![File Protection](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/document.png "document")So, files in transfer during sync get the security of SSL/TLS. How about files which are already on the servers?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Files in the cloud are encrypted using [256-bit Advanced Encryption Standard (AES)](http://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard). That means the files are not accessible by non-account owners. AES uses sophisticated algorithms to encrypt data using ciphers. Only the secret key can decrypt the files in the server.
@@ -77,6 +84,13 @@ Additionally, users have full control over how they share their files. A person 
 ## Is Dropbox a Good Backup against Ransomware?
 
 ![Is Dropbox a Good Backup against Ransomware?](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/ransomware-1.png "ransomware")Dropbox has been a favorite way to backup files. It is very different from actual backup services. But, its flexibility and syncing capabilities make it an attractive solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Nowadays, ransomware attacks are getting worse. In 2017 alone, ransomware attacks a company [every 40 seconds](https://blog.barkly.com/new-ransomware-trends-2017). Ransomware is becoming a popular choice among hackers as well. Malwarebytes [reports](https://blog.barkly.com/ransomware-statistics-2017) that about 60% of malware payloads from phishing and other attacks are ransomware. Data is an essential asset for an individual or a company. It may also directly affect their financials.
 
@@ -90,18 +104,18 @@ You can [recover your unaffected files](https://www.dropbox.com/help/security/ra
 
 ![What if I Lose My Data?](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/backup-3.png "backup")Data loss is a typical concern even with traditional servers. It is, even more, a concern with cloud storage solutions. Dropbox is no stranger to glitches which caused significant loss of data. Users [reported](http://www.zdnet.com/article/dropbox-sync-glitch-results-in-lost-data-for-some-subscribers/) that hackers delete their files from online accounts and sync devices in 2014\. Apparently, it is caused by errors in code in Dropbox’s Selective Sync app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dropbox has fixed any vulnerabilities which caused data loss. It creates logs in case your file is moved or deleted. You can check this log if your file is missing. Additionally, Dropbox apps notify you of deleted files. You can follow [these suggestions](https://www.dropbox.com/help/security/missing-reappearing-corrupted-files) if you find your files missing.
 
 Moreover, you can still take advantage of the file version history described above. File versioning is also in effect after deleting a file or folder. Take note of the 30-day period. Again, you can [extend this](https://www.dropbox.com/help/security/version-history-overview) depending on your account type. You can quickly [restore and download](https://www.dropbox.com/help/security/recover-deleted-files-folders) missing or deleted files in your account.
 
 [Should I pay Ransom to Malware Creators?](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect your Dropbox Account and Files
 
@@ -116,43 +130,16 @@ Here are some few tips to protect your Dropbox account and files:
 
 [How Secure is Windows 10?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final Thoughts
 
 Dropbox is continuously improving its software architecture and hardware infrastructure. There are hiccups along the way. However, it is safe to consider it as a safe cloud storage option.
 
 You should note that you still need to make extra effort to protect your files. User behavior is the leading cause of most attacks. Knowing what threats to look out for is a good start. Additionally, your security suite should be in place.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9 thoughts on “Is Dropbox Really Safe?”
 
 1. ![](https://secure.gravatar.com/avatar/4f9b4dc723db3c243cfd07e073bbf5fc?s=50&d=mm&r=g)  
 [christian Aubin](http://www.mycercle.net)  
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [June 12, 2018 at 4:04 pm](https://tools.techidaily.com/malwarefox/products/)  
 Excellente analyses et conclusions sérieuses. Nul ne peut plaider sa propre turpitude . A nous de prendre les précautions de base dans la gestion de Dropbox ” User behavior is the leading cause of most attacks”  
@@ -165,6 +152,14 @@ Not only is Dropbox safe for “confidential” files, I think it’s even safer
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 3. ![](https://secure.gravatar.com/avatar/e8e3edfbbb9f1191ff463aeab4e25009?s=50&d=mm&r=g)  
 [Ellie Chau](https://vboxxcloud.com)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [March 6, 2019 at 3:38 pm](https://tools.techidaily.com/malwarefox/products/)  
 Good analysis of Dropbox, unfortunately, user behavior has a lot of influence on what happens to the data. Only if you give more management features to admins can you prevent bad data handling and that is only available for Dropbox Business at a premium price. I suggest taking a look at vBoxxCloud, which gives you plenty of tools to guarantee that your files are always safe.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -175,6 +170,14 @@ I have used Dropbox for many years but I always did so with an understanding tha
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 5. ![](https://secure.gravatar.com/avatar/1f41ca9258b4f9dfb2e25038cb27dfd8?s=50&d=mm&r=g)  
 Tony Ives  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [August 20, 2019 at 1:01 pm](https://tools.techidaily.com/malwarefox/products/)  
 If the DropBox servers are in the US, the FBI can gain access to your files any time it likes without a court order.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -192,13 +195,6 @@ thanks for the best explanation. Dropbox is somehow safe its not a effective cho
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 7. ![](https://secure.gravatar.com/avatar/5f2876d23c3ffdd8b0daef68b10f2948?s=50&d=mm&r=g)  
 Marcelo  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [November 27, 2019 at 7:18 pm](https://tools.techidaily.com/malwarefox/products/)  
 Ok, our files may be accessed by Dropbox for law enforcement of by FBI – I’m really not worried about this kind of access. But can Dropbox use our data for other purposes, as analyzing text and data for statistics, extracting personal preferences (for commercial use), distribute personal pictures and videos, etc?  
@@ -235,18 +231,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-stock-strategies-unveiled-essential-youtube-video-resources/"><u>[New] In 2024, Stock Strategies Unveiled Essential YouTube Video Resources</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-two-screen-titans-is-splitcam-supreme/"><u>[New] In 2024, Two-Screen Titans Is SplitCam Supreme?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-slice-and-tag-the-art-of-chaptering-in-vimeo/"><u>[New] Slice and Tag The Art of Chaptering in Vimeo</u></a></li>
-<li><a href="https://win-premium.techidaily.com/bildsicherung-von-windows-81-3-effiziente-schritte/"><u>Bildsicherung Von Windows 지8.1 : 3 Effiziente Schritte</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-superior-android-file-management-software-beyond-stock-choices/"><u>Exploring Superior Android File Management Software Beyond Stock Choices</u></a></li>
-<li><a href="https://win-premium.techidaily.com/exploring-windows-7s-wbadmin-tool-a-deep-dive-into-the-command-line-interface-and-graphical-user-experience/"><u>Exploring Windows 7'S WBadmin Tool: A Deep Dive Into the Command Line Interface & Graphical User Experience</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/healed-instagram-glitchy-moment/"><u>Healed: Instagram Glitchy Moment</u></a></li>
-<li><a href="https://facebook.techidaily.com/leading-the-pack-the-finest-10-free-social-account-aides/"><u>Leading the Pack: The Finest 10 Free Social Account Aides</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximize-value-top-5-tips-for-getting-more-from-your-hulu-subscription/"><u>Maximize Value: Top 5 Tips for Getting More From Your Hulu Subscription</u></a></li>
-<li><a href="https://win-premium.techidaily.com/solving-the-mystery-of-converted-usb-directories-removing-malicious-executable-errors/"><u>Solving the Mystery of Converted USB Directories – Removing Malicious Executable Errors</u></a></li>
-<li><a href="https://win-premium.techidaily.com/top-14-failsafe-strategies-for-resolving-the-windows-10-black-desktop-and-cursor-issue/"><u>Top 14 Failsafe Strategies for Resolving the Windows 10 Black Desktop & Cursor Issue</u></a></li>
-<li><a href="https://win-premium.techidaily.com/transfer-your-hard-drive-seamlessly-to-a-new-pc-without-needing-to-reinstall-windows/"><u>Transfer Your Hard Drive Seamlessly to a New PC Without Needing to Reinstall Windows</u></a></li>
-<li><a href="https://win-premium.techidaily.com/trouvez-le-meilleur-ssd-m2-ideal-pour-votre-os-guide-dachat-detaille/"><u>Trouvez Le Meilleur SSD M.2 Idéal Pour Votre OS : Guide D'Achat Détaillé</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtubes-prime-stream-essential-tech-equipment-guide-for-creators/"><u>[New] 2024 Approved YouTube's Prime Stream Essential Tech, Equipment Guide for Creators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syncopating-youtube-melodies-with-visuals/"><u>[New] Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-12-step-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[Updated] The 12-Step YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728486308751-mn-ssd/"><u>【全面指南】您需要知道：M.n SSD突然失效，快速修复方法</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-11-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 11 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-identify-and-eliminate-tracking-cookies-caused-by-adware/"><u>How to Identify & Eliminate Tracking Cookies Caused by Adware</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-make-tiktok-big-head-effect-for-2024/"><u>How to Make TikTok Big Head Effect for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-high-engagement-stories-filters-list/"><u>In 2024, High-Engagement Stories Filters List</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 with a Mask On</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/secure-steps-to-restore-a-disabled-iphone-without-relying-on-your-pc/"><u>Secure Steps to Restore a Disabled iPhone Without Relying on Your PC</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-transferring-information-from-your-iphone-via-usb-cable/"><u>Step-by-Step Guide: Transferring Information From Your iPhone via USB Cable</u></a></li>
 </ul></div>
 
