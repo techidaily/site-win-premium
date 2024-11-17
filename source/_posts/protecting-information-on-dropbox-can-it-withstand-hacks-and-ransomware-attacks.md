@@ -1,7 +1,7 @@
 ---
 title: "Protecting Information on Dropbox: Can It Withstand Hacks and Ransomware Attacks?"
-date: 2024-10-31T16:27:42.595Z
-updated: 2024-11-06T16:05:40.452Z
+date: 2024-11-12T23:46:32.344Z
+updated: 2024-11-16T16:14:40.921Z
 tags:
   - product
   - antivirus
@@ -50,13 +50,6 @@ Files in the cloud are susceptible to a lot of threats. Dropbox, being a cloud s
 
 ![Data Transmission](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/padlock.png "padlock")One concern is transmitting the data over a network during sync. Hackers can [“sniff” data over a network](https://tools.techidaily.com/malwarefox/products/). Sensitive information syncing over a network, especially a public network, is in danger of sniffing. It is notably easier to gather data if there’s a malware installed on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dropbox implemented several protection in place during the transmission of data. It uses [Secure Sockets Layer (SSL)/Transport Layer Security (TLS)](https://www.ibm.com/support/knowledgecenter/en/SSFKSJ%5F7.1.0/com.ibm.mq.doc/sy10640%5F.htm). It protects the data in transit between Dropbox applications and its servers. SSL/TLS creates a secure “tunnel” which is protected by 128-bit or higher Advanced Encryption Standard (AES) encryption. Hackers who are listening will not decrypt the data over the network.
 
 ### File Protection
@@ -71,13 +64,6 @@ Additionally, users have full control over how they share their files. A person 
 
 ![Is Dropbox a Good Backup against Ransomware?](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/ransomware-1.png "ransomware")Dropbox has been a favorite way to backup files. It is very different from actual backup services. But, its flexibility and syncing capabilities make it an attractive solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nowadays, ransomware attacks are getting worse. In 2017 alone, ransomware attacks a company [every 40 seconds](https://blog.barkly.com/new-ransomware-trends-2017). Ransomware is becoming a popular choice among hackers as well. Malwarebytes [reports](https://blog.barkly.com/ransomware-statistics-2017) that about 60% of malware payloads from phishing and other attacks are ransomware. Data is an essential asset for an individual or a company. It may also directly affect their financials.
 
 Could you use Dropbox as a backup? Well, the answer is both a “yes” and a “no.” Dropbox and its applications cannot differentiate between ransomware encrypted files and regular files. It may also sync other malware infected folders and data to the server.
@@ -87,10 +73,16 @@ Luckily, Dropbox keeps older versions of your files. Its servers keep the previo
 You can [recover your unaffected files](https://www.dropbox.com/help/security/ransomware-recovery) from Dropbox easily. However, there a few points to remember. You should know when the infection started. Dropbox syncs any data in its folder and apps whether it is encrypted or not. You should also make sure to clean your system before restoring the files. Additionally, it is a good idea to install and run an anti-malware program such as [MalwareFox](https://tools.techidaily.com/malwarefox/products/). It is to make sure that Dropbox is not syncing any malware on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What if I Lose My Data?
@@ -128,10 +120,10 @@ You should note that you still need to make extra effort to protect your files. 
 [christian Aubin](http://www.mycercle.net)  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [June 12, 2018 at 4:04 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -140,6 +132,13 @@ Excellente analyses et conclusions sérieuses. Nul ne peut plaider sa propre tur
 2. ![](https://secure.gravatar.com/avatar/4937e460f72406dfceb5e3d35711a957?s=50&d=mm&r=g)  
 [Madison Sanders](https://headquarterslist.com/)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [August 1, 2018 at 1:26 am](https://tools.techidaily.com/malwarefox/products/)  
 Not only is Dropbox safe for “confidential” files, I think it’s even safer than the average person’s computer. Or in other words, you’re better off storing your important stuff on Dropbox instead of your own PC. It’s kind of like putting your money in the giant guarded safe at a bank.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -147,10 +146,10 @@ Not only is Dropbox safe for “confidential” files, I think it’s even safer
 [Ellie Chau](https://vboxxcloud.com)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [March 6, 2019 at 3:38 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -158,13 +157,6 @@ Good analysis of Dropbox, unfortunately, user behavior has a lot of influence on
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 4. ![](https://secure.gravatar.com/avatar/24c18588d8814b9c60205595605aedd7?s=50&d=mm&r=g)  
 [Glen Kratochvil](https://www.alaskacomputerguy.com/)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [March 25, 2019 at 7:43 am](https://tools.techidaily.com/malwarefox/products/)  
 I have used Dropbox for many years but I always did so with an understanding that Dropbox could decrypt my files and use them or turn them over to law enforcement if required to do so. That makes it less-than-ideal for anyone who really cares about privacy or has a need for heightened security. Using a third-party encryption tool such as Cryptomator, it is possible to encrypt files on your hard drive before they ever leave your computer and enter the cloud. When using a tool like this, Dropbox never sees the original unencrypted file and, as a result, it is safe for you to use it to store sensitive information such as your password database or protected accounting or business data. Full instructions on how to set it up are available here: <https://www.alaskacomputerguy.com/category/howto/how-to-encrypt-dropbox-folder>  
@@ -184,6 +176,13 @@ thanks for the best explanation. Dropbox is somehow safe its not a effective cho
    * ![](https://secure.gravatar.com/avatar/9896b35eefc122c4e25383b6497bfaa7?s=50&d=mm&r=g)  
    Tom  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [December 14, 2019 at 9:15 pm](https://tools.techidaily.com/malwarefox/products/)  
    Did you read the article?  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -191,10 +190,10 @@ thanks for the best explanation. Dropbox is somehow safe its not a effective cho
 Marcelo  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [November 27, 2019 at 7:18 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -206,6 +205,13 @@ sam
 [March 27, 2020 at 2:24 am](https://tools.techidaily.com/malwarefox/products/)  
 How about if DropBox FINALLY scans the files in their system for AV and malware as just about every other file sharing platform does…..!  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -232,22 +238,14 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-exquisite-selection-idle-games-with-infinite-play/"><u>[New] 2024 Approved Exquisite Selection Idle Games with Infinite Play</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-quick-guide-resolving-obs-skipping-problems/"><u>[New] In 2024, Quick Guide Resolving OBS Skipping Problems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-screencaptureelite-the-5-star-apeaksoft-evaluation/"><u>[Updated] In 2024, ScreenCaptureElite – The 5-Star Apeaksoft Evaluation</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1728495461880-biosuefi/"><u>将BIOS系统升级为UEFI - 改变旧版本的详解指南</u></a></li>
-<li><a href="https://win-premium.techidaily.com/wetransfer/"><u>如何在WeTransfer上找到并删除过期文件</u></a></li>
-<li><a href="https://win-premium.techidaily.com/a-beginners-guide-to-installing-windows-11-on-master-boot-record-drives/"><u>A Beginner's Guide to Installing Windows 11 on Master Boot Record Drives</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-list-of-free-video-intros/"><u>Comprehensive List of Free Video Intros</u></a></li>
-<li><a href="https://win-premium.techidaily.com/definitive-step-by-step-solution-for-addressing-critical-pagekill-memory-issues/"><u>Definitive Step-by-Step Solution for Addressing Critical PageKill Memory Issues</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effiziente-behebung-des-fehlers-xc00000e-in-windows-11-schritt-fur-schritt-anleitungen-und-backup-tipps/"><u>Effiziente Behebung Des Fehlers XC00000E in Windows 11 - Schritt-Für-Schritt Anleitungen Und Backup-Tipps</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-v27-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo V27 Pro Phones</u></a></li>
-<li><a href="https://win-premium.techidaily.com/migrate-from-hdd-to-ssd-on-windows-1011-a-step-by-step-guide/"><u>Migrate From HDD to SSD on Windows 10/11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-vivo-y77t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y77t – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/resolucion-de-errores-recursos-recientes-no-se-visualizan-en-word/"><u>Resolución De Errores - Recursos Recientes No Se Visualizan en Word</u></a></li>
-<li><a href="https://win-premium.techidaily.com/simple-steps-to-recover-a-lost-efi-partition-on-windows-11/"><u>Simple Steps to Recover a Lost EFI Partition on Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-acer-driver-setup-for-windows-10/"><u>Update Acer Driver Setup for Windows 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ideal-selfie-sticks-for-iphone-users/"><u>[New] 2024 Approved Ideal Selfie Sticks for iPhone Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube-for-2024/"><u>[New] From Raw Feedback A Critical Review of Top Video Editors for YouTube for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138571800-9781440137969-both-feet-on-the-spiritual-path/"><u>Both Feet on the Spiritual Path | Free Book</u></a></li>
+<li><a href="https://win-premium.techidaily.com/easy-guide-how-to-seamlessly-migrate-your-pictures-to-iphone-15-and-iphone-14-during-upgrade/"><u>Easy Guide: How to Seamlessly Migrate Your Pictures to iPhone 15 & iPhone 14 During Upgrade</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728466790259-google/"><u>Googleドライブで自動同期するための４手法: 詳細ガイド</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-duration-decoded-a-guide-to-editing-youtube-videos/"><u>In 2024, Duration Decoded A Guide to Editing YouTube Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-10-places-to-find-music-for-podcast-intro-for-2024/"><u>Top 10 Places to Find Music for Podcast Intro for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/troubleshooting-guide-how-to-resolve-incomplete-file-synchronization-on-google-drive-desktop/"><u>Troubleshooting Guide: How to Resolve Incomplete File Synchronization on Google Drive Desktop</u></a></li>
+<li><a href="https://win-premium.techidaily.com/understanding-avi-file-format-comprehensive-guide-and-steps-for-recovering-lost-video/"><u>Understanding AVI File Format: Comprehensive Guide & Steps for Recovering Lost Video</u></a></li>
 </ul></div>
 

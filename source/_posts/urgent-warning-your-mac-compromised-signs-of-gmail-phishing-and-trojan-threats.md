@@ -1,7 +1,7 @@
 ---
 title: "Urgent Warning: Your Mac Compromised - Signs of Gmail Phishing & Trojan Threats"
-date: 2024-11-01T20:46:56.331Z
-updated: 2024-11-06T19:04:47.522Z
+date: 2024-11-09T19:09:22.241Z
+updated: 2024-11-16T23:22:55.892Z
 tags:
   - product
   - antivirus
@@ -30,6 +30,13 @@ That’s right. These messages are not real but merely attention-seeking gimmick
 
 ![Fake Notifications Mac](https://www.malwarefox.com/wp-content/uploads/2024/02/Fake-Notifications-Mac.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Threat Analysis
 
 | **Name**                | Mac Security Notification Alerts                                                                                                                                      |
@@ -40,13 +47,6 @@ That’s right. These messages are not real but merely attention-seeking gimmick
 | **Damage**              | Annoying user Experience                                                                                                                                              |
 | **Removal**             | Scanning Your System through an antivirus/Uninstalling deceptive software/Blocking notifications from random websites                                                 |
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why am I receiving these notifications?
 
 Here’s the truth: these alerts are being dispatched to you through[website push notifications](https://tools.techidaily.com/malwarefox/products/). A dubious website has somehow tricked you into giving it permission to send notifications. Now, it’s abusing that privilege by flooding you with fabricated alarms.
@@ -54,10 +54,10 @@ Here’s the truth: these alerts are being dispatched to you through[website pus
 The masterminds behind this scheme are banking on your fear. They hope you’ll click on the alerts and be transported to their webpage. Once there, they’ll either demand payment or offer you a software download to “fix” a problem that doesn’t exist. It’s a classic scare tactic aimed to dupe you into parting with your money for a service you don’t actually need.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Am I Really Under Threat?
@@ -69,10 +69,10 @@ Manually removing threats may be a time-consuming and difficult task that needs 
 [Download TotalAV](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Remove These Fake Mac Notifications?
@@ -84,10 +84,16 @@ For Safari users, here’s your route: Settings -> Websites -> Notifications. Fr
 ![](https://www.malwarefox.com/wp-content/uploads/2024/02/safari-notifications.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For Chrome users, your path is slightly different: 
@@ -113,20 +119,24 @@ Follow this, and you’ll [get rid of unwanted chrome alerts](https://tools.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-sharing-sites-guide-for-instagram-story-and-post-links/"><u>[New] Sharing Sites Guide for Instagram Story and Post Links</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-top-five-revolutionary-facebook-enhancements-for-2024/"><u>[New] Top Five Revolutionary Facebook Enhancements for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-competing-visions-of-virtual-space-google-against-samsung/"><u>[Updated] Competing Visions of Virtual Space Google Against Samsung</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-diminuendo-techniques-for-digital-ears-for-2024/"><u>[Updated] Diminuendo Techniques for Digital Ears for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-selection-identifying-best-12-vloggers-camera-choices/"><u>[Updated] The Ultimate Selection Identifying Best 12 Vloggers' Camera Choices</u></a></li>
-<li><a href="https://win-premium.techidaily.com/anugerah-terbaik-dalam-klonning-hdd-dengan-usb-kumpulan-tutorial-and-instrumen-bersih-untuk-2024/"><u>Anugerah Terbaik Dalam Klonning HDD Dengan USB: Kumpulan Tutorial & Instrumen Bersih Untuk 2024!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-the-premier-openai-paint-applications/"><u>Discovering the Premier OpenAI Paint Applications</u></a></li>
-<li><a href="https://win-premium.techidaily.com/easy-guide-how-to-seamlessly-migrate-your-pictures-to-iphone-15-and-iphone-14-during-upgrade/"><u>Easy Guide: How to Seamlessly Migrate Your Pictures to iPhone 15 & iPhone 14 During Upgrade</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1728466790259-google/"><u>Googleドライブで自動同期するための４手法: 詳細ガイド</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-configure-your-cloud-storage-as-a-network-drive-on-windows-11-a-step-by-step-guide/"><u>How to Configure Your Cloud Storage as a Network Drive on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quickstart-guide-10-insider-tweaks-for-novice-x-users-formerly-known-as-twitter/"><u>QuickStart Guide: 10 Insider Tweaks for Novice X-Users Formerly Known as Twitter</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-12-catalysts-of-covid-19-misinformation/"><u>The 12 Catalysts of Covid-19 Misinformation</u></a></li>
-<li><a href="https://win-premium.techidaily.com/troubleshooting-guide-how-to-resolve-incomplete-file-synchronization-on-google-drive-desktop/"><u>Troubleshooting Guide: How to Resolve Incomplete File Synchronization on Google Drive Desktop</u></a></li>
-<li><a href="https://win-premium.techidaily.com/understanding-avi-file-format-comprehensive-guide-and-steps-for-recovering-lost-video/"><u>Understanding AVI File Format: Comprehensive Guide & Steps for Recovering Lost Video</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-best-mp4-to-mp3-apps-for-ios-and-android-devices-for-2024/"><u>Updated Best MP4 to MP3 Apps for iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-whats-your-payout-per-view-on-sponsored-content-in-youtube/"><u>[New] 2024 Approved What's Your Payout Per View on Sponsored Content in Youtube?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-becoming-a-trendsetter-youtube-video-tactics-for-2024/"><u>[New] Becoming a Trendsetter YouTube Video Tactics for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-nurturing-a-thriving-community-for-more-insta-views/"><u>[Updated] Nurturing a Thriving Community for More Insta Views</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/comment-configurer-des-sauvegardes-incrementales-simples-sur-windows-server-2012/"><u>Comment Configurer Des Sauvegardes Incrementales Simples Sur Windows Server 2012 ?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728478732635-dropbox3/"><u>Dropboxから消去されたデータの3方法による回復手順</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-video-editing-made-simple-flip-and-rotate-footage-using-handbrake/"><u>Effortless Video Editing Made Simple: Flip and Rotate Footage Using Handbrake</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/fixing-mp4-playback-issues-with-video-absence-in-adobes-premier-editing-software/"><u>Fixing MP4 Playback Issues with Video Absence in Adobe's Premier Editing Software</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-seamlessly-move-ipad-goodnotes-onto-a-pc-the-best-3-techniques-unveiled/"><u>How to Seamlessly Move iPad GoodNotes Onto a PC: The Best 3 Techniques Unveiled</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-11-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/migratez-vos-mails-gmail-sur-un-disque-dur-tranquillisez-vous-numeriquement/"><u>Migratez Vos Mails Gmail Sur Un Disque Dur : Tranquillisez-Vous Numériquement!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/professional-and-family-aomei-onekey-recovery-suite-comprehensive-data-protection-for-all-users/"><u>Professional & Family AOMEI OneKey Recovery Suite: Comprehensive Data Protection for All Users</u></a></li>
+<li><a href="https://win-premium.techidaily.com/resolving-connection-problems-with-your-western-digital-my-passport-ultra-external-drive/"><u>Resolving Connection Problems with Your Western Digital My Passport Ultra External Drive</u></a></li>
+<li><a href="https://win-premium.techidaily.com/tutorial-comprehensif-creer-un-disque-de-reparation-sys-en-windows-11-point-par-point/"><u>Tutorial Compréhensif : Créer Un Disque De Réparation Sys en Windows 11, Point Par Point</u></a></li>
+<li><a href="https://win-premium.techidaily.com/upgrading-your-iphone-easily-resolving-the-persistent-swipe-up-glitch/"><u>Upgrading Your iPhone Easily - Resolving the Persistent 'Swipe Up' Glitch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-update-qualcomm-atheros-driver-compatibility/"><u>Windows 10 Update: Qualcomm Atheros Driver Compatibility</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: How to Eliminate and Prevent Pop-Up Ads in Firefox - Top 4 Methods"
-date: 2024-10-11T06:23:22.523Z
-updated: 2024-10-14T05:15:29.872Z
+date: 2024-11-11T20:31:35.637Z
+updated: 2024-11-16T21:08:33.324Z
 tags:
   - product
   - antivirus
@@ -60,19 +60,6 @@ Choose your content blocking settings from the below one
 2. **Strict –** This mode blocks all the trackers that Firefox finds including known and third-party trackers.
 3. **Custom –** Choose what to block from Trackers, Cookies, Cryptominers, Fingerprinters.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Check Exceptions for Blocker
 
 Sometimes the sites that you trust and are added in the exceptions can also cause pop-ups which you wouldn’t even know about.
@@ -84,10 +71,10 @@ When Firefox is blocking content on a website, a Shield icon will appear in your
 ![Block Pop-ups in Firefox 1-3](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on the Shield icon located between the security padlock icon and site information icon. It provides more information about the content Firefox is blocking, such as trackers or third-party tracking cookies.
@@ -105,10 +92,10 @@ Click the **Menu** button, click on **Add-ons**.
 ![Block Pop-ups in Firefox 2-1](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on the **Disable** button of the add-on that you want to disable.
@@ -118,6 +105,13 @@ Click on the **Disable** button of the add-on that you want to disable.
 Click **Restart** now if it pops up. Your tabs will be saved and restored after the restart.
 
 **Note:** To re-enable the add-on, find it in the list of Add-ons and click Enable, then restart Firefox if required.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to Remove Extensions and Themes**
 
@@ -131,14 +125,14 @@ Click on the **Remove** button of the add-on that you want to remove.
 
 ![Block Pop-ups in Firefox 2-3](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click **Restart** now if it asks you so. Your tabs will be saved and restored after the restart.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 3  – Install Ad Blocker
 
@@ -151,6 +145,13 @@ Thankfully, you can block advertisements using the Mozilla Firefox Web browser w
 Open [**AdBlock Plus**](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/) in Firefox Add-ons store, and click on **Add to Firefox**.
 
 ![Adblock Plus Addon](https://www.malwarefox.com/wp-content/uploads/2019/05/Adblock-Plus-Addon.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then again click on **Add** button. Now the AdBlock Plus add-on will install.
 
@@ -167,10 +168,10 @@ Click on the **Whitelisted websites** in the left sidebar, then enter the URL in
 ![Adblock Plus Addon 4](https://www.malwarefox.com/wp-content/uploads/2019/05/Adblock-Plus-Addon-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Alternatively, you can enable the ads on a particular website you are currently browsing. To do that click on the Adblock Plus add-on then use the **toggle** button to stop blocking the ads on the current website.
@@ -190,13 +191,6 @@ MalwareFox can scan, detects, and removes malware from your machine as well as f
 **Download MalwareFox** and install it on your system. Once it downloads the update and signatures, start the scan process.
 
 [![](https://www.malwarefox.com/wp-content/uploads/2017/10/Updating-MalwareFox.jpg)](https://www.malwarefox.com/wp-content/uploads/2017/10/Updating-MalwareFox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The process is simple, all you have to do is press the scan button, wait for the scan to finish, and choose what to do with the malware that is detected if any is found.
 
@@ -227,22 +221,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-b-roll-wisdom-enhancing-your-cinematic-quality/"><u>[New] B-Roll Wisdom Enhancing Your Cinematic Quality</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-quest-conquerors-best-of-the-role-playing-worlds-for-2024/"><u>[New] Quest Conquerors Best of the Role-Playing Worlds for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-essential-vr-game-development-tools-for-modern-creators/"><u>[Updated] In 2024, Essential VR Game Development Tools for Modern Creators</u></a></li>
-<li><a href="https://win-premium.techidaily.com/25-microsoft-office-licenses-on-windows-and-mac-limited-offer-get-yours-now-from-zdnet/"><u>$25 Microsoft Office Licenses on Windows & Mac: Limited Offer - Get Yours Now From ZDNet!</u></a></li>
-<li><a href="https://win-premium.techidaily.com/chief-ai-officers-advocate-for-inclusion-of-regional-data-structures-to-promote-diversity-zdnet/"><u>Chief AI Officers Advocate for Inclusion of Regional Data Structures to Promote Diversity | ZDNET</u></a></li>
-<li><a href="https://techidaily.com/customizing-content-curation-with-the-help-of-advanced-cookiebot-technologies/"><u>Customizing Content Curation with the Help of Advanced Cookiebot Technologies</u></a></li>
-<li><a href="https://win-premium.techidaily.com/enhance-security-with-microsoft-365s-free-vpn-feature-essential-tips-to-activate-it-according-to-zdnet/"><u>Enhance Security with Microsoft 365'S Free VPN Feature - Essential Tips to Activate It, According to ZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-claim-your-no-cost-windows-10-enhancement-from-microsoft-latest-guide/"><u>How to Claim Your No-Cost Windows 10 Enhancement From Microsoft - Latest Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-clipcutting-masterwin8/"><u>In 2024, ClipCutting MasterWin8</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-samsung-galaxy-a25-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Samsung Galaxy A25 5G Phone that is Locked?</u></a></li>
-<li><a href="https://win-premium.techidaily.com/integrating-microsoft-copilot-into-singapores-legal-systems-what-you-need-to-know-covered-by-zdnet/"><u>Integrating Microsoft Copilot Into Singapore’s Legal Systems: What You Need To Know, Covered by ZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/maximize-lifespan-of-previous-windows-versions-on-new-pcs-top-5-tips-and-hacks-zdnet/"><u>Maximize Lifespan of Previous Windows Versions on New PCs: Top 5 Tips and Hacks | ZDNet</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-art-of-sound-visuals-illustrating-audio-signals-as-waveforms-and-enriching-footage-with-animation-in-adobe-premiere-pro/"><u>New The Art of Sound Visuals Illustrating Audio Signals as Waveforms & Enriching Footage with Animation in Adobe Premiere Pro</u></a></li>
-<li><a href="https://win-premium.techidaily.com/the-paradox-of-microsoft-teams-humor-sarcasm-meets-harsh-insights-zdnet/"><u>The Paradox of Microsoft Teams Humor: Sarcasm Meets Harsh Insights | ZDNet</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unveiling-strategies-for-apples-triumph-over-tech-giants-at-the-upcoming-wwdc-event-exclusive-analysis-by-zdnet/"><u>Unveiling Strategies for Apple's Triumph Over Tech Giants at the Upcoming WWDC Event | Exclusive Analysis by ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-from-still-to-motion-10-top-image-to-video-maker-tools/"><u>Updated From Still to Motion 10 Top Image to Video Maker Tools</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-color-in-final-cut-pro-a-step-by-step-guide-for-2024/"><u>Updated Mastering Color in Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-exquisite-desktop-pcs-the-best-of-the-best/"><u>[New] 2024 Approved Exquisite Desktop PCs The Best of the Best</u></a></li>
+<li><a href="https://win-premium.techidaily.com/descubra-a-mais-eficiente-ferramenta-de-backup-e-sincronizacao-em-tempo-real-gratis-para-windows-pcs/"><u>Descubra a Mais Eficiente Ferramenta De Backup E Sincronização Em Tempo Real Grátis Para Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-and-swift-installation-of-logitech-drivers-on-your-pc/"><u>Easy and Swift Installation of Logitech Drivers on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-ai-note-taking-made-simple-by-chatgpt/"><u>Harness the Power of AI: Note-Taking Made Simple by ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-google-pixel-fold-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Google Pixel Fold.</u></a></li>
+<li><a href="https://win-premium.techidaily.com/logiciels-gratuits-pour-creer-des-images-iso-sur-windows-v11-v10-v8-et-v7/"><u>Logiciels Gratuits Pour Créer Des Images ISO Sur Windows (v11, v10, v8 Et V7)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-your-creative-vision-with-digital-cropting-skills-for-2024/"><u>Master Your Creative Vision with Digital Cropting Skills for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-online-tools-to-create-fake-faces-for-free/"><u>New 2024 Approved Top Online Tools to Create Fake Faces for Free</u></a></li>
+<li><a href="https://win-premium.techidaily.com/overcome-email-errors-in-outlook-a-guide-to-correcting-unrecognized-addresses-using-these-proven-techniques/"><u>Overcome Email Errors in Outlook: A Guide to Correcting Unrecognized Addresses Using These Proven Techniques</u></a></li>
+<li><a href="https://win-premium.techidaily.com/redecouvrez-la-corbeille-disparue-dans-windows-10-et-11-avec-ces-5-conseils-rapides/"><u>Redécouvrez La Corbeille Disparue Dans Windows 10 Et 11 Avec Ces 5 Conseils Rapides !</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-apc-back-ups-be600m1-powerful-portable-surge-protector-with-integrated-mobile-device-charging/"><u>Review of APC Back-UPS BE600M1 - Powerful Portable Surge Protector with Integrated Mobile Device Charging</u></a></li>
+<li><a href="https://win-premium.techidaily.com/revving-up-your-browsing-speed-top-5-tips-to-optimize-chrome-performance/"><u>Revving up Your Browsing Speed: Top 5 Tips to Optimize Chrome Performance</u></a></li>
+<li><a href="https://win-premium.techidaily.com/seamless-upload-of-pictures-onto-the-ios-device/"><u>Seamless Upload of Pictures Onto the iOS Device</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-using-bootable-antivirus-on-a-usb-drive/"><u>Ultimate Guide to Using Bootable Antivirus on a USB Drive</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-ways-to-make-fast-motion-video-on-iphone-solved/"><u>Updated 2024 Approved Top Ways to Make Fast Motion Video on iPhone Solved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vivavideo-uncovered-user-perspectives-and-features/"><u>VivaVideo Uncovered User Perspectives and Features</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728476046753-windows-11/"><u>Windows 11 全面圖書館救援工具 - 無限量的文件修復功能自下載</u></a></li>
 </ul></div>
 
