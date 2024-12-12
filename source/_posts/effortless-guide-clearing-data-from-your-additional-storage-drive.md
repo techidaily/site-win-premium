@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Clearing Data From Your Additional Storage Drive"
-date: 2024-12-02T23:52:59.391Z
-updated: 2024-12-06T08:51:29.022Z
+date: 2024-12-06T08:04:00.834Z
+updated: 2024-12-12T02:18:40.397Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba43bbccdd544fcfb9e3bcdf69.jpg
@@ -28,10 +28,6 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Sommario** 
 
 1. [Introduzione](https://tools.techidaily.com/ubackup/products/)
@@ -48,7 +44,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -58,7 +54,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -81,6 +77,10 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -98,10 +98,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -154,7 +150,7 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -203,6 +199,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -237,6 +237,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -246,10 +250,6 @@ Aiutaci a migliorare questo articolo
 Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
 
@@ -262,7 +262,7 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -280,24 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-how-to-use-telegram-web-step-by-step-guide-for-2024/"><u>[Updated] How To Use Telegram Web Step-By-Step Guide for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-capture-time-bending-reels-with-slow-motion-hacks-on-ig/"><u>[Updated] In 2024, Capture Time-Bending Reels with Slow Motion Hacks on IG</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[Updated] The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
-<li><a href="https://win-premium.techidaily.com/diagnosing-failed-network-interface-issues-expert-analysis-by-yl-software-professionals/"><u>Diagnosing Failed Network Interface Issues: Expert Analysis by YL Software Professionals</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effective-strategies-for-shielding-your-pc-from-harmful-malware-and-viruses-tips-by-yl-computing/"><u>Effective Strategies for Shielding Your PC From Harmful Malware & Viruses - Tips by YL Computing</u></a></li>
-<li><a href="https://win-premium.techidaily.com/exploring-the-influence-of-crypto-assets-effects-on-worldwide-economies-and-stock-exchanges-insights-by-yl-computing/"><u>Exploring the Influence of Crypto Assets: Effects on Worldwide Economies & Stock Exchanges - Insights by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpts-future-foresight-outshining-magazine-astrology/"><u>GPT's Future Foresight: Outshining Magazine Astrology?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ften-to-post-a-guide-to-youtube-video-upload-patterns-for-success-for-2024/"><u>How Often to Post A Guide to YouTube Video Upload Patterns for Success for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-capture-edit-and-share-images-from-your-nintendo-switch-gameplay/"><u>How to Capture, Edit, and Share Images From Your Nintendo Switch Gameplay</u></a></li>
-<li><a href="https://win-premium.techidaily.com/identifying-and-fixing-ram-problems-in-your-pc-with-windows-techguide-by-yl/"><u>Identifying and Fixing RAM Problems in Your PC with Windows - TechGuide by YL</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-civi-3-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Civi 3 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/is-it-possible-to-upgrade-your-laptops-gpu-with-a-new-graphics-card-expert-advice-by-yl-computing/"><u>Is It Possible to Upgrade Your Laptop's GPU with a New Graphics Card? - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://win-premium.techidaily.com/start-your-crypto-journey-easily-with-our-expert-advice-from-yl-software/"><u>Start Your Crypto Journey Easily with Our Expert Advice From YL Software</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-with-a-bang-building-a-youtube-presence-for-2024/"><u>Starting with a Bang Building a YouTube Presence for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-fixing-your-failed-hdd-with-ease-tips-from-yl-computings-experts/"><u>Step-by-Step Guide: Fixing Your Failed HDD with Ease - Tips From YL Computing's Experts</u></a></li>
-<li><a href="https://win-premium.techidaily.com/stunning-jaguar-s-type-desktop-backgrounds-by-yl-computings-premier-design-studio/"><u>Stunning Jaguar S-Type Desktop Backgrounds by YL Computing's Premier Design Studio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-intuitive-bing-experience-via-ai/"><u>The Dawn of Intuitive Bing Experience via AI</u></a></li>
-<li><a href="https://win-premium.techidaily.com/top-apps-and-platforms-for-checking-your-cryptocurrency-wallet-balance-insights-from-yl-computing/"><u>Top Apps & Platforms for Checking Your Cryptocurrency Wallet Balance: Insights From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unleashing-the-power-of-apples-m4-chip-how-wwdc-reveals-the-full-capabilities-of-ipad-pro-and-the-role-of-artifice-intelligence/"><u>Unleashing the Power of Apple's M4 Chip: How WWDC Reveals the Full Capabilities of iPad Pro & The Role of Artifice Intelligence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-futures-best-on-display-premium-video-cameras-in-2-written-by-michael-a-risley/"><u>[Updated] Future's Best on Display Premium Video Cameras in 2 Written by Michael A. Risley</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-pick-prime-drone-gimbals/"><u>2024 Approved Expert Pick Prime Drone Gimbals</u></a></li>
+<li><a href="https://win-premium.techidaily.com/creating-additional-storage-how-to-set-up-a-new-folder-in-the-control-panel-advice-by-yl-software-experts/"><u>Creating Additional Storage: How To Set Up A New Folder in the Control Panel – Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-premium.techidaily.com/decoding-blue-screen-of-death-issues-with-expert-advice-by-yl-software-specialists/"><u>Decoding Blue Screen of Death Issues with Expert Advice by YL Software Specialists</u></a></li>
+<li><a href="https://win-premium.techidaily.com/diagnosing-the-source-of-distinctive-clicking-sounds-from-your-hard-drive-expert-advice-by-yl-computing/"><u>Diagnosing the Source of Distinctive Clicking Sounds From Your Hard Drive - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-web.techidaily.com/effortless-techniques-for-capturing-high-quality-tidal-sounds/"><u>Effortless Techniques for Capturing High-Quality Tidal Sounds</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/freetest-mp4-player-fur-windows-11-and-mac-kostenlose-download/"><u>Freetest MP4 Player Für Windows 11 & Mac, Kostenlose Download</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-cool-down-an-overheating-gpu-expert-tips-and-tricks-yl-computing/"><u>How to Cool Down an Overheating GPU: Expert Tips & Tricks - YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-flip-and-flash-unveiling-the-power-of-instagrams-angled-photos/"><u>In 2024, Flip and Flash Unveiling the Power of Instagram's Angled Photos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-strategic-interaction-for-sustainable-subscriber-acquisition/"><u>In 2024, Strategic Interaction for Sustainable Subscriber Acquisition</u></a></li>
+<li><a href="https://win-premium.techidaily.com/maximizing-profits-with-crypto-arbitrage-a-beginners-guide-by-yl-computing/"><u>Maximizing Profits with Crypto Arbitrage: A Beginner's Guide by YL Computing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-printing-overcome-windows-11-issues/"><u>Revive Printing: Overcome Windows 11 Issues</u></a></li>
+<li><a href="https://win-premium.techidaily.com/scheduling-your-security-checks-determining-the-right-interval-for-manual-windows-defender-scans-tips-from-yl-software-expertise/"><u>Scheduling Your Security Checks: Determining the Right Interval for Manual Windows Defender Scans - Tips From YL Software Expertise</u></a></li>
+<li><a href="https://win-premium.techidaily.com/step-by-step-guide-reducing-graphics-configurations-in-your-system-tips-from-yl-computing/"><u>Step-by-Step Guide: Reducing Graphics Configurations in Your System - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-professional-notebook-a-detailed-review-of-hp-zbook-firefly-15-g8/"><u>The Ultimate Professional Notebook: A Detailed Review of HP ZBook Firefly 15 G8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-psn-crashes-top-troubleshooting-steps/"><u>Ultimate Guide: Solving PSN Crashes - Top Troubleshooting Steps</u></a></li>
+<li><a href="https://win-premium.techidaily.com/understanding-bitcoin-storage-an-insight-into-cryptocurrency-wallets-the-yl-computing-expert-guide/"><u>Understanding Bitcoin Storage: An Insight Into Cryptocurrency Wallets - The YL Computing Expert Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Connect an External Hard Drive to a Windows 11 PC: A Step-by-Step Guide"
-date: 2024-11-30T05:42:34.907Z
-updated: 2024-12-06T01:06:12.893Z
+date: 2024-12-04T17:08:31.555Z
+updated: 2024-12-12T06:46:24.402Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a663fa0800cea00c3335313c9.png
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solved: Winload. efi Missing in Windows 11 | 2024
@@ -28,13 +28,13 @@ Encounter the "winload.efi is missing or contains errors" error during computer 
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -64,6 +64,10 @@ If you meet similar problems that you can’t find winload.efi, you have been in
 
 Before we fix the file winload.efi missing error, let’s explore the causes that may lie with it:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What caused winload.efi missing error?
 
 Causes of "winload.efi missing or contains error after clone" issues:
@@ -78,10 +82,6 @@ Causes of "winload.efi missing or contains error after clone" issues:
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Option 1\. Use the Boot Repair Tool
 
 **[AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)** stands out as a powerful and user-friendly tool. With the ability to create bootable devices, you can boot to your system when misfortunate happens and operate as normal, including executing backup and restore operations and repair your corrupted or missing winload efi files.
@@ -89,10 +89,6 @@ The "winload.efi missing" error happens when the OS can't find or access the win
 Furthermore, AOMEI Backupper proves invaluable in tackling various problems such as system failure, system blue screen, system black screen, hard disk corruption, hard disk conversion, and more. Here I will show you how to create a bootable media using this software:
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best free bootable media creation tool
 
@@ -106,16 +102,12 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
@@ -123,11 +115,7 @@ After creating bootable media (just a few minutes), boot your computer from this
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
@@ -145,12 +133,16 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -248,6 +240,14 @@ You just need to download this software and install it. Open it and navigate to 
 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This post outlines 5 effective methods to address the "Winload.efi missing Windows 11" boot error. Notably, AOMEI Backupper Standard offers user-friendly solutions to create a bootable media and offers system backup solution. When you encounter other computers issues like [Blue Screen on Windows 11](https://tools.techidaily.com/ubackup/products/).
@@ -263,6 +263,10 @@ Was the provided information useful? Your vote is important to us!
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -292,10 +296,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -313,22 +313,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-ultimate-mp4-uploader-for-fb/"><u>[Updated] In 2024, Ultimate MP4 Uploader for FB</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-introduction-for-2024/"><u>[Updated] Introduction for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-srt-mastery-a-detailed-manual-and-tips/"><u>2024 Approved Unlock SRT Mastery A Detailed Manual and Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-no-watermark-free-video-compression-tools-top-picks-for-youtube-and-more/"><u>Best No-Watermark Free Video Compression Tools - Top Picks for YouTube and More</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/countries-participating-in-harvest-festivals/"><u>Countries Participating in Harvest Festivals</u></a></li>
-<li><a href="https://win-premium.techidaily.com/diagnosing-failed-network-interface-issues-expert-analysis-by-yl-software-professionals/"><u>Diagnosing Failed Network Interface Issues: Expert Analysis by YL Software Professionals</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effective-strategies-for-shielding-your-pc-from-harmful-malware-and-viruses-tips-by-yl-computing/"><u>Effective Strategies for Shielding Your PC From Harmful Malware & Viruses - Tips by YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-14-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 14 Apple ID on MacBook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-apowersoft-and-beyond-a-critical-look-at-recording-software/"><u>In 2024, Apowersoft and Beyond A Critical Look at Recording Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-iron-throne-of-sound-best-websites-for-got-ringtone-downloads/"><u>In 2024, The Iron Throne of Sound Best Websites for GoT Ringtone Downloads</u></a></li>
-<li><a href="https://win-premium.techidaily.com/overcoming-game-display-issues-why-your-pc-struggles-with-specific-titles-insights-from-yl-computing/"><u>Overcoming Game Display Issues: Why Your PC Struggles with Specific Titles - Insights From YL Computing</u></a></li>
-<li><a href="https://win-premium.techidaily.com/premium-hd-themes-and-widewall-imagery-for-fans-dive-into-the-world-of-the-promised-neverland-with-yl-software-solutions/"><u>Premium HD Themes & Widewall Imagery for Fans: Dive Into the World of 'The Promised Neverland' With YL Software Solutions</u></a></li>
-<li><a href="https://win-premium.techidaily.com/start-your-crypto-journey-easily-with-our-expert-advice-from-yl-software/"><u>Start Your Crypto Journey Easily with Our Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-fixing-your-failed-hdd-with-ease-tips-from-yl-computings-experts/"><u>Step-by-Step Guide: Fixing Your Failed HDD with Ease - Tips From YL Computing's Experts</u></a></li>
-<li><a href="https://win-premium.techidaily.com/stunning-jaguar-s-type-desktop-backgrounds-by-yl-computings-premier-design-studio/"><u>Stunning Jaguar S-Type Desktop Backgrounds by YL Computing's Premier Design Studio</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-2024-mobile-apps-for-monitoring-severe-weather-conditions/"><u>Top 2024 Mobile Apps for Monitoring Severe Weather Conditions</u></a></li>
-<li><a href="https://win-premium.techidaily.com/top-apps-and-platforms-for-checking-your-cryptocurrency-wallet-balance-insights-from-yl-computing/"><u>Top Apps & Platforms for Checking Your Cryptocurrency Wallet Balance: Insights From YL Computing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-discover-top-6-mac-capture-software-selections/"><u>[New] 2024 Approved Discover Top 6 Mac Capture Software Selections</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-chronocapture-expert-time-lapse-techniques-for-samsung-users-for-2024/"><u>[New] ChronoCapture Expert Time-Lapse Techniques for Samsung Users for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-picture-driven-journey-maker/"><u>[New] Premier Picture-Driven Journey Maker</u></a></li>
+<li><a href="https://win-premium.techidaily.com/accelerate-your-pcs-performance-top-strategies-from-yl-computing/"><u>Accelerate Your PC's Performance: Top Strategies From YL Computing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/avoiding-mishaps-tips-to-enhance-google-meet-chats-for-2024/"><u>Avoiding Mishaps Tips to Enhance Google Meet Chats for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/boost-your-computers-velocity-with-our-guide-on-expanding-free-disk-space-yl-software-insights/"><u>Boost Your Computer's Velocity with Our Guide on Expanding Free Disk Space, YL Software Insights</u></a></li>
+<li><a href="https://win-premium.techidaily.com/decoding-malware-detection-capabilities-of-windows-defender-with-expertise-from-yl-software-solutions/"><u>Decoding Malware Detection Capabilities of Windows Defender with Expertise From YL Software Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-pcmobile-tools-for-controlled-image-focus/"><u>Discover PC/Mobile Tools for Controlled Image Focus</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fix-windows-10-ethernet-driver-issues-easily/"><u>Fix Windows 10 Ethernet Driver Issues. Easily!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/microsofts-windows-10-parental-control-features-easily/"><u>Microsoft's Windows 10 Parental Control Features Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguard-digital-assets-block-scrapers/"><u>Safeguard Digital Assets: Block Scrapers</u></a></li>
+<li><a href="https://win-premium.techidaily.com/troubleshooting-pc-crashes-understanding-the-causes-behind-windows-blue-screen-of-death-yl-computing-experts/"><u>Troubleshooting PC Crashes: Understanding the Causes Behind Windows' 'Blue Screen of Death' - YL Computing Experts</u></a></li>
+<li><a href="https://win-premium.techidaily.com/troubleshooting-silent-speakers-a-guide-by-yl-computing-understanding-the-quiet-problem/"><u>Troubleshooting Silent Speakers: A Guide by YL Computing - Understanding the Quiet Problem</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-selection-leading-wireless-computer-mice/"><u>Ultimate Selection: Leading Wireless Computer Mice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-clip-maker/"><u>Youtube Clip Maker</u></a></li>
 </ul></div>
 
