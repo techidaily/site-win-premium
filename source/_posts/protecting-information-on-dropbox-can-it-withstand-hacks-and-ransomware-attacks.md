@@ -1,7 +1,7 @@
 ---
 title: "Protecting Information on Dropbox: Can It Withstand Hacks and Ransomware Attacks?"
-date: 2024-12-09T22:27:19.970Z
-updated: 2024-12-11T19:37:02.304Z
+date: 2024-12-15T17:14:55.570Z
+updated: 2024-12-18T17:16:53.215Z
 tags:
   - product
   - antivirus
@@ -38,6 +38,10 @@ It is a frequent target for hackers because of its popularity. Additionally, Dro
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Dropbox Safe for Confidential Files?
 
 Files in the cloud are susceptible to a lot of threats. Dropbox, being a cloud storage service, does not escape these issues. A concern about file access, whether personal or public, was important during the early versions of Dropbox. However, even today, experts still see data breaches, system vulnerabilities, and shared technology weakness as some of the top security threats for 2018.
@@ -45,13 +49,13 @@ Files in the cloud are susceptible to a lot of threats. Dropbox, being a cloud s
 ![Is Dropbox Really Safe?](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/Is-Dropbox-Really-Safe.jpg "Is Dropbox Really Safe?")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [35 Ransomware Prevention Tips](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Data Transmission
@@ -68,9 +72,17 @@ Files in the cloud are encrypted using [256-bit Advanced Encryption Standard (AE
 
 Additionally, users have full control over how they share their files. A person can access public data on the server with the specific link to the file or folder. That means it will not turn up accidentally in search engines. Moreover, users have the option to implement a [two-step verification](https://www.dropbox.com/help/security/enable-two-step-verification). It further protects accounts from hacking. The extra layer of security guards the entire account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Dropbox a Good Backup against Ransomware?
 
 ![Is Dropbox a Good Backup against Ransomware?](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/ransomware-1.png "ransomware")Dropbox has been a favorite way to backup files. It is very different from actual backup services. But, its flexibility and syncing capabilities make it an attractive solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Nowadays, ransomware attacks are getting worse. In 2017 alone, ransomware attacks a company [every 40 seconds](https://blog.barkly.com/new-ransomware-trends-2017). Ransomware is becoming a popular choice among hackers as well. Malwarebytes [reports](https://blog.barkly.com/ransomware-statistics-2017) that about 60% of malware payloads from phishing and other attacks are ransomware. Data is an essential asset for an individual or a company. It may also directly affect their financials.
 
@@ -84,10 +96,6 @@ You can [recover your unaffected files](https://www.dropbox.com/help/security/ra
 
 ![What if I Lose My Data?](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/backup-3.png "backup")Data loss is a typical concern even with traditional servers. It is, even more, a concern with cloud storage solutions. Dropbox is no stranger to glitches which caused significant loss of data. Users [reported](http://www.zdnet.com/article/dropbox-sync-glitch-results-in-lost-data-for-some-subscribers/) that hackers delete their files from online accounts and sync devices in 2014\. Apparently, it is caused by errors in code in Dropbox’s Selective Sync app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dropbox has fixed any vulnerabilities which caused data loss. It creates logs in case your file is moved or deleted. You can check this log if your file is missing. Additionally, Dropbox apps notify you of deleted files. You can follow [these suggestions](https://www.dropbox.com/help/security/missing-reappearing-corrupted-files) if you find your files missing.
 
 Moreover, you can still take advantage of the file version history described above. File versioning is also in effect after deleting a file or folder. Take note of the 30-day period. Again, you can [extend this](https://www.dropbox.com/help/security/version-history-overview) depending on your account type. You can quickly [restore and download](https://www.dropbox.com/help/security/recover-deleted-files-folders) missing or deleted files in your account.
@@ -95,7 +103,7 @@ Moreover, you can still take advantage of the file version history described abo
 [Should I pay Ransom to Malware Creators?](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect your Dropbox Account and Files
@@ -118,17 +126,13 @@ Dropbox is continuously improving its software architecture and hardware infrast
 You should note that you still need to make extra effort to protect your files. User behavior is the leading cause of most attacks. Knowing what threats to look out for is a good start. Additionally, your security suite should be in place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9 thoughts on “Is Dropbox Really Safe?”
 
 1. ![](https://secure.gravatar.com/avatar/4f9b4dc723db3c243cfd07e073bbf5fc?s=50&d=mm&r=g)  
 [christian Aubin](http://www.mycercle.net)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [June 12, 2018 at 4:04 pm](https://tools.techidaily.com/malwarefox/products/)  
 Excellente analyses et conclusions sérieuses. Nul ne peut plaider sa propre turpitude . A nous de prendre les précautions de base dans la gestion de Dropbox ” User behavior is the leading cause of most attacks”  
@@ -160,10 +164,6 @@ If the DropBox servers are in the US, the FBI can gain access to your files any 
 6. ![](https://secure.gravatar.com/avatar/69349201e2db8727ea8116f64a75ba94?s=50&d=mm&r=g)  
 stoneFly  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [October 16, 2019 at 1:26 pm](https://tools.techidaily.com/malwarefox/products/)  
 thanks for the best explanation. Dropbox is somehow safe its not a effective choice to protect your data from ransomware attacks.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -182,13 +182,13 @@ Ok, our files may be accessed by Dropbox for law enforcement of by FBI – I’m
 8. ![](https://secure.gravatar.com/avatar/3f6a9c0f4d6d5abb8d7f40181f645eb5?s=50&d=mm&r=g)  
 sam  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [March 27, 2020 at 2:24 am](https://tools.techidaily.com/malwarefox/products/)  
 How about if DropBox FINALLY scans the files in their system for AV and malware as just about every other file sharing platform does…..!  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -215,19 +215,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-strategic-lines-for-striking-iphone-photography/"><u>[New] Strategic Lines for Striking iPhone Photography</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-how-to-create-effective-intro-videos-for-your-podcasts/"><u>[Updated] 2024 Approved How to Create Effective Intro Videos for Your Podcasts</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1-setting-up-family-safety-features-a-guide-to-parental-controls-in-your-pc-yl-computings-expert-tips/"><u>1. Setting Up Family Safety Features: A Guide to Parental Controls in Your PC - YL Computing's Expert Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-11-cutting-edge-techniques-for-optimizing-your-fb-videos/"><u>2024 Approved 11 Cutting-Edge Techniques for Optimizing Your FB Videos</u></a></li>
-<li><a href="https://win-premium.techidaily.com/effective-techniques-for-refreshing-your-pcs-sound-card-drivers/"><u>Effective Techniques for Refreshing Your PC's Sound Card Drivers</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-avs-video-editor-2023-is-it-worth-the-hype/"><u>New AVS Video Editor 2023 Is It Worth the Hype?</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-infinite-scrolling-problems-excel-tips-windows/"><u>Resolve Infinite Scrolling Problems: Excel Tips (Windows)</u></a></li>
-<li><a href="https://win-premium.techidaily.com/resolving-windows-update-issues-expert-solutions-from-yl-computing/"><u>Resolving Windows Update Issues: Expert Solutions From YL Computing</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-checking-your-pcs-ram-insights-from-yl-computing/"><u>Step-by-Step Guide: Checking Your PC's RAM - Insights From YL Computing</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-modifying-mouse-preferences-through-the-control-panel-with-yl-computing-solutions/"><u>Step-by-Step Guide: Modifying Mouse Preferences Through the Control Panel with YL Computing Solutions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-5-mac-video-tools-beyond-standard-bandicam-for-2024/"><u>Top 5 Mac Video Tools Beyond Standard Bandicam for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-scripts-across-all-eight-film-categories/"><u>Top Scripts Across All Eight Film Categories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitterscape-treasury-your-one-stop-shop-for-tweeted-gifs-for-2024/"><u>Twitterscape Treasury Your One-Stop Shop for Tweeted GIFs for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unlocking-jpg-files-on-windows-a-comprehensive-how-to-by-yl-software-professionals/"><u>Unlocking JPG Files on Windows: A Comprehensive How-To by YL Software Professionals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-direct-download-of-video-to-mp3-from-vimeo/"><u>[New] 2024 Approved Direct Download of Video to MP3 From Vimeo</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-full-course-on-becoming-a-yt-creator-expert/"><u>[New] 2024 Approved The Full Course on Becoming a YT Creator Expert</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-expert-blueprint-optimizing-your-experience-with-mobizen-recorders/"><u>[New] In 2024, Expert Blueprint Optimizing Your Experience with Mobizen Recorders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-chapter-tactics-to-complement-your-youtube-presentations/"><u>[Updated] 2024 Approved Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations</u></a></li>
+<li><a href="https://win-premium.techidaily.com/windows-11gpt/"><u>「Windows 11でGPTパーティションを回復する」ガイド</u></a></li>
+<li><a href="https://win-premium.techidaily.com/5lih5lia5peg5osp5lit5yi75b2v56gs55uy6kplusl5aac5l2v5ase55cg77yf57kplus6ycj5lij56en566a5y2v5pyj5pwi55qe5pa55bypiq/"><u>万一无意中刻录硬盘该如何处理？精选三种简单有效的方式!</u></a></li>
+<li><a href="https://win-premium.techidaily.com/56gs56kf5bsp6kej6yg6zu36yed77ya5aac5l2v5lplusd6k236yen6kab6loh5paz5lin6kkr5rai5asx/"><u>硬碟崩解避雷針：如何保護重要資料不被消失</u></a></li>
+<li><a href="https://win-premium.techidaily.com/como-restaurar-archivos-desaparecidos-irreversiblemente-en-windows-tecnicas-esenciales/"><u>Cómo Restaurar Archivos Desaparecidos Irreversiblemente en Windows: Técnicas Esenciales</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effective-techniques-for-cleaning-up-and-deleting-desktop-links-on-windows-and-mac-os/"><u>Effective Techniques for Cleaning Up and Deleting Desktop Links on Windows and Mac OS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/future-proof-your-internet-the-top-cable-modemrouter-combos-to-get/"><u>Future-Proof Your Internet: The Top Cable Modem/Router Combos to Get</u></a></li>
+<li><a href="https://win-premium.techidaily.com/guide-simple-et-sur-pour-la-cloner-du-systeme-windows-7-avec-gparted/"><u>Guide Simple Et Sûr Pour La Cloner Du Système Windows 7 Avec Gparted</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/new-era-of-tech-synergy-maximizing-profits-with-chatgpt-and-whisper-apis/"><u>New Era of Tech Synergy: Maximizing Profits with ChatGPT and Whisper APIs</u></a></li>
+<li><a href="https://win-premium.techidaily.com/recover-verlorene-informationen-auf-ihrem-pc-top-5-strategien-fur-windows-11/"><u>Recover Verlorene Informationen Auf Ihrem PC: Top-5 Strategien Für Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-tips-for-troubleshooting-your-wi-fi-adapters-error-notifications/"><u>Top 10 Tips for Troubleshooting Your Wi-Fi Adapter's Error Notifications</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-mastery-of-the-toshiba-recovery-disk-creator-in-depth-expert-guide/"><u>Ultimate Mastery of the Toshiba Recovery Disk Creator: In-Depth Expert Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728499229252-windows-11-ssd/"><u>Windows 11 SSDへのインストール手順</u></a></li>
 </ul></div>
 
