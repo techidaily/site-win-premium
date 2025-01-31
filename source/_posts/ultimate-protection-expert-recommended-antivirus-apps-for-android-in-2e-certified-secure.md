@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Protection: Expert-Recommended Antivirus Apps for Android in 2E, Certified Secure"
-date: 2025-01-14T01:18:07.066Z
-updated: 2025-01-17T22:53:18.486Z
+date: 2025-01-30T17:44:23.348Z
+updated: 2025-01-31T18:06:48.202Z
 tags:
   - product
   - antivirus
@@ -48,15 +48,15 @@ Still, we often tend to neglect the device security associated with smartphones.
 
 Below is the list of best Android antivirus in the year 2020\. Choose one which suits best to your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ⭐ MalwareFox Antimalware
 
 ![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2019/02/MalwareFox-Antimalware.png)
 
 MalwareFox is a lightweight antimalware for Android devices. It works on the heuristic approach to detecting malicious apps from your phone. This app prevents malware, spyware, and [phishing attacks](https://tools.techidaily.com/malwarefox/products/).  MalwareFox lacks fancy features, but it does the job of protecting your device from malware perfectly .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of MalwareFox Antimalware
 
@@ -68,10 +68,6 @@ MalwareFox is a lightweight antimalware for Android devices. It works on the heu
 
 [Go to Top](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avast Antivirus
 
 ![Avast Antivirus - Best Android Antiviruses](https://www.malwarefox.com/wp-content/uploads/2019/02/Avast-Antivirus.png)
@@ -81,10 +77,6 @@ Avast Antivirus for Android is a feature-rich app that has several useful functi
 There is also some impressive performance improving features, including a junk cleaner to free up storage space and a ‘RAM boost’, which intends to speed up your device.
 
 Previously, the app uses to be paid, but now it comes free of cost. However, you would have to deal with continuous ads if you want the service at no charge. You can also opt for the paid version to get rid of them. Additionally, the paid version also provides an app lock that asks you to input a pin before opening any app. The feature comes handy if malware tries to open sensitive applications like a banking app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Avast Antivirus for Android
 
@@ -97,10 +89,6 @@ Previously, the app uses to be paid, but now it comes free of cost. However, you
 
 ![Bitdefender Mobile Security](https://www.malwarefox.com/wp-content/uploads/2019/02/Bitdefender-Mobile-Security.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Bitdefender Mobile Security offers supreme protection against complete spread malware and viruses. It smacks a 99.99% protection score on independent antivirus tests such as AV-Test.org.
 
 The app provides you real-time protection on the Chrome web browser. Additionally, there is an autopilot feature that suggests favorable security actions according to your usage pattern. One part I liked the most is the privacy advisor tool that adds a layer of security using the wear on. It will alert you if you leave your phone behind or someone steals it.
@@ -108,6 +96,10 @@ The app provides you real-time protection on the Chrome web browser. Additionall
 Some more noteworthy features include the bundled VPN. However, it only allows you to browse 200 MB data per day. You also get the antitheft feature enabling you to wipe and lock your device if someone steals it.
 
 The application provides all this stuff at a minimal cost of $1.49 per month. Still, if you aren’t confident about the protection, you can always take a trial run for 14-days.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Bitdefender Mobile Security
 
@@ -117,13 +109,13 @@ The application provides all this stuff at a minimal cost of $1.49 per month. St
 * **Account Privacy** – It helps you to know if your email account has been breached.
 * **WearOn** – It prevents the lost or stolen of Android wear devices with Phone Alert and Scream.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kaspersky Mobile Antivirus
 
 ![Kaspersky Internet Security](https://www.malwarefox.com/wp-content/uploads/2019/02/Kaspersky-Internet-Security.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It is a free tool from the antivirus giant Kaspersky. It scans the apps in your android device and removes the viruses and malware. The free tool has the option of a manual scan. You can hit the scan button when you get suspicious of malware infection.
 
@@ -137,6 +129,10 @@ Still, you can access premium features with in-app purchases if you think you ne
 * **Anti Phishing** – protects your financial information from phishing text messages.
 * **Web Filter** – It hides dangerous links and websites when you browse the internet.
 * **Anti Theft** – helps you locate, lock, or wipe your Android device in a lost or stolen case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sophos Intercept X for Mobile
 
@@ -157,6 +153,10 @@ Other advanced features are Web Filtering, App Protection, Safe Password, WiFi S
 * **WiFi Security** – Assess the security of the WiFi your device is connected.
 * **Secure QR Scanner** – ensures that the URL is not malicious or inappropriate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Norton Security & Antivirus
 
 ![Norton - 10 Best Android Antivirus](https://www.malwarefox.com/wp-content/uploads/2019/02/Norton-Mobile-Security.png)
@@ -166,6 +166,10 @@ Norton Security and Antivirus come in the free and premium version. The free ver
 The premium version comes with 30 days trial offer. It has several advanced features such as Web Protection, Ransomware Protection, Anti-Theft, Sneak Peek, and Privacy Report.
 
 One noteworthy feature is its ability to pick out apps that can be harmful to your device. It scans the app for any malicious permission. Additionally, it can also tell you if an app is harsh on your battery. Surprisingly, it can check for all these elements before installing the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Norton Security & Antivirus
 
@@ -178,13 +182,13 @@ One noteworthy feature is its ability to pick out apps that can be harmful to yo
 
 ![McAfee Mobile Security](https://www.malwarefox.com/wp-content/uploads/2019/02/McAfee-Mobile-Security.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 McAfee Mobile Security also comes in a free and premium version. Its free version protects you from viruses and also guards you against other threats from the internet. It protects you from unsafe WiFi hotspots. McAfee’s free version also comes with the Anti-Theft and Performance Optimization feature.
 
 While the premium version comes with VPN, Safe Web, App Lock, and Guest Mode. You can get rid of the ads by upgrading to the premium version. However, it is a pricey prospect when compared to others in the competition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of McAfee Mobile Security
 
@@ -193,13 +197,13 @@ While the premium version comes with VPN, Safe Web, App Lock, and Guest Mode. Yo
 * **Performance Optimization** – Boost Memory & Battery, remove unwanted files, and track data usage.
 * **Thief Cam** – Locks device and clicks pictures of users after 3 failed attempts to unlock.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AhnLab V3 Mobile Security
 
 ![AhnLab V3 Mobile Security](https://www.malwarefox.com/wp-content/uploads/2019/02/AhnLab-V3-Mobile-Security.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 V3 Mobile Security is a strong antivirus solution for your Android device. It has a high detection rate for malware which AV-Test has certified. This antivirus is designed to consume the lowest CPU and Battery. It comes with Privacy Advisor, Cleaner, and Filter options. The antivirus app also boosts the performance of your phone. It also protects your sensitive media through a hidden gallery.
 
@@ -210,19 +214,11 @@ V3 Mobile Security is a strong antivirus solution for your Android device. It ha
 * **Performance** – Boost the performance of your phone by optimizing memory.
 * **Anti Phishing** – Detects phishing URLs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avira Antivirus Security
 
 ![Avira - Top 10 Android Antivirus 2019](https://www.malwarefox.com/wp-content/uploads/2019/02/Avira-Antivirus-Security.png)
 
 Avira Antivirus Security scans, blocks, and removes viruses and malware from your Android device. It has antitheft features that let you locate and track your stolen devices. It also suggests you on privacy if you install a new app. The App Lock lets you lock some confidential apps. It also protects your camera and mic.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Avira Antivirus Security
 
@@ -231,12 +227,16 @@ Avira Antivirus Security scans, blocks, and removes viruses and malware from you
 * **Anti Theft** – Lets you track your lost devices, locks, and remotely wipe the device in a stolen case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DFNDR Security
 
 ![DFNDR Security - Best Android Antivirus 2019](https://www.malwarefox.com/wp-content/uploads/2019/02/DFNDR-Security.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 DFNDR Security is an antivirus and anti-hacking tool for Android. It scans your device against viruses and infected apps. An Anti-hacking tool warns you of possible phishing attempts through spam messages. It also has an app lock tool. This app also boosts the performance of your device. It cleans the junk files and cache to free up storage. Not only this, but it also checks the speeds of your internet speed. The antitheft feature takes a picture of an intruder or thief.
 
@@ -273,24 +273,14 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-4k-display-selection-the-creme-de-la-creme-list/"><u>[New] Best 4K Display Selection The Crème De La Crème List</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-best-cameras-for-quality-youtube-content/"><u>[New] In 2024, Best Cameras for Quality YouTube Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-cost-effective-pc-screenshot-wizards-listed/"><u>[Updated] 2024 Approved Cost-Effective PC Screenshot Wizards Listed</u></a></li>
-<li><a href="https://win-premium.techidaily.com/come-espandere-lo-spazio-di-archiviazione-della-tua-ps4-senza-perdere-i-tuoi-giochi/"><u>Come Espandere Lo Spazio Di Archiviazione Della Tua PS4 Senza Perdere I Tuoi Giochi</u></a></li>
-<li><a href="https://win-premium.techidaily.com/comment-corriger-les-pannes-de-registre-sur-windows-11-guide-dexperts/"><u>Comment Corriger Les Pannes De Registre Sur Windows 11 : Guide D'Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/compact-yet-powerful-the-newly-launched-m4-infused-mac-mini-comparable-in-size-to-apple-tv-insights/"><u>Compact Yet Powerful: The Newly Launched M4-Infused Mac Mini, Comparable in Size to Apple TV - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-espnpluss-features-how-the-online-sports-streaming-services-function/"><u>Exploring ESPN+'s Features: How the Online Sports Streaming Services Function</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-pova-5-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Pova 5 to Roku | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-compelling-videos-the-instagram-editors-playbook/"><u>In 2024, Crafting Compelling Videos The Instagram Editor's Playbook</u></a></li>
-<li><a href="https://win-premium.techidaily.com/inkrementelles-daten-sync-auf-windows-11-8-und-7-eine-schritt-fur-schritt-anleitung-zum-herstellen/"><u>Inkrementelles Daten-Sync Auf Windows 11, 8 Und 7: Eine Schritt-Für-Schritt-Anleitung Zum Herstellen</u></a></li>
-<li><a href="https://win-premium.techidaily.com/machten-schijfbeelden-makkelijk-3-gewoontevernietigingsmethoden-voor-windows-11/"><u>Machten Schijfbeelden Makkelijk: 3 Gewoontevernietigingsmethoden Voor Windows 11</u></a></li>
-<li><a href="https://win-premium.techidaily.com/mastering-data-protection-the-complete-guide-to-using-windows-11s-wd-backup-feature/"><u>Mastering Data Protection: The Complete Guide to Using Windows 11'S WD Backup Feature</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-virtual-worlds-compreenas-top-8-metaverse-headgear-for-2024/"><u>Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-getting-rid-of-chrome-adware-with-the-help-of-malwarefox-tool/"><u>Step-by-Step Guide: Getting Rid of Chrome Adware with the Help of MalwareFox Tool</u></a></li>
-<li><a href="https://network-issues.techidaily.com/techniques-to-restore-visual-feedback-systems/"><u>Techniques to Restore Visual Feedback Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-verdict-on-using-bots-for-economic-planning/"><u>The Verdict on Using Bots for Economic Planning</u></a></li>
-<li><a href="https://win-premium.techidaily.com/transformative-pathways-in-sobriety-exploring-the-powerful-principles-of-smart-recovery/"><u>Transformative Pathways in Sobriety: Exploring the Powerful Principles of Smart Recovery</u></a></li>
-<li><a href="https://win-premium.techidaily.com/uberwindet-bootmgr-fehlermeldung-durch-klonvorgang-in-windows-11-erfolgreich-mit-diesen-6-schritten/"><u>Überwindet BOOTMGR-Fehlermeldung Durch Klonvorgang in Windows 11 – Erfolgreich Mit Diesen 6 Schritten</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1728499121335-windows-11-5/"><u>Windows 11 の自動アップデートが行われないようにする:効果的な方法5点</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-proficient-content-tagging-made-simple-the-best-7-budget-friendly-online-taggification-apps-reviewed-for-2024/"><u>[Updated] Proficient Content Tagging Made Simple The Best 7 Budget-Friendly Online Taggification Apps Reviewed for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/6app-2024/"><u>6款最佳免費去除水印的繪圖工具/APP - 2024年選擇指南</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-watch-connectivity-explored-the-benefits-of-gps-and-cellular-variants/"><u>Apple Watch Connectivity Explored: The Benefits of GPS and Cellular Variants</u></a></li>
+<li><a href="https://win-premium.techidaily.com/como-replicar-el-disco-duro-del-sistema-en-windows-server-2016-procedimientos-y-consejos/"><u>Cómo Replicar El Disco Duro Del Sistema en Windows Server 2016: Procedimientos Y Consejos</u></a></li>
+<li><a href="https://win-premium.techidaily.com/easy-steps-to-recover-deleted-or-missing-drives-on-any-version-of-windows/"><u>Easy Steps to Recover Deleted or Missing Drives on Any Version of Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-black-screen-error-on-your-google-chrome-proven-methods/"><u>Fixing the 'Black Screen' Error on Your Google Chrome: Proven Methods</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ios-app-installation-issue-resolved-overcoming-the-estimation-of-time-hiccup/"><u>IOS App Installation Issue Resolved: Overcoming the 'Estimation of Time' Hiccup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/spotlight-on-superiority-top-ten-camera-lens-picks/"><u>Spotlight on Superiority Top Ten Camera Lens Picks</u></a></li>
+<li><a href="https://win-premium.techidaily.com/wiederherstellung-ihrer-daten-hilfe-fur-nutzer-deren-dateien-beim-update-auf-windows-10-version-1809-verschwunden-sind/"><u>Wiederherstellung Ihrer Daten - Hilfe Für Nutzer, Deren Dateien Beim Update Auf Windows 10 Version 1809 Verschwunden Sind!</u></a></li>
 </ul></div>
 
